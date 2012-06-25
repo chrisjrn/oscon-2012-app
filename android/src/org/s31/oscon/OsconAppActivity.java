@@ -1,5 +1,7 @@
 package org.s31.oscon;
 
+import org.s31.oscon.schedule.ScheduleStructure;
+
 import android.app.ActionBar;
 import android.app.ActionBar.Tab;
 import android.app.ActionBar.TabListener;
@@ -7,6 +9,7 @@ import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
+import android.util.Log;
 
 public class OsconAppActivity extends Activity {
 	/** Called when the activity is first created. */
@@ -23,11 +26,23 @@ public class OsconAppActivity extends Activity {
 	    actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
 	    actionBar.setDisplayShowTitleEnabled(false);
 
-	    Tab tab = actionBar.newTab()
+	    /* Tab tab = actionBar.newTab()
 	            .setText(" [[ DEFAULT ]] ")
 	            .setTabListener(new SimpleTabListener<ScheduleFragment>(
 	                    this, "default", ScheduleFragment.class));
 	    actionBar.addTab(tab);
+	    */
+	    	    
+	    // Load tabs for Wednesday:
+	    for (ScheduleStructure.TimeSlot i : ScheduleStructure.days.get(2).timeSlots ) {
+	    	Tab tab = actionBar.newTab()
+		            .setText(""+i)
+		            .setTabListener(new SimpleTabListener<ScheduleFragment>(
+		                    this, ""+i, ScheduleFragment.class));
+		    actionBar.addTab(tab);
+		    
+		    //Log.v("OsconAppActivity", ""+ i.startDate.getTimeZone() + "\n" +i.endDate.getTimeZone() + "\n");
+	    }
 		
 	}
 }

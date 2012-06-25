@@ -8,16 +8,23 @@ import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
 
+import android.util.Log;
+
 public class ScheduleStructure {
 
+	public static SimpleDateFormat tabDateFormat ;
+	public static TimeZone confTimeZone ;
+	public static List<Day> days;
+
 	static {
+		confTimeZone = TimeZone.getTimeZone("America/Los_Angeles");
+		tabDateFormat = new SimpleDateFormat("hh:mma",Locale.US);
+		tabDateFormat.setTimeZone(confTimeZone);
+		days = new ArrayList<Day>();
 		buildScheduleStructure();
 	}
 	
-	static SimpleDateFormat tabDateFormat = new SimpleDateFormat("hh:mma",Locale.US);
-	static TimeZone confTimeZone = TimeZone.getTimeZone("Pacific DaylightTime");
 	
-	public static List<Day> days = new ArrayList<Day>();
 	
 	private static void buildScheduleStructure() {
 		
@@ -73,12 +80,12 @@ public class ScheduleStructure {
 		
 	}
 	
-	static class Day {
+	public static class Day {
 		public GregorianCalendar date;
 		public List<TimeSlot> timeSlots;
 		
 		public Day(int year, int month, int day) {
-			date = new GregorianCalendar(confTimeZone,Locale.US);
+			date = new GregorianCalendar(ScheduleStructure.confTimeZone,Locale.US);
 			date.set(year, month, day);
 			timeSlots = new ArrayList<TimeSlot>();
 		}
@@ -88,27 +95,37 @@ public class ScheduleStructure {
 		}
 		
 		public void add(int ... times) {
-			for (int i=0;i < times.length; i+=4) {
+			for (int i=0; i < times.length; i+=4) {
+				//Log.v("ScheduleStructure", "" + date + String.format("%d:%d - %d:%d", times[i], times[i+1], times[i+2], times[i+3]));
 				timeSlots.add(new TimeSlot(date, times[i], times[i+1], times[i+2], times[i+3]));
 			}
 		}
+		
+		public String toString() {
+			return "" + date + " -- " + timeSlots;
+		}
 	}
-	
-	static class TimeSlot {
+
+	public static class TimeSlot {
 		public GregorianCalendar startDate, endDate;
 		
 		public TimeSlot(GregorianCalendar date, int sh, int sm, int eh, int em) {
 			int year = date.get(Calendar.YEAR), month = date.get(Calendar.MONTH), day = date.get(Calendar.DAY_OF_MONTH);
 			// How do we do this properly?
-			startDate = new GregorianCalendar(confTimeZone,Locale.US);
+			startDate = new GregorianCalendar(ScheduleStructure.confTimeZone,Locale.US);
 			startDate.set(year, month, day, sh, sm);
-			endDate = new GregorianCalendar(confTimeZone, Locale.US);
-			startDate.set(year, month, day, eh, em);
+			endDate = new GregorianCalendar(ScheduleStructure.confTimeZone, Locale.US);
+			endDate.set(year, month, day, eh, em);
 		}
 		
 		public String toString() {
-			return String.format("%s -- %s", tabDateFormat.format(startDate.getTime()), tabDateFormat.format(endDate.getTime()));
+			return String.format("%s -- %s", ScheduleStructure.tabDateFormat.format(startDate.getTime()), 
+					ScheduleStructure.tabDateFormat.format(endDate.getTime()));
+			//return startDate.toString() + " -- " + endDate.toString();
 		}
 	}
-	
+
+
+
 }
+
