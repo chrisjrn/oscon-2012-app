@@ -34,14 +34,18 @@ public class OsconAppActivity extends Activity {
 	    */
 	    	    
 	    // Load tabs for Wednesday:
-	    for (ScheduleStructure.TimeSlot i : ScheduleStructure.days.get(2).timeSlots ) {
+	    int j = 0;
+	    for (ScheduleStructure.TimeSlot i : ScheduleStructure.days.get(0).timeSlots ) {
+	    	Bundle args = new Bundle();
+	    	args.putInt("day", 0);
+	    	args.putInt("time_slot", j);
 	    	Tab tab = actionBar.newTab()
 		            .setText(""+i)
 		            .setTabListener(new SimpleTabListener<ScheduleFragment>(
-		                    this, ""+i, ScheduleFragment.class));
+		                    this, ""+i, ScheduleFragment.class, args));
 		    actionBar.addTab(tab);
 		    
-		    //Log.v("OsconAppActivity", ""+ i.startDate.getTimeZone() + "\n" +i.endDate.getTimeZone() + "\n");
+		    j++;
 	    }
 		
 	}
@@ -53,16 +57,18 @@ class SimpleTabListener<T extends Fragment> implements TabListener {
     private final Activity mActivity;
     private final String mTag;
     private final Class<T> mClass;
+    private final Bundle mArguments;
 
     /** Constructor used each time a new tab is created.
       * @param activity  The host Activity, used to instantiate the fragment
       * @param tag  The identifier tag for the fragment
       * @param clz  The fragment's Class, used to instantiate the fragment
       */
-    public SimpleTabListener(Activity activity, String tag, Class<T> clz) {
+    public SimpleTabListener(Activity activity, String tag, Class<T> clz, Bundle args) {
         mActivity = activity;
         mTag = tag;
         mClass = clz;
+        mArguments = args;
     }
 
     /* The following are each of the ActionBar.TabListener callbacks */
@@ -71,7 +77,7 @@ class SimpleTabListener<T extends Fragment> implements TabListener {
         // Check if the fragment is already initialized
         if (mFragment == null) {
             // If not, instantiate and add it to the activity
-            mFragment = Fragment.instantiate(mActivity, mClass.getName());
+            mFragment = Fragment.instantiate(mActivity, mClass.getName(), mArguments);
             ft.add(android.R.id.content, mFragment, mTag);
         } else {
             // If it exists, simply attach it in order to show it

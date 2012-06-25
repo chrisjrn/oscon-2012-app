@@ -81,12 +81,13 @@ public class ScheduleStructure {
 	}
 	
 	public static class Day {
-		public GregorianCalendar date;
+		public Calendar date;
 		public List<TimeSlot> timeSlots;
 		
 		public Day(int year, int month, int day) {
-			date = new GregorianCalendar(ScheduleStructure.confTimeZone,Locale.US);
-			date.set(year, month, day);
+			date = Calendar.getInstance(ScheduleStructure.confTimeZone,Locale.US);
+			date.setTimeInMillis(0);
+			date.set(year, month - 1, day); // In java, nobody remembers that months are zero-indexed.
 			timeSlots = new ArrayList<TimeSlot>();
 		}
 		
@@ -107,21 +108,24 @@ public class ScheduleStructure {
 	}
 
 	public static class TimeSlot {
-		public GregorianCalendar startDate, endDate;
+		public Calendar startDate, endDate;
 		
-		public TimeSlot(GregorianCalendar date, int sh, int sm, int eh, int em) {
+		public TimeSlot(Calendar date, int sh, int sm, int eh, int em) {
 			int year = date.get(Calendar.YEAR), month = date.get(Calendar.MONTH), day = date.get(Calendar.DAY_OF_MONTH);
 			// How do we do this properly?
-			startDate = new GregorianCalendar(ScheduleStructure.confTimeZone,Locale.US);
-			startDate.set(year, month, day, sh, sm);
-			endDate = new GregorianCalendar(ScheduleStructure.confTimeZone, Locale.US);
-			endDate.set(year, month, day, eh, em);
+			//startDate = Calendar.getInstance(ScheduleStructure.confTimeZone,Locale.US);
+			startDate = (Calendar)date.clone();
+			startDate.set(Calendar.HOUR_OF_DAY, sh);
+			startDate.set(Calendar.MINUTE, sm);
+			
+			endDate = (Calendar)date.clone();
+			endDate.set(Calendar.HOUR_OF_DAY, eh);
+			endDate.set(Calendar.MINUTE, em);
 		}
 		
 		public String toString() {
 			return String.format("%s -- %s", ScheduleStructure.tabDateFormat.format(startDate.getTime()), 
 					ScheduleStructure.tabDateFormat.format(endDate.getTime()));
-			//return startDate.toString() + " -- " + endDate.toString();
 		}
 	}
 

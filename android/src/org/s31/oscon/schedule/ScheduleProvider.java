@@ -194,8 +194,8 @@ public class ScheduleProvider extends ContentProvider {
 		for (Event i : events) {
 			ContentValues v = new ContentValues();
 
-			v.put(ColumnNames.START, i.startDate().getTime());
-			v.put(ColumnNames.END, i.endDate().getTime());
+			v.put(ColumnNames.START, i.startDate().getTimeInMillis());
+			v.put(ColumnNames.END, i.endDate().getTimeInMillis());
 			v.put(ColumnNames.AUTHOR, i.author);
 			v.put(ColumnNames.TITLE, i.title);
 			v.put(ColumnNames.ROOM, i.room);

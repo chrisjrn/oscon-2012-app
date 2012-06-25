@@ -2,8 +2,12 @@ package org.s31.oscon.schedule;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
+import java.util.Scanner;
+
+import android.util.Log;
 
 public class Event extends GsonObject implements Comparable {
 
@@ -16,7 +20,7 @@ public class Event extends GsonObject implements Comparable {
 	public String room;
 	
 	// 2012-07-16 12:30:00-08:00
-	private static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ssZ", Locale.US);
+	private static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.US);
 	
 	@Override
 	public int compareTo(Object arg0) {
@@ -34,24 +38,52 @@ public class Event extends GsonObject implements Comparable {
 		return (b!=0)?b:(c!=0)?c:(d!=0)?d:0;
 	}
 	
-	public Date startDate() {
+	public Calendar startDate() {
 		try {
-			return dateFormat.parse(nicerDate(start));
+			return makeDate(start);
 		} catch (ParseException e) {
 			throw new RuntimeException(e.toString() + e.getStackTrace());
 		}
 	}
 	
-	public Date endDate() {
+	public Calendar endDate() {
 		try {
-			return dateFormat.parse(nicerDate(end));
+			return makeDate(end);
 		} catch (ParseException e) {
 			throw new RuntimeException(e.toString() + e.getStackTrace());
 		}
 	}
+	
+	private Calendar makeDate(String dateString) throws ParseException {
+		Date d = dateFormat.parse(nicerDate(dateString));
+		//Log.v("Event", dateString + " // " + d);
+		Calendar g = Calendar.getInstance(ScheduleStructure.confTimeZone, Locale.US);
+		g.setTimeInMillis(0);
+		//g.setTime(d);
+		g.set(d.getYear() + 1900, d.getMonth(), d.getDate(), d.getHours(), d.getMinutes(), d.getSeconds());
+		//Log.v("Event", dateString + " // " + String.format("%d %d %d %d %d %d", d.getYear() + 1900, d.getMonth(), d.getDate(), d.getHours(), d.getMinutes(), d.getSeconds()));
+		//Log.v("Event", dateString + " // " + g);
+		return g;	
+		
+		/*
+		Calendar g = Calendar.getInstance(ScheduleStructure.confTimeZone, Locale.US);
+		g.setTimeInMillis(0);
+		// 2012-07-16 12:30:00-08:00
+		//Log.v("Event", dateString);
+		Scanner sc = new Scanner(dateString.replace("-", " ").replace(":", " "));
+		g.set(Calendar.YEAR, sc.nextInt(10));
+		g.set(Calendar.MONTH, sc.nextInt(10) - 1);
+		g.set(Calendar.DAY_OF_MONTH, sc.nextInt(10));
+		g.set(Calendar.HOUR_OF_DAY, Integer.parseInt(sc.next(), 10));
+		g.set(Calendar.MINUTE, sc.nextInt());
+		//Log.v("Event", dateString + " // " + g + " // " + g.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US));
+		return g;
+		*/
+	}
+	
 	
 	private String nicerDate(String date) {
 		// Annoying hack because the date string Python gave us isn't acceptable.
-		return date.substring(0,19) + date.substring(19, 25).replace(":", "");
+		return date.substring(0,19); /* + date.substring(19, 25).replace(":", ""); */
 	}
 }

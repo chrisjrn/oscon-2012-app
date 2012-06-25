@@ -1,10 +1,15 @@
 package org.s31.oscon;
 
+import java.util.Calendar;
+import java.util.Locale;
+
 import org.s31.oscon.schedule.ScheduleProvider;
+import org.s31.oscon.schedule.ScheduleStructure;
 
 import android.app.ListFragment;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.SimpleCursorAdapter;
 
@@ -17,12 +22,22 @@ public class ScheduleFragment extends ListFragment {
 		super.onCreate(savedInstanceState);
 		
 		// Something something with arguments
+		Bundle args = getArguments();
+		int day = args.getInt("day", 0);
+		int timeSlot = args.getInt("time_slot", 0);
 		
+		ScheduleStructure.TimeSlot ts = ScheduleStructure.days.get(day).timeSlots.get(timeSlot);
+		Log.v("ScheduleFragment", ""+ ts.startDate + " / " + ts.endDate);
 		
 		// Set the list up.
 		Cursor c = getActivity().getContentResolver().query(ScheduleProvider.CONTENT_URI,
-				ScheduleProvider.defaultProjection, null, null,
+				ScheduleProvider.defaultProjection, ScheduleProvider.ColumnNames.START + ">= ? AND " + ScheduleProvider.ColumnNames.END + " <= ?", new String[] {  ""+ ts.startDate.getTimeInMillis(), ""+ ts.endDate.getTimeInMillis()},
 				"" + ScheduleProvider.ColumnNames.START + " ASC");
+		
+//		Cursor c = getActivity().getContentResolver().query(ScheduleProvider.CONTENT_URI,
+	//			ScheduleProvider.defaultProjection, null, null,
+		//		"" + ScheduleProvider.ColumnNames.START + " ASC");
+
 		SimpleCursorAdapter a = new SimpleCursorAdapter(getActivity(), R.layout.schedule_item, c, new String[] {
 				ScheduleProvider.ColumnNames.TITLE, ScheduleProvider.ColumnNames.AUTHOR, ScheduleProvider.ColumnNames.ROOM, 	
 			}, new int[] {
