@@ -18,6 +18,7 @@ public class Event extends GsonObject implements Comparable {
 	public String rawDescription;
 	public String title;
 	public String room;
+	public String url;
 	
 	// 2012-07-16 12:30:00-08:00
 	private static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.US);

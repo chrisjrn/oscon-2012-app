@@ -15,6 +15,8 @@ public class ScheduleStructure {
 	public static SimpleDateFormat tabDateFormat ;
 	public static TimeZone confTimeZone ;
 	public static List<Day> days;
+	
+	public static String[] dayNames = new String[] {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
 
 	static {
 		confTimeZone = TimeZone.getTimeZone("America/Los_Angeles");

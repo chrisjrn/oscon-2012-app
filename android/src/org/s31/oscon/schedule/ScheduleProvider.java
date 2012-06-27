@@ -1,14 +1,16 @@
 package org.s31.oscon.schedule;
 
 import java.util.List;
-import java.util.Set;
+import java.util.Map.Entry;
 
 import android.content.ContentProvider;
 import android.content.ContentUris;
 import android.content.ContentValues;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.content.UriMatcher;
 import android.database.Cursor;
+import android.database.DatabaseUtils.InsertHelper;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -36,6 +38,7 @@ public class ScheduleProvider extends ContentProvider {
 		public static final String AUTHOR = "author";
 		public static final String TITLE = "title";
 		public static final String ROOM = "room";
+		public static final String URL = "url";
 		public static final String IN_SCHEDULE = "in_schedule";
 		
 		/** This class should not be instantiated. */
@@ -51,6 +54,7 @@ public class ScheduleProvider extends ContentProvider {
 		ColumnNames.AUTHOR,
 		ColumnNames.TITLE,
 		ColumnNames.ROOM,
+		ColumnNames.URL,
 		ColumnNames.IN_SCHEDULE,
 	};
 
@@ -79,6 +83,7 @@ public class ScheduleProvider extends ContentProvider {
 					+ ColumnNames.AUTHOR + " TEXT," 
 					+ ColumnNames.TITLE + " INTEGER,"
 					+ ColumnNames.ROOM + " TEXT,"
+					+ ColumnNames.URL + " TEXT,"
 					+ ColumnNames.IN_SCHEDULE + " INTEGER"
 					+ ");");
 		}
@@ -88,6 +93,7 @@ public class ScheduleProvider extends ContentProvider {
 			Log.e(getClass().getName(),
 					"onUpgrade() called but we've never changed the database version.  This should never happen.");
 			db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME);
+			
 			onCreate(db);
 		}
 	}
@@ -158,6 +164,75 @@ public class ScheduleProvider extends ContentProvider {
 		default:
 			throw new IllegalArgumentException("Unknown URI: " + uri);
 		}
+	}
+
+	@Override
+	public int bulkInsert(Uri uri, ContentValues[] values) {
+		SQLiteDatabase db = mOpenHelper.getWritableDatabase();
+		
+		switch (sUriMatcher.match(uri)) {
+		case URITYPE_ALL:
+			
+			InsertHelper ih = new InsertHelper(db, TABLE_NAME);
+			
+			final int startCol = ih.getColumnIndex(ColumnNames.START);
+			final int endCol = ih.getColumnIndex(ColumnNames.END);
+			final int descriptionCol = ih.getColumnIndex(ColumnNames.DESCRIPTION);
+			final int authorCol = ih.getColumnIndex(ColumnNames.AUTHOR);
+			final int titleCol = ih.getColumnIndex(ColumnNames.TITLE);
+			final int roomCol = ih.getColumnIndex(ColumnNames.ROOM);
+			final int inScheduleCol = ih.getColumnIndex(ColumnNames.IN_SCHEDULE);
+			final int urlCol = ih.getColumnIndex(ColumnNames.URL);
+			
+			int numRows = 0;
+			
+			try {
+				
+				for (int i=0;i<values.length;i++) {
+					ih.prepareForInsert();
+	
+					if (values[i].containsKey(ColumnNames.START)) {
+						ih.bind(startCol, values[i].getAsLong(ColumnNames.START));
+					}
+					if (values[i].containsKey(ColumnNames.END)) {
+						ih.bind(endCol, values[i].getAsLong(ColumnNames.END));
+					}
+					if (values[i].containsKey(ColumnNames.DESCRIPTION)) {
+						ih.bind(descriptionCol, values[i].getAsString(ColumnNames.DESCRIPTION));
+					}
+					if (values[i].containsKey(ColumnNames.AUTHOR)) {
+						ih.bind(authorCol, values[i].getAsString(ColumnNames.AUTHOR));
+					}
+					if (values[i].containsKey(ColumnNames.TITLE)) {
+						ih.bind(titleCol, values[i].getAsString(ColumnNames.TITLE));
+					}
+					if (values[i].containsKey(ColumnNames.ROOM)) {
+						ih.bind(roomCol, values[i].getAsString(ColumnNames.ROOM));
+					}
+					if (values[i].containsKey(ColumnNames.URL)) {
+						ih.bind(urlCol, values[i].getAsString(ColumnNames.URL));
+					}
+					if (values[i].containsKey(ColumnNames.IN_SCHEDULE)) {
+						ih.bind(inScheduleCol, values[i].getAsInteger(ColumnNames.IN_SCHEDULE));
+					}
+					ih.execute();
+					numRows++;
+				}	
+			 } finally {
+				 ih.close();
+			 }
+				
+			if (numRows != values.length)
+				throw new SQLException("Failed to insert row into " + uri);
+			
+			return numRows;
+
+			//break;
+
+		default:
+			throw new IllegalArgumentException("Unknown URI: " + uri);
+		}
+
 	}
 
 	@Override

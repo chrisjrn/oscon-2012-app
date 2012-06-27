@@ -32,7 +32,7 @@ public class Schedule {
 
 		Type collectionType = new TypeToken<ArrayList<Event>>(){}.getType();
 		mSchedule = mGson.fromJson(new InputStreamReader(jsonStream), collectionType);
-		Log.v("Schedule", ""+mSchedule);
+		//Log.v("Schedule", ""+mSchedule);
 	}
 
 }
