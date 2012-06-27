@@ -18,6 +18,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:text="[[ How to Shave Yaks ]]"
+            android:textColor="#FFFFFF"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TextView
@@ -27,7 +28,8 @@
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/schedule_item_title"
             android:text="[[ Fred Fredson (FredCorp Inc.) ]]"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textColor="#FFFFFF"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/schedule_item_date"
@@ -36,7 +38,8 @@
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/schedule_item_author"
             android:text="[[ Monday, 17 August 2012 1:30PM--2:20PM ]]"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textColor="#FFFFFF"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/schedule_item_room"
@@ -45,7 +48,8 @@
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/schedule_item_date"
             android:text="[[ Protland Balrom ]]"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textColor="#FFFFFF"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/schedule_item_description"
@@ -56,6 +60,7 @@
             android:layout_alignParentRight="true"
             android:layout_below="@+id/schedule_item_room"
             android:text="[[ Lorem Ipsum ]]" />
+
     </RelativeLayout>
 
 </ScrollView>

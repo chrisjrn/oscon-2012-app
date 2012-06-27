@@ -33,9 +33,14 @@ public class ScheduleItemFragment extends Fragment {
 	public TextView mRoomView;
 	public TextView mDateView;
 	
-	public static SimpleDateFormat dateAndTime = new SimpleDateFormat("E, d L yyyy hh:mma",Locale.US);
-	public static SimpleDateFormat timeOnly = new SimpleDateFormat("hh:mma",Locale.US);
-
+	public static SimpleDateFormat dateAndTime;
+	public static SimpleDateFormat timeOnly;
+	static {
+		dateAndTime = new SimpleDateFormat("EEE, d LLLLLL yyyy hh:mma",Locale.US);
+		dateAndTime.setTimeZone(ScheduleStructure.confTimeZone);
+		timeOnly = new SimpleDateFormat("hh:mma",Locale.US);
+		timeOnly.setTimeZone(ScheduleStructure.confTimeZone);
+	}
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -57,6 +62,7 @@ public class ScheduleItemFragment extends Fragment {
 
 		mStartDate = Calendar.getInstance(ScheduleStructure.confTimeZone, Locale.US);
 		mStartDate.setTimeInMillis(c.getLong(c.getColumnIndex(ScheduleProvider.ColumnNames.START)));
+		Log.v("ScheduleItemFragment", "TimeZone: " + mStartDate.getTimeZone());
 
 		mEndDate = Calendar.getInstance(ScheduleStructure.confTimeZone, Locale.US);
 		mEndDate.setTimeInMillis(c.getLong(c.getColumnIndex(ScheduleProvider.ColumnNames.END)));
@@ -78,7 +84,7 @@ public class ScheduleItemFragment extends Fragment {
 	public void onViewCreated(View view, Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		//super.onViewCreated(view, savedInstanceState);
-		Log.v("ScheduleItemFragment", "This Got Called");
+
 		mTitleView = ((TextView)view.findViewById(R.id.schedule_item_title));
 		mTitleView.setText(mTitle);
 
