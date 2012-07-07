@@ -6,6 +6,9 @@ import java.util.Locale;
 
 import android.app.Fragment;
 import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.TextView;
 
 public class TalkListingFragment extends Fragment {
@@ -23,23 +26,24 @@ public class TalkListingFragment extends Fragment {
 	public TextView mDescriptionView;
 	public TextView mRoomView;
 	public TextView mDateView;
-	
+
 	// Set up some date formatters so we can display the time.
 	public static SimpleDateFormat dateAndTime;
 	public static SimpleDateFormat timeOnly;
 	static {
 		// Tuesday, 17 July 2012 9:00am
-		dateAndTime = new SimpleDateFormat("EEE, d LLLLLL yyyy hh:mma",Locale.US);
+		dateAndTime = new SimpleDateFormat("EEE, d LLLLLL yyyy hh:mma",
+				Locale.US);
 		dateAndTime.setTimeZone(Config.confTimeZone);
 		// 9:00am
-		timeOnly = new SimpleDateFormat("hh:mma",Locale.US);
+		timeOnly = new SimpleDateFormat("hh:mma", Locale.US);
 		timeOnly.setTimeZone(Config.confTimeZone);
 	}
-	
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
+
 		// Some data that describes a single talk.
 		mTitle = "Android-Fu: Awesome Apps for Ice Cream Sandwich and Beyond";
 		mAuthor = "Paris Buttfield Addison, Christopher Neugebauer, Jon Manning";
@@ -48,11 +52,37 @@ public class TalkListingFragment extends Fragment {
 
 		mStartDate = Calendar.getInstance(Config.confTimeZone, Locale.US);
 		mStartDate.set(2012, 7, 17, 9, 00);
-		
+
 		mEndDate = Calendar.getInstance(Config.confTimeZone, Locale.US);
 		mEndDate.set(2012, 7, 17, 12, 30);
-		
+
 		mUrl = "http://www.oscon.com/oscon2012/public/schedule/detail/24288";
 	}
 
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		return inflater.inflate(R.layout.talk_listing_fragment, null);
+	}
+
+	@Override
+	public void onViewCreated(View view, Bundle savedInstanceState) {
+		
+		mTitleView = ((TextView)view.findViewById(R.id.talk_listing_title));
+		mTitleView.setText(mTitle);
+
+		mAuthorView = ((TextView)view.findViewById(R.id.talk_listing_author));
+		mAuthorView.setText(mAuthor);
+
+		mRoomView = ((TextView)view.findViewById(R.id.talk_listing_room));
+		mRoomView.setText(mRoom);
+		
+		mDateView = ((TextView)view.findViewById(R.id.talk_listing_date));
+		mDateView.setText(String.format("%s--%s", dateAndTime.format(mStartDate.getTime()),timeOnly.format(mEndDate.getTime())));
+
+		mDescriptionView = ((TextView)view.findViewById(R.id.talk_listing_description));
+		mDescriptionView.setText(mDescription);
+
+	}
+			
 }
