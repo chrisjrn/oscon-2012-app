@@ -8,6 +8,7 @@ import java.util.Locale;
 
 public class Event  implements Comparable {
 
+	public int id;
 	public String start;
 	public String end;
 	public String description;
