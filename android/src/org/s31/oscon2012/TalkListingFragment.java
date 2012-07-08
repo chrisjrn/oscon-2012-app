@@ -45,18 +45,19 @@ public class TalkListingFragment extends Fragment {
 		super.onCreate(savedInstanceState);
 
 		// Some data that describes a single talk.
-		mTitle = "Android-Fu: Awesome Apps for Ice Cream Sandwich and Beyond";
-		mAuthor = "Paris Buttfield Addison, Christopher Neugebauer, Jon Manning";
-		mDescription = "In this session you'll learn why you can't consider UX and design an optional extra when designing mobile apps for Android, how to tell an awesome app from a terrible app, and the basics of both designing and coding for the latest and greatest Android platform (Android 4.0 and beyond). Stylish apps aren't just for that other mobile platform, and Android is surprisingly easy to get started with.";
-		mRoom = "Portland 255";
+		
+		int event = getArguments().getInt("event",0);
+		Event e = Schedule.mSchedule.get(event);
+		mTitle = e.title;
+		mAuthor = e.author;
+		mDescription = e.description;
+		mRoom = e.room;
 
-		mStartDate = Calendar.getInstance(Config.confTimeZone, Locale.US);
-		mStartDate.set(2012, 7, 17, 9, 00);
+		mStartDate = e.startDate();
 
-		mEndDate = Calendar.getInstance(Config.confTimeZone, Locale.US);
-		mEndDate.set(2012, 7, 17, 12, 30);
-
-		mUrl = "http://www.oscon.com/oscon2012/public/schedule/detail/24288";
+		mEndDate = e.endDate();
+		
+		mUrl = e.url;
 	}
 
 	@Override

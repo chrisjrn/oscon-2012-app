@@ -40,6 +40,9 @@ public class DayListFragment extends ListFragment {
 	
 	private void launchScheduleForDay(int day) {
 		Intent i = new Intent(this.getActivity(), ScheduleActivity.class);
+		
+		i.putExtra("day", day); // This adds the value to the intent.
+		
 		this.getActivity().startActivity(i);
 	}
 	
