@@ -20,12 +20,15 @@ public class Schedule {
 	public static List<TimeSlot> mTimeSlots;
 	public static List<Event> mSchedule;
 	public static Gson mGson = new Gson();
-	
+
 	static {
 		buildTimeSlots();
 	}
 
 	public static void buildSchedule(Context c) {
+		if (mSchedule != null) {
+			return;
+		}
 		AssetManager a = c.getAssets();
 		InputStream jsonStream = null;
 		try {
@@ -56,7 +59,9 @@ public class Schedule {
 		ArrayList<Event> ev = new ArrayList<Event>();
 		for (Event e : mSchedule) {
 			if (e.title.startsWith("Android-")) {
-				Log.v("Schedule", ""+ start + "\n" + end + "\n" + "\n" + e.startDate() + "\n" + e.endDate());
+				Log.v("Schedule",
+						"" + start + "\n" + end + "\n" + "\n" + e.startDate()
+								+ "\n" + e.endDate());
 			}
 			if (start.compareTo(e.startDate()) <= 0
 					&& end.compareTo(e.endDate()) >= 0) {
@@ -72,23 +77,23 @@ public class Schedule {
 		c.setTimeInMillis(0);
 		return c;
 	}
-	
+
 	public static List<TimeSlot> timeSlotsForDay(int year, int month, int day) {
 		Calendar c = newCalendar();
-		c.set(year,month, day, 0,0,0);
+		c.set(year, month - 1, day, 0, 0, 0);
 		Calendar d = newCalendar();
-		d.set(year,month,day, 23,59,59);
+		d.set(year, month - 1, day, 23, 59, 59);
 
 		ArrayList<TimeSlot> slots = new ArrayList<TimeSlot>();
-		for (TimeSlot t: mTimeSlots) {
+		for (TimeSlot t : mTimeSlots) {
 			if (c.compareTo(t.start) <= 0 && d.compareTo(t.end) >= 0) {
 				slots.add(t);
 			}
 		}
-		
-		//for (TimeSlot s : slots) {
-		//	Log.v("Schedule", ""+s.id + " : " + s.start + " TO " + s.end );
-		//}
+
+		// for (TimeSlot s : slots) {
+		// Log.v("Schedule", ""+s.id + " : " + s.start + " TO " + s.end );
+		// }
 
 		return slots;
 	}
@@ -117,22 +122,24 @@ public class Schedule {
 		int month = 7 - 1; // I HATE JAVA
 		int day = 16;
 		for (int i = 0; i < boundaries.length; i++) {
-			for (int j = 0; j < boundaries[i].length; j+=4) {
+			for (int j = 0; j < boundaries[i].length; j += 4) {
 				c = newCalendar();
 				d = newCalendar();
-				c.set(year, month, day, boundaries[i][j+0], boundaries[i][j+1]);
-				d.set(year, month, day, boundaries[i][j+2], boundaries[i][j+3]);
+				c.set(year, month, day, boundaries[i][j + 0],
+						boundaries[i][j + 1]);
+				d.set(year, month, day, boundaries[i][j + 2],
+						boundaries[i][j + 3]);
 				t.add(new TimeSlot(tsid++, c, d));
 			}
 			day++;
 		}
 
 		Log.v("Schedule", "Time Slots: " + tsid);
-		
-		//for (TimeSlot s : mTimeSlots) {
-		//	Log.v("Schedule", ""+s.id + " : " + s.start + " TO " + s.end );
-		//}
-		
+
+		// for (TimeSlot s : mTimeSlots) {
+		// Log.v("Schedule", ""+s.id + " : " + s.start + " TO " + s.end );
+		// }
+
 	}
 
 }
