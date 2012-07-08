@@ -6,10 +6,9 @@ import java.util.Locale;
 
 import android.app.ActionBar;
 import android.app.Activity;
-import android.app.Fragment;
-import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.MenuItem;
 
@@ -35,31 +34,29 @@ public class ScheduleActivity extends Activity {
 		// A listener is required to make this actually do anything.
 		actionBar.setDisplayHomeAsUpEnabled(true);
 		
-		// Fragments are added to the navigations stack using
-		// FragmentTransactions
-		FragmentTransaction ft = getFragmentManager().beginTransaction();
+		// Turn on the tabs! 
+		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
+        
+		// Set up a ViewPager for tab swiping
+		ViewPager vp = new ViewPager(this);
+        vp.setId(R.id.pager); // More on this later
+        setContentView(vp);
 
+        // Tabs Adapter!
+		TabsAdapter adapter = new TabsAdapter(this, vp);
 		
 		// Generate some parameters for the Schedule fragment -- we want to show the first TimeSlot of the day.
 		int day = getIntent().getIntExtra("day", 0);
 		Log.v("ScheduleActivity", "Loading day: " + day + " // " + (day+16));
 		List<TimeSlot> t = Schedule.timeSlotsForDay(2012, 7, 16 + day);
-		int timeSlot = t.get(0).id;
 		
-		Bundle params = new Bundle();
-		params.putInt("time_slot", timeSlot);
-		
-		// Load an instance of the talk listing fragment
-		Fragment f = Fragment.instantiate(this,
-				ScheduleFragment.class.getName(), params);
-
-		// Add the fragment to the the UI -- using android.R.id.content as the
-		// view container says that we want to use the entirety of the screen to
-		// display our fragment
-		ft.add(android.R.id.content, f, "schedule");
-		
-		// Loads up all of the fragments we added before.
-		ft.commit();
+		// Load tabs for the given day:
+		for (TimeSlot ts : t) {
+			Bundle args = new Bundle();
+			args.putInt("time_slot", ts.id);
+			String title = timeOnly.format(ts.start.getTime()) + "--" + timeOnly.format(ts.end.getTime());
+			adapter.addTab(actionBar.newTab().setText(title), ScheduleFragment.class, args );
+		}
 
 	}
 	
