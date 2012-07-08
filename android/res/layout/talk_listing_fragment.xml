@@ -9,7 +9,17 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="match_parent"
+        >
+         
+        <RelativeLayout
+            android:id="@+id/talk_listing_header_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#770000"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            >
 
         <TextView
             android:id="@+id/talk_listing_title"
@@ -19,7 +29,8 @@
             android:layout_alignParentTop="true"
             android:text="[[ How to Shave Yaks ]]"
             android:textColor="#FFFFFF"
-            android:textAppearance="?android:attr/textAppearanceLarge" />
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/talk_listing_author"
@@ -50,6 +61,7 @@
             android:text="[[ Protland Balrom ]]"
             android:textColor="#FFFFFF"
             android:textAppearance="?android:attr/textAppearanceSmall" />
+        </RelativeLayout>
 
         <TextView
             android:id="@+id/talk_listing_description"
@@ -58,7 +70,9 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true"
             android:layout_alignParentRight="true"
-            android:layout_below="@+id/talk_listing_room"
+            android:layout_below="@+id/talk_listing_header_section"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
             android:text="[[ Lorem Ipsum ]]" />
 
     </RelativeLayout>
