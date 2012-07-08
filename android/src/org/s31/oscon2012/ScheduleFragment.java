@@ -23,8 +23,6 @@ public class ScheduleFragment extends ListFragment {
 	}
 	
 	
-
-	
 	@Override
 	public void onViewCreated(View view, Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
