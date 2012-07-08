@@ -1,6 +1,8 @@
 package org.s31.oscon2012;
 
+import java.text.SimpleDateFormat;
 import java.util.List;
+import java.util.Locale;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -13,6 +15,14 @@ import android.view.MenuItem;
 
 public class ScheduleActivity extends Activity {
 
+	public static SimpleDateFormat timeOnly;
+	static {
+		// 9:00am
+		timeOnly = new SimpleDateFormat("hh:mma", Locale.US);
+		timeOnly.setTimeZone(Config.confTimeZone);
+	}
+
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
