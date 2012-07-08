@@ -5,6 +5,7 @@ import java.util.List;
 import android.app.ListFragment;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -15,12 +16,17 @@ public class ScheduleFragment extends ListFragment {
 	public void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		
-		ScheduleAdapter a = new ScheduleAdapter(getActivity(), 0, getHardcodedEventsList());
+
+		int timeSlot = getArguments().getInt("time_slot", 0);
+		TimeSlot t = Schedule.mTimeSlots.get(timeSlot);
+		Log.v("ScheduleFragment", "Loading timeSlot: " + timeSlot);
+		List<Event> events = Schedule.eventsInDateRange(t.start, t.end);
+
+		ScheduleAdapter a = new ScheduleAdapter(getActivity(), 0, events);
 		setListAdapter(a);
 
 	}
-	
+
 	@Override
 	public void onViewCreated(View view, Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
@@ -36,15 +42,17 @@ public class ScheduleFragment extends ListFragment {
 					long arg3) {
 				showTalkListing(arg2);
 			}
-			
+
 		});
 	}
 
 	public void showTalkListing(int position) {
 		Intent i = new Intent(getActivity(), TalkListingActivity.class);
+		int id = ((Event) getListAdapter().getItem(position)).id;
+		i.putExtra("event", id);
 		getActivity().startActivity(i);
 	}
-	
+
 	// Ignore the man behind the curtain :)
 	public List<Event> getHardcodedEventsList() {
 		List<Event> l = new ArrayList<Event>();

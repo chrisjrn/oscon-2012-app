@@ -1,11 +1,14 @@
 package org.s31.oscon2013;
 
+import java.util.List;
+
 import android.app.ActionBar;
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
 
 public class ScheduleActivity extends Activity {
@@ -26,9 +29,19 @@ public class ScheduleActivity extends Activity {
 		// FragmentTransactions
 		FragmentTransaction ft = getFragmentManager().beginTransaction();
 
+		
+		// Generate some parameters for the Schedule fragment -- we want to show the first TimeSlot of the day.
+		int day = getIntent().getIntExtra("day", 0);
+		Log.v("ScheduleActivity", "Loading day: " + day + " // " + (day+22));
+		List<TimeSlot> t = Schedule.timeSlotsForDay(2013, 7, 22 + day);
+		int timeSlot = t.get(0).id;
+		
+		Bundle params = new Bundle();
+		params.putInt("time_slot", timeSlot);
+		
 		// Load an instance of the talk listing fragment
 		Fragment f = Fragment.instantiate(this,
-				ScheduleFragment.class.getName());
+				ScheduleFragment.class.getName(), params);
 
 		// Add the fragment to the the UI -- using android.R.id.content as the
 		// view container says that we want to use the entirety of the screen to

@@ -28,8 +28,9 @@ public class TalkListingActivity extends Activity {
 		FragmentTransaction ft = getFragmentManager().beginTransaction();
 
 		// Load an instance of the talk listing fragment
+		// Pass the extras through as arguments to the fragment
 		Fragment f = Fragment.instantiate(this,
-				TalkListingFragment.class.getName());
+				TalkListingFragment.class.getName(), getIntent().getExtras());
 
 		// Add the fragment to the the UI -- using android.R.id.content as the
 		// view container says that we want to use the entirety of the screen to
