@@ -18,8 +18,13 @@ public class Event  implements Comparable {
 	public String room;
 	public String url;
 	
+	private Calendar mStartDate = null, mEndDate = null;
+	
 	// 2012-07-16 12:30:00-08:00
 	private static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.US);
+	static {
+		dateFormat.setTimeZone(Config.confTimeZone);
+	}
 	
 	public Event(String start, String end, String description, String author,
 			String rawDescription, String title, String room, String url) {
@@ -32,6 +37,8 @@ public class Event  implements Comparable {
 		this.title = title;
 		this.room = room;
 		this.url = url;
+		startDate();
+		endDate();
 	}
 
 	@Override
@@ -51,16 +58,20 @@ public class Event  implements Comparable {
 	}
 	
 	public Calendar startDate() {
+		if (mStartDate != null) return mStartDate;
 		try {
-			return makeDate(start);
+			mStartDate = makeDate(start);
+			return mStartDate;
 		} catch (ParseException e) {
 			throw new RuntimeException(e.toString() + e.getStackTrace());
 		}
 	}
 	
 	public Calendar endDate() {
+		if (mEndDate != null) return mEndDate;
 		try {
-			return makeDate(end);
+			mEndDate = makeDate(end);
+			return mEndDate;
 		} catch (ParseException e) {
 			throw new RuntimeException(e.toString() + e.getStackTrace());
 		}
@@ -70,9 +81,10 @@ public class Event  implements Comparable {
 		Date d = dateFormat.parse(nicerDate(dateString));
 
 		Calendar g = Calendar.getInstance(Config.confTimeZone, Locale.US);
-		g.setTimeInMillis(0);
+		g.setTime(d);
+		//g.setTimeInMillis(0);
 
-		g.set(d.getYear() + 1900, d.getMonth(), d.getDate(), d.getHours(), d.getMinutes(), d.getSeconds());
+		//g.set(d.getYear() + 1900, d.getMonth(), d.getDate(), d.getHours(), d.getMinutes(), d.getSeconds());
 
 		return g;	
 	}
