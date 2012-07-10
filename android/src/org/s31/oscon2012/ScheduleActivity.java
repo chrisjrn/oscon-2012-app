@@ -78,7 +78,7 @@ public class ScheduleActivity extends Activity {
 			mShowCurrentSessionMode = true;
 			if (c.before(startOfConference)) {
 				day = 0;
-				mShowCurrentSessionMode = false;
+				c.set(2012, Calendar.JULY, day + 16, 0, 0);
 			}
 		}
 
@@ -114,7 +114,10 @@ public class ScheduleActivity extends Activity {
 			// Otherwise show the next session coming up if we're between
 			// sessions
 			if (mDisplayedTab == null) {
-				if (c.compareTo(ts.start) >= 0 && c.compareTo(ts.end) <= 0) {
+				if (c.compareTo(startOfConference) <= 0) {
+					mDisplayedTab = tab;
+				}
+				else if (c.compareTo(ts.start) >= 0 && c.compareTo(ts.end) <= 0) {
 					actionBar.selectTab(tab);
 					mDisplayedTab = tab;
 					Log.v("ScheduleActivity", "Selecting Tab: " + title);
