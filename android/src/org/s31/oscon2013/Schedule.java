@@ -47,6 +47,8 @@ public class Schedule {
 		int i = 0;
 		for (Event e : mSchedule) {
 			e.id = i++;
+			e.startDate();
+			e.endDate();
 		}
 
 	}
