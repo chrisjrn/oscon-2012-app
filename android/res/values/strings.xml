@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, TalkListingActivity!</string>
     <string name="app_name">OsconApp</string>
-
+    <string name="schedule_all_days">All Days</string>
+    
 </resources>
