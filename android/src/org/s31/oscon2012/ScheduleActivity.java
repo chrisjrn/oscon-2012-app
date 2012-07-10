@@ -68,7 +68,8 @@ public class ScheduleActivity extends Activity {
 		Calendar startOfConference = Calendar.getInstance(Config.confTimeZone);
 		startOfConference.set(2012, Calendar.JULY, 16, 0, 0);
 		Calendar c = Calendar.getInstance(Config.confTimeZone);
-		c.set(2012, Calendar.JULY, 18, 11, 11); // FORCE TIME TO BE 11AM
+		c.setTimeInMillis(System.currentTimeMillis());
+		//c.set(2012, Calendar.JULY, 18, 11, 11); // FORCE TIME TO BE 11AM
 												// WEDNESDAY FOR NOW.
 
 		// c.setTimeInMillis(System.currentTimeMillis()); // get current time
