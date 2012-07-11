@@ -34,6 +34,8 @@ public class TalkListingFragment extends Fragment {
 	public TextView mDescriptionView;
 	public TextView mRoomView;
 	public TextView mDateView;
+	
+	public boolean menuHasExpanded = false;
 
 	private ShareActionProvider mShareActionProvider;
 
@@ -115,7 +117,7 @@ public class TalkListingFragment extends Fragment {
 
 	@Override
 	public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-		inflater.inflate(R.menu.talk_listing, menu);
+		//inflater.inflate(R.menu.talk_listing, menu);
 
 		mShareActionProvider = (ShareActionProvider) menu.findItem(
 				R.id.menu_share).getActionProvider();

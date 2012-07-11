@@ -21,7 +21,7 @@ public class ScheduleActivity extends Activity {
 	public static SimpleDateFormat timeOnly;
 	public Tab mDisplayedTab;
 	public boolean mShowCurrentSessionMode;
-
+	
 	static {
 		// 9:00am
 		timeOnly = new SimpleDateFormat("hh:mma", Locale.US);
