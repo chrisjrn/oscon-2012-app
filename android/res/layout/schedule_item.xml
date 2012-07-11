@@ -2,7 +2,12 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+     >
 
     <TextView
         android:id="@+id/event_title"
@@ -10,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:text="How to lose at life and look good trying to do so.."
+        android:text="[[ Android-Fu: Fu fu fu android fu etc etc etc etc etc. ]]"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <TextView
