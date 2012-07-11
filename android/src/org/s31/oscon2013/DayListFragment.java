@@ -24,7 +24,7 @@ public class DayListFragment extends ListFragment {
 		super.onViewCreated(view, savedInstanceState);
 
 		ArrayAdapter<String> a = new ArrayAdapter<String>(this.getActivity(),
-				R.layout.text_only_list_item, getListOfDays());
+				R.layout.day_list_entry, R.id.day_list_item, getListOfDays());
 		this.setListAdapter(a);
 
 		
