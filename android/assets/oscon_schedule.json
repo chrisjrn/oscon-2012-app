@@ -2,11 +2,11 @@
   {
     "start": "2012-07-16 09:00:00-08:00", 
     "end": "2012-07-16 12:30:00-08:00", 
-    "description": "Interested in HTML5? Want a change to play around with the latest and greatest in web app development? This workshop is for you! We'll cover feature detection, web forms, the new HTML elements, take a spin around the canvas, and we'll finish up with offline/local storage.", 
+    "description": "Interested in HTML5? Want a chance to play around with the latest and greatest in web app development? This workshop is for you! We'll cover feature detection, web forms, the new HTML elements, take a spin around the canvas, and we'll finish up with offline/local storage.", 
     "author": "Nathaniel Schutta (ntschutta.com)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23871", 
-    "raw_description": "Presented by Nathaniel Schutta (ntschutta.com). Interested in HTML5? Want a change to play around with the latest and greatest in web app development? This workshop is for you! We'll cover feature detection, web forms, the new HTML elements, take a spin around the canvas, and we'll finish up with offline/local storage.", 
-    "title": "HTML5 Workshop", 
+    "raw_description": "Presented by Nathaniel Schutta (ntschutta.com). Interested in HTML5? Want a chance to play around with the latest and greatest in web app development? This workshop is for you! We'll cover feature detection, web forms, the new HTML elements, take a spin around the canvas, and we'll finish up with offline/local storage.", 
+    "title": "HTML5 Workshop (SOLD OUT)", 
     "room": "Portland 251"
   }, 
   {
@@ -16,7 +16,7 @@
     "author": "Joshua Marinacci (Nokia)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23658", 
     "raw_description": "Presented by Joshua Marinacci (Nokia). The Canvas element is one of the most exciting features added to HTML since the marquee tag.  You can draw 2D graphics, implement special effects, edit photos at the pixel level, and bring rich animation to both desktop and mobile browsers alike; no plugins required. By the end of this workshop you will have good running code. New for 2012: adv. audio, WebGL, and mobile canvas support.", 
-    "title": "HTML 5 Canvas Deep Dive", 
+    "title": "HTML 5 Canvas Deep Dive (SOLD OUT)", 
     "room": "Portland 251"
   }, 
   {
@@ -103,9 +103,9 @@
     "start": "2012-07-19 10:40:00-08:00", 
     "end": "2012-07-19 11:20:00-08:00", 
     "description": "Unlike some introductions to Node.js that spend time explaining event loops and web sockets, this session start with a typical \u201cHello, Node\u201d demo and quickly moves to short, fully-functional pps that show how to deal with static files, POST forms, mashups from other servers, file manipulation, data-handling, and even supporting HTTP Authentication.", 
-    "author": "Mike Amundsen (amundsen.com, inc.)", 
+    "author": "Mike Amundsen (Layer 7 Technologies)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24227", 
-    "raw_description": "Presented by Mike Amundsen (amundsen.com, inc.). Unlike some introductions to Node.js that spend time explaining event loops and web sockets, this session start with a typical \u201cHello, Node\u201d demo and quickly moves to short, fully-functional pps that show how to deal with static files, POST forms, mashups from other servers, file manipulation, data-handling, and even supporting HTTP Authentication.", 
+    "raw_description": "Presented by Mike Amundsen (Layer 7 Technologies). Unlike some introductions to Node.js that spend time explaining event loops and web sockets, this session start with a typical \u201cHello, Node\u201d demo and quickly moves to short, fully-functional pps that show how to deal with static files, POST forms, mashups from other servers, file manipulation, data-handling, and even supporting HTTP Authentication.", 
     "title": "Essential Node.js for Web Developers", 
     "room": "Portland 251"
   }, 
@@ -372,10 +372,10 @@
   {
     "start": "2012-07-20 11:50:00-08:00", 
     "end": "2012-07-20 12:30:00-08:00", 
-    "description": "In this session, Emil Eifrem will take you on a whirlwind tour of the current NoSQL landscape. He'll give a crash course overview of the four main categories of NoSQL databases, and discuss what's currently lacking to make the enterprise adopt NoSQL, and how to solve it.", 
-    "author": "Lila Razzaqui (Kulesa Faul)", 
+    "description": "In this session, Andreas Kollegger will take you on a whirlwind tour of the current NoSQL landscape. He'll give a crash course overview of the four main categories of NoSQL databases, and discuss what's currently lacking to make the enterprise adopt NoSQL, and how to solve it.", 
+    "author": "Andreas Kollegger (Neo Technology)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24219", 
-    "raw_description": "Presented by Lila Razzaqui (Kulesa Faul). In this session, Emil Eifrem will take you on a whirlwind tour of the current NoSQL landscape. He'll give a crash course overview of the four main categories of NoSQL databases, and discuss what's currently lacking to make the enterprise adopt NoSQL, and how to solve it.", 
+    "raw_description": "Presented by Andreas Kollegger (Neo Technology). In this session, Andreas Kollegger will take you on a whirlwind tour of the current NoSQL landscape. He'll give a crash course overview of the four main categories of NoSQL databases, and discuss what's currently lacking to make the enterprise adopt NoSQL, and how to solve it.", 
     "title": "The Past, Present and Future of NoSQL", 
     "room": "Portland 252"
   }, 
@@ -383,9 +383,9 @@
     "start": "2012-07-16 09:00:00-08:00", 
     "end": "2012-07-16 12:30:00-08:00", 
     "description": "This hands-on session will introduce the audience to building applications with MongoDB - the open source document-oriented NoSQL database. The tutorial will take the user through building a simple location-based (like foursquare) from start to finish. Attendees will finish the session with a working application they use to check into locations around Portland from any HTML5 enabled phone!", 
-    "author": "Nosh Petigara (10gen)", 
+    "author": "Steve Francia (10gen)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24187", 
-    "raw_description": "Presented by Nosh Petigara (10gen). This hands-on session will introduce the audience to building applications with MongoDB - the open source document-oriented NoSQL database. The tutorial will take the user through building a simple location-based (like foursquare) from start to finish. Attendees will finish the session with a working application they use to check into locations around Portland from any HTML5 enabled phone!", 
+    "raw_description": "Presented by Steve Francia (10gen). This hands-on session will introduce the audience to building applications with MongoDB - the open source document-oriented NoSQL database. The tutorial will take the user through building a simple location-based (like foursquare) from start to finish. Attendees will finish the session with a working application they use to check into locations around Portland from any HTML5 enabled phone!", 
     "title": "Building applications with MongoDB: An introduction", 
     "room": "Portland 255"
   }, 
@@ -406,7 +406,7 @@
     "author": "Paris Buttfield-Addison (Secret Lab Pty. Ltd.), Christopher Neugebauer (Secret Lab Pty. Ltd.), Jonathon Manning (Secret Lab Pty. Ltd.)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24288", 
     "raw_description": "Presented by Paris Buttfield-Addison (Secret Lab Pty. Ltd.), Christopher Neugebauer (Secret Lab Pty. Ltd.), Jonathon Manning (Secret Lab Pty. Ltd.). In this session you'll learn why you can't consider UX and design an optional extra when designing mobile apps for Android, how to tell an awesome app from a terrible app, and the basics of both designing and coding for the latest and greatest Android platform (Android 4.0 and beyond). Stylish apps aren't just for that other mobile platform, and Android is surprisingly easy to get started with.", 
-    "title": "Android-Fu: awesome apps for Ice Cream Sandwich and beyond", 
+    "title": "Android-Fu: Awesome Apps for Ice Cream Sandwich and Beyond", 
     "room": "Portland 255"
   }, 
   {
@@ -416,7 +416,7 @@
     "author": "brian d foy (The Perl Review, LLC)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24257", 
     "raw_description": "Presented by brian d foy (The Perl Review, LLC). In this tutorial, brian d foy will cover aspects of his latest book, Mastering Perl, which is practical advice for working programmers on creating enterprise-quality Perl programs", 
-    "title": "Mastering Perl", 
+    "title": "Mastering Perl (CANCELLED)", 
     "room": "Portland 255"
   }, 
   {
@@ -592,10 +592,10 @@
   {
     "start": "2012-07-17 09:00:00-08:00", 
     "end": "2012-07-17 12:30:00-08:00", 
-    "description": "Want to write Node.JS applications and want someone to show you the ropes? In this workshop we will go through a quick paced introduction to node.JS, and will introduce the basic principles of writing evented IO applications. For the more advanced developers it will be interactive on the depth of certain subjects.", 
-    "author": "Rik Arends (Cloud9 IDE Inc)", 
+    "description": "Presented by Rik Arends (Cloud9 IDE Inc), Bert Belder. Want to write Node.JS applications and want someone to show you the ropes? In this workshop we will go through a quick paced introduction to node.JS, and will introduce the basic principles of writing evented IO applications. For the more advanced developers it will be interactive on the depth of certain subjects.", 
+    "author": "", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24214", 
-    "raw_description": "Presented by Rik Arends (Cloud9 IDE Inc). Want to write Node.JS applications and want someone to show you the ropes? In this workshop we will go through a quick paced introduction to node.JS, and will introduce the basic principles of writing evented IO applications. For the more advanced developers it will be interactive on the depth of certain subjects.", 
+    "raw_description": "Presented by Rik Arends (Cloud9 IDE Inc), Bert Belder. Want to write Node.JS applications and want someone to show you the ropes? In this workshop we will go through a quick paced introduction to node.JS, and will introduce the basic principles of writing evented IO applications. For the more advanced developers it will be interactive on the depth of certain subjects.", 
     "title": "An Introduction To Evented IO Programming In Node.JS , From The Experts", 
     "room": "Portland 256"
   }, 
@@ -616,7 +616,7 @@
     "author": "Andrew Gerrand (Google), Rob Pike (Google, Inc.)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23906", 
     "raw_description": "Presented by Andrew Gerrand (Google), Rob Pike (Google, Inc.). Go 1 is a stable version of the Go Programming Language that will be supported for years to come. In this talk, Rob Pike and Andrew Gerrand outline the major highlights of the release and discuss the details behind some specific libraries and tools. They show that Go is not just a language, but a cohesive programming environment for producing high quality software.", 
-    "title": "The Go 1 Programming Environment", 
+    "title": "The Path to Go 1", 
     "room": "Portland 256"
   }, 
   {
@@ -683,9 +683,9 @@
     "start": "2012-07-19 11:30:00-08:00", 
     "end": "2012-07-19 12:10:00-08:00", 
     "description": "Modern web services are expected to be capable of providing realtime services to a large number of concurrent connections from web browsers, and web API clients. Distributed systems are common. The fine grained concurrency, message oriented programming model and transparent distribution capabilities make Erlang well suited for these types of systems. Cowboy brings Erlang's power to the web.", 
-    "author": "Lo\u00efc Hoguin (Nine Nines), Magnus Klaar (Nine Nines)", 
+    "author": "Lo\u00efc Hoguin (Nine Nines)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24203", 
-    "raw_description": "Presented by Lo\u00efc Hoguin (Nine Nines), Magnus Klaar (Nine Nines). Modern web services are expected to be capable of providing realtime services to a large number of concurrent connections from web browsers, and web API clients. Distributed systems are common. The fine grained concurrency, message oriented programming model and transparent distribution capabilities make Erlang well suited for these types of systems. Cowboy brings Erlang's power to the web.", 
+    "raw_description": "Presented by Lo\u00efc Hoguin (Nine Nines). Modern web services are expected to be capable of providing realtime services to a large number of concurrent connections from web browsers, and web API clients. Distributed systems are common. The fine grained concurrency, message oriented programming model and transparent distribution capabilities make Erlang well suited for these types of systems. Cowboy brings Erlang's power to the web.", 
     "title": "Efficient Web Applications with Erlang and Cowboy", 
     "room": "Portland 256"
   }, 
@@ -696,7 +696,7 @@
     "author": "Chris Granger (Kodowa)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25944", 
     "raw_description": "Presented by Chris Granger (Kodowa). At Microsoft I had the unique opportunity to sit behind a one way mirror and watch people try to solve problems. Behind that mirror I learned we've done so very little to enable us to realize our creations and that our tools often cause us to stumble instead of propel us forward. In my talk we'll deconstruct what I learned to see what the future of tools might be.", 
-    "title": "Behind the mirror", 
+    "title": "Behind The Mirror", 
     "room": "Portland 256"
   }, 
   {
@@ -773,9 +773,9 @@
     "start": "2012-07-16 13:30:00-08:00", 
     "end": "2012-07-16 17:00:00-08:00", 
     "description": "A fun, comprehensive tutorial on how to host a successful code sprint, hackathon, (un)conference or workshop.", 
-    "author": "Christie Koehler (Mozilla / Open Source Bridge), Audrey Eschright (Elevated Code / Open Source Bridge), Sherri Montgomery (Open Source Bridge / Ignite Portland / Mentor Graphics)", 
+    "author": "Christie Koehler (Mozilla / Stumptown Syndicate), Audrey Eschright (Elevated Code / Stumptown Syndicate), Sherri Montgomery (Open Source Bridge / Ignite Portland / Mentor Graphics)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24368", 
-    "raw_description": "Presented by Christie Koehler (Mozilla / Open Source Bridge), Audrey Eschright (Elevated Code / Open Source Bridge), Sherri Montgomery (Open Source Bridge / Ignite Portland / Mentor Graphics). A fun, comprehensive tutorial on how to host a successful code sprint, hackathon, (un)conference or workshop.", 
+    "raw_description": "Presented by Christie Koehler (Mozilla / Stumptown Syndicate), Audrey Eschright (Elevated Code / Stumptown Syndicate), Sherri Montgomery (Open Source Bridge / Ignite Portland / Mentor Graphics). A fun, comprehensive tutorial on how to host a successful code sprint, hackathon, (un)conference or workshop.", 
     "title": "Event Planning for Geeks", 
     "room": "D135"
   }, 
@@ -792,11 +792,11 @@
   {
     "start": "2012-07-17 13:30:00-08:00", 
     "end": "2012-07-17 17:00:00-08:00", 
-    "description": "There is an emerging set of tools that enable people to have more access to and more control over the data that they are creating, sharing, and that is being shared with them.  The Locker Project has created a personal locker that allows you to collect your personal data and share it with others.  During this session, you\u2019ll set up your own Locker and learn how to manipulate it.", 
-    "author": "Jeremie Miller (Singly), Simon Murtha-Smith (Singly Inc), Thomas Muldowney (Locker Project)", 
+    "description": "Learn how to build apps on a unified open source API combining data from Facebook, Twitter, Google, Github, Foursquare, Instagram, Tumblr, Linkedin, Fitbit, Wordpress, Runkeeper, Dropbox, and more, includes hands-on hack time to get a working dev environment up and running.", 
+    "author": "Jeremie Miller (Singly), Thomas Muldowney (Locker Project)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24217", 
-    "raw_description": "Presented by Jeremie Miller (Singly), Simon Murtha-Smith (Singly Inc), Thomas Muldowney (Locker Project). There is an emerging set of tools that enable people to have more access to and more control over the data that they are creating, sharing, and that is being shared with them.  The Locker Project has created a personal locker that allows you to collect your personal data and share it with others.  During this session, you\u2019ll set up your own Locker and learn how to manipulate it.", 
-    "title": "Learn How to Experience Your Own Personal Data Revolution using The Locker Project", 
+    "raw_description": "Presented by Jeremie Miller (Singly), Thomas Muldowney (Locker Project). Learn how to build apps on a unified open source API combining data from Facebook, Twitter, Google, Github, Foursquare, Instagram, Tumblr, Linkedin, Fitbit, Wordpress, Runkeeper, Dropbox, and more, includes hands-on hack time to get a working dev environment up and running.", 
+    "title": "Build Social and Personal Data Apps using the Open Source Singly Platform", 
     "room": "D135"
   }, 
   {
@@ -810,12 +810,22 @@
     "room": "D135"
   }, 
   {
+    "start": "2012-07-18 11:30:00-08:00", 
+    "end": "2012-07-18 12:10:00-08:00", 
+    "description": "This talk details the challenges, frustations, horror and ultimately joy, of writing an open-source e-commerce framework in Django.", 
+    "author": "David Winterbottom (Tangent Labs)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24076", 
+    "raw_description": "Presented by David Winterbottom (Tangent Labs). This talk details the challenges, frustations, horror and ultimately joy, of writing an open-source e-commerce framework in Django.", 
+    "title": "Writing a Django e-Commerce Framework", 
+    "room": "D135"
+  }, 
+  {
     "start": "2012-07-18 13:40:00-08:00", 
     "end": "2012-07-18 14:20:00-08:00", 
     "description": "Grace Murray Hopper's famous motto, \"It's easier to ask forgiveness than permission\", has many useful applications -- in Python, in concurrency, in networking, as well of course as in real life. However, it's not universally valid. This talk explores both useful and damaging applications of this principle.", 
-    "author": "Alex Martelli (Google)", 
+    "author": "Alex Martelli (Google), Anna Martelli Ravenscroft (Self)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23369", 
-    "raw_description": "Presented by Alex Martelli (Google). Grace Murray Hopper's famous motto, \"It's easier to ask forgiveness than permission\", has many useful applications -- in Python, in concurrency, in networking, as well of course as in real life. However, it's not universally valid. This talk explores both useful and damaging applications of this principle.", 
+    "raw_description": "Presented by Alex Martelli (Google), Anna Martelli Ravenscroft (Self). Grace Murray Hopper's famous motto, \"It's easier to ask forgiveness than permission\", has many useful applications -- in Python, in concurrency, in networking, as well of course as in real life. However, it's not universally valid. This talk explores both useful and damaging applications of this principle.", 
     "title": "Permission or Forgiveness?", 
     "room": "D135"
   }, 
@@ -823,9 +833,9 @@
     "start": "2012-07-18 14:30:00-08:00", 
     "end": "2012-07-18 15:10:00-08:00", 
     "description": "The Traveling Salesman Problem is a classic example of an NP-Complete task that is much more difficult than it seems on the surface.  There are a number of algorithms available for solving it.  In this session, we will look at different options for implementing complex mathematics within Python.  We will evaluate the different options in relation to the specific algorithms used.", 
-    "author": "Rachael Madsen (Multiple Solutions Computing)", 
+    "author": "Rachael Madsen (Optimal Design Software LLC)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24245", 
-    "raw_description": "Presented by Rachael Madsen (Multiple Solutions Computing). The Traveling Salesman Problem is a classic example of an NP-Complete task that is much more difficult than it seems on the surface.  There are a number of algorithms available for solving it.  In this session, we will look at different options for implementing complex mathematics within Python.  We will evaluate the different options in relation to the specific algorithms used.", 
+    "raw_description": "Presented by Rachael Madsen (Optimal Design Software LLC). The Traveling Salesman Problem is a classic example of an NP-Complete task that is much more difficult than it seems on the surface.  There are a number of algorithms available for solving it.  In this session, we will look at different options for implementing complex mathematics within Python.  We will evaluate the different options in relation to the specific algorithms used.", 
     "title": "Using Python to Solve Computationally Hard Problems", 
     "room": "D135"
   }, 
@@ -873,9 +883,9 @@
     "start": "2012-07-19 13:40:00-08:00", 
     "end": "2012-07-19 14:20:00-08:00", 
     "description": "Are you a woman wanting to break into the engineering field?  Or do you know any women wanting to learn how to code, but don't know how to help them?  Perhaps our nerdy ladies are a bit shy to ask for help. That's okay!  I'll give you some tools to nudge you in the right direction.", 
-    "author": "Lynn Root (Women Who Code)", 
+    "author": "Lynn Root (PyLadies SF)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24058", 
-    "raw_description": "Presented by Lynn Root (Women Who Code). Are you a woman wanting to break into the engineering field?  Or do you know any women wanting to learn how to code, but don't know how to help them?  Perhaps our nerdy ladies are a bit shy to ask for help. That's okay!  I'll give you some tools to nudge you in the right direction.", 
+    "raw_description": "Presented by Lynn Root (PyLadies SF). Are you a woman wanting to break into the engineering field?  Or do you know any women wanting to learn how to code, but don't know how to help them?  Perhaps our nerdy ladies are a bit shy to ask for help. That's okay!  I'll give you some tools to nudge you in the right direction.", 
     "title": "Python += Women: Increasing Engagement", 
     "room": "D135"
   }, 
@@ -930,6 +940,16 @@
     "room": "D135"
   }, 
   {
+    "start": "2012-07-20 11:50:00-08:00", 
+    "end": "2012-07-20 12:30:00-08:00", 
+    "description": "OSCON belongs to its attendees, and we want to hear what you think of this year\u2019s show. Join the organizers to talk about what you loved and hated about OSCON, and what you\u2019d like to see next year.", 
+    "author": "Edd Dumbill (O'Reilly Media, Inc. ), Sarah Novotny (Meteor Enterainment), Gina Blaber (O'Reilly Media, Inc.)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26469", 
+    "raw_description": "Presented by Edd Dumbill (O'Reilly Media, Inc. ), Sarah Novotny (Meteor Enterainment), Gina Blaber (O'Reilly Media, Inc.). OSCON belongs to its attendees, and we want to hear what you think of this year\u2019s show. Join the organizers to talk about what you loved and hated about OSCON, and what you\u2019d like to see next year.", 
+    "title": "OSCON Town Hall", 
+    "room": "D135"
+  }, 
+  {
     "start": "2012-07-18 19:00:00-08:00", 
     "end": "2012-07-18 20:00:00-08:00", 
     "description": "Meet and greet members of the Portland PostgreSQL Users Group, and also talk about PostgreSQL.", 
@@ -942,11 +962,41 @@
   {
     "start": "2012-07-19 19:00:00-08:00", 
     "end": "2012-07-19 20:00:00-08:00", 
-    "description": "SourceForge has a few exciting things to announce. And we'd also like to hear from you about what you'd like to see in the future. Come chat.", 
+    "description": "With Allura, our forge software, entering the Apache Incubator, we're excited about the future. Come see what we're excited about.", 
     "author": "", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25806", 
-    "raw_description": "SourceForge has a few exciting things to announce. And we'd also like to hear from you about what you'd like to see in the future. Come chat.", 
-    "title": "SourceForge: Directory, Forge, and one more thing", 
+    "raw_description": "With Allura, our forge software, entering the Apache Incubator, we're excited about the future. Come see what we're excited about.", 
+    "title": "SourceForge: Apache Allura (Incubating) and the future of SourceForge", 
+    "room": "D135"
+  }, 
+  {
+    "start": "2012-07-16 19:00:00-08:00", 
+    "end": "2012-07-16 20:00:00-08:00", 
+    "description": "Birds of a Feather session for Google Summer of Code alumni, students, mentors, org admins, and just those interested in the program!", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26248", 
+    "raw_description": "Birds of a Feather session for Google Summer of Code alumni, students, mentors, org admins, and just those interested in the program!", 
+    "title": "Google Summer of Code BoF", 
+    "room": "D135"
+  }, 
+  {
+    "start": "2012-07-18 20:00:00-08:00", 
+    "end": "2012-07-18 21:00:00-08:00", 
+    "description": "Meet and brain with the Humanitarian Free Open Source Software (HFOSS) community at OSCON. We are a growing, diverse global network of of communities, organizations and companies that aim to use technology for social good.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26505", 
+    "raw_description": "Meet and brain with the Humanitarian Free Open Source Software (HFOSS) community at OSCON. We are a growing, diverse global network of of communities, organizations and companies that aim to use technology for social good.", 
+    "title": "HFOSS @ OSCON", 
+    "room": "D135"
+  }, 
+  {
+    "start": "2012-07-19 20:00:00-08:00", 
+    "end": "2012-07-19 21:00:00-08:00", 
+    "description": "MariaDB has been regularly touted as the New M in LAMP. An offshoot of the popular MySQL database, made by the same person that brought you MySQL, come see the successes and new features that MariaDB has brought in the last 2+ years, and help define the future roadmap. It is worth noting that no MariaDB BoF is complete without some black vodka!", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26527", 
+    "raw_description": "MariaDB has been regularly touted as the New M in LAMP. An offshoot of the popular MySQL database, made by the same person that brought you MySQL, come see the successes and new features that MariaDB has brought in the last 2+ years, and help define the future roadmap. It is worth noting that no MariaDB BoF is complete without some black vodka!", 
+    "title": "MariaDB BoF", 
     "room": "D135"
   }, 
   {
@@ -973,9 +1023,9 @@
     "start": "2012-07-17 09:00:00-08:00", 
     "end": "2012-07-17 12:30:00-08:00", 
     "description": "Clojure is a general-purpose language with direct support for Java, a modern Lisp dialect, and support in both the language and data structures for functional programming. Learn Clojure and you'll become a better all-around programmer. You'll also be able to write applications that have the beauty and elegance of a good scripting language and the power and reach of the JVM.", 
-    "author": "Alan Dipert (Relevance, Inc.), Clinton R. Nixon (Relevance, Inc.)", 
+    "author": "Alan Dipert (Relevance, Inc.), Clinton N. Dreisbach (Relevance, Inc.)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24005", 
-    "raw_description": "Presented by Alan Dipert (Relevance, Inc.), Clinton R. Nixon (Relevance, Inc.). Clojure is a general-purpose language with direct support for Java, a modern Lisp dialect, and support in both the language and data structures for functional programming. Learn Clojure and you'll become a better all-around programmer. You'll also be able to write applications that have the beauty and elegance of a good scripting language and the power and reach of the JVM.", 
+    "raw_description": "Presented by Alan Dipert (Relevance, Inc.), Clinton N. Dreisbach (Relevance, Inc.). Clojure is a general-purpose language with direct support for Java, a modern Lisp dialect, and support in both the language and data structures for functional programming. Learn Clojure and you'll become a better all-around programmer. You'll also be able to write applications that have the beauty and elegance of a good scripting language and the power and reach of the JVM.", 
     "title": "Computing with Clojure", 
     "room": "D136"
   }, 
@@ -1093,9 +1143,9 @@
     "start": "2012-07-19 16:10:00-08:00", 
     "end": "2012-07-19 16:50:00-08:00", 
     "description": "Do you like the idea of repeatable, automated Perl application deployment?  Me, too! This talk will show how to make Chef play nice with Perl.  You'll learn how to weave together some great tools like perlbrew, local::lib, and carton to isolate your apps and manage them all with Chef.", 
-    "author": "David Golden (Autopragmatic, LLC)", 
+    "author": "David Golden (Bunchmail)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23885", 
-    "raw_description": "Presented by David Golden (Autopragmatic, LLC). Do you like the idea of repeatable, automated Perl application deployment?  Me, too! This talk will show how to make Chef play nice with Perl.  You'll learn how to weave together some great tools like perlbrew, local::lib, and carton to isolate your apps and manage them all with Chef.", 
+    "raw_description": "Presented by David Golden (Bunchmail). Do you like the idea of repeatable, automated Perl application deployment?  Me, too! This talk will show how to make Chef play nice with Perl.  You'll learn how to weave together some great tools like perlbrew, local::lib, and carton to isolate your apps and manage them all with Chef.", 
     "title": "Cooking Perl with Chef", 
     "room": "D136"
   }, 
@@ -1157,6 +1207,26 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26104", 
     "raw_description": "Brackets is an open source code editor for the web written in JavaScript, HTML and CSS. Join a discussion with members of the Brackets team and learn how you can contribute to this active and exciting project. We can build a better editor. http://github.com/adobe/brackets", 
     "title": "Brackets - An open source code editor for the web", 
+    "room": "D136"
+  }, 
+  {
+    "start": "2012-07-16 19:00:00-08:00", 
+    "end": "2012-07-16 20:00:00-08:00", 
+    "description": "Join Josh Long of SpringSource, a division of VMware to talk about the issues surrounding cloud adoption facing modern day programmers.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26484", 
+    "raw_description": "Join Josh Long of SpringSource, a division of VMware to talk about the issues surrounding cloud adoption facing modern day programmers.", 
+    "title": "the Programmers Cloud", 
+    "room": "D136"
+  }, 
+  {
+    "start": "2012-07-18 20:00:00-08:00", 
+    "end": "2012-07-18 21:00:00-08:00", 
+    "description": "Database backed Full-Text Search (MySQL) and why companies like Craigslist, LivingSocial, and Boardreader from a technical perspective have chosen to utilize Sphinx.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26509", 
+    "raw_description": "Database backed Full-Text Search (MySQL) and why companies like Craigslist, LivingSocial, and Boardreader from a technical perspective have chosen to utilize Sphinx.", 
+    "title": "Sphinx: Full-Text Search Alternative to MySQL - Peter Zaitsev/Percona", 
     "room": "D136"
   }, 
   {
@@ -1253,9 +1323,9 @@
     "start": "2012-07-19 14:30:00-08:00", 
     "end": "2012-07-19 15:10:00-08:00", 
     "description": "Facebook's Frank Frankovsky will lead a panel of industry leaders in a discussion of the challenges and opportunities in building open source movements around hardware. Frank will share key learnings from the Open Compute Project (a prominent industry initiative focused on driving greater openness and collaboration in infrastructure technology) and draw out similar insights from the panel.", 
-    "author": "Frankovsky Frank (Facebook)", 
+    "author": "Frank Frankovsky (Facebook), Jonathan  Bryce (The Rackspace Cloud), Brian Stevens (Red Hat), Steve Ichinaga (Hyve Solutions, a division of SYNNEX Corporation)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24277", 
-    "raw_description": "Presented by Frankovsky Frank (Facebook). Facebook's Frank Frankovsky will lead a panel of industry leaders in a discussion of the challenges and opportunities in building open source movements around hardware. Frank will share key learnings from the Open Compute Project (a prominent industry initiative focused on driving greater openness and collaboration in infrastructure technology) and draw out similar insights from the panel.", 
+    "raw_description": "Presented by Frank Frankovsky (Facebook), Jonathan  Bryce (The Rackspace Cloud), Brian Stevens (Red Hat), Steve Ichinaga (Hyve Solutions, a division of SYNNEX Corporation). Facebook's Frank Frankovsky will lead a panel of industry leaders in a discussion of the challenges and opportunities in building open source movements around hardware. Frank will share key learnings from the Open Compute Project (a prominent industry initiative focused on driving greater openness and collaboration in infrastructure technology) and draw out similar insights from the panel.", 
     "title": "Making Hardware Open: Challenges and Opportunities", 
     "room": "D137"
   }, 
@@ -1366,7 +1436,7 @@
     "author": "Philip Lindsay (rancidbacon.com)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23941", 
     "raw_description": "Presented by Philip Lindsay (rancidbacon.com). Have you always wanted to create hardware devices to interact with the real world? Heard about the Arduino electronics prototyping platform but not sure how to get started? When you attend this workshop you will: set up an Arduino board & software; learn how the Arduino fits into the field of physical computing; and make your Arduino respond to button presses and blink lights. Hardware is fun!", 
-    "title": "Get Started with the Arduino - A Hands-On Introductory Workshop", 
+    "title": "Get Started with the Arduino - A Hands-On Introductory Workshop (SOLD OUT)", 
     "room": "D137-138"
   }, 
   {
@@ -1377,6 +1447,16 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24068", 
     "raw_description": "Presented by Alasdair Allan (Babilim Light Industries). This tutorial will walk you through connecting an iPhone, iPod touch or iPad to an Arduino or other external hardware using an RS-232 adaptor. This is hardware hacking for iOS developers. You'll learn how to build iOS applications that talk to the real world, talk to sensors that talk back, and make iOS part of the Internet of Things.", 
     "title": "Connecting iOS to the open source world with Arduino", 
+    "room": "D137-138"
+  }, 
+  {
+    "start": "2012-07-16 19:00:00-08:00", 
+    "end": "2012-07-16 20:00:00-08:00", 
+    "description": "Learn about internal workings of Node.js & buzz around Node.js. Also learn about basics of VMware Cloud Foundry PaaS and how to run 4 different kinds of sample Node.js apps on Cloud Foundry", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26448", 
+    "raw_description": "Learn about internal workings of Node.js & buzz around Node.js. Also learn about basics of VMware Cloud Foundry PaaS and how to run 4 different kinds of sample Node.js apps on Cloud Foundry", 
+    "title": "Becoming a Node.js Ninja on VMware's Cloud Foundry PaaS", 
     "room": "D137-138"
   }, 
   {
@@ -1503,9 +1583,9 @@
     "start": "2012-07-20 10:00:00-08:00", 
     "end": "2012-07-20 10:40:00-08:00", 
     "description": "Formed by a group that included Tim O'Reilly, OSI has been the cornerstone of the movement OSCON aims to gather in plenary. Hear how OSI is transforming itself into the new voice of the global open source community", 
-    "author": "Tony Wasserman (Carnegie Mellon Silicon Valley), Simon  Phipps (Meshed Insights & Knowledge)", 
+    "author": "Tony Wasserman (Carnegie Mellon Silicon Valley), Simon  Phipps (Open Source Initiative)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23014", 
-    "raw_description": "Presented by Tony Wasserman (Carnegie Mellon Silicon Valley), Simon  Phipps (Meshed Insights & Knowledge). Formed by a group that included Tim O'Reilly, OSI has been the cornerstone of the movement OSCON aims to gather in plenary. Hear how OSI is transforming itself into the new voice of the global open source community", 
+    "raw_description": "Presented by Tony Wasserman (Carnegie Mellon Silicon Valley), Simon  Phipps (Open Source Initiative). Formed by a group that included Tim O'Reilly, OSI has been the cornerstone of the movement OSCON aims to gather in plenary. Hear how OSI is transforming itself into the new voice of the global open source community", 
     "title": "OSI - More Relevant Than Ever", 
     "room": "D138"
   }, 
@@ -1540,12 +1620,22 @@
     "room": "D138"
   }, 
   {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "Interested in learning about Software-Defined Networking and OpenFlow?  Mike Cohen, product manager for Floodlight, will offer a hands-on tutorial that shows attendees how to build applications on top of the Floodlight platform.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26363", 
+    "raw_description": "Interested in learning about Software-Defined Networking and OpenFlow?  Mike Cohen, product manager for Floodlight, will offer a hands-on tutorial that shows attendees how to build applications on top of the Floodlight platform.", 
+    "title": "Programming OpenFlow and SDN with Floodlight", 
+    "room": "D138"
+  }, 
+  {
     "start": "2012-07-16 09:00:00-08:00", 
     "end": "2012-07-16 12:30:00-08:00", 
     "description": "The future of design is everywhere a user touches our product or service\u2014digital or physical. Web and other digital practitioners must move beyond the screen to designing a holistic customer experience that is seamless across channels and devices. In this interactive workshop, Samantha will provide specific tools  for designing for a full experience lifecycle across all channels and touchpoints.", 
-    "author": "Samantha Starmer (REI (Recreational Equipment, Inc.))", 
+    "author": "Samantha Starmer (REI, Recreational Equipment, Inc.)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24299", 
-    "raw_description": "Presented by Samantha Starmer (REI (Recreational Equipment, Inc.)). The future of design is everywhere a user touches our product or service\u2014digital or physical. Web and other digital practitioners must move beyond the screen to designing a holistic customer experience that is seamless across channels and devices. In this interactive workshop, Samantha will provide specific tools  for designing for a full experience lifecycle across all channels and touchpoints.", 
+    "raw_description": "Presented by Samantha Starmer (REI, Recreational Equipment, Inc.). The future of design is everywhere a user touches our product or service\u2014digital or physical. Web and other digital practitioners must move beyond the screen to designing a holistic customer experience that is seamless across channels and devices. In this interactive workshop, Samantha will provide specific tools  for designing for a full experience lifecycle across all channels and touchpoints.", 
     "title": "How to Design for the Future - Cross Channel Experience Design", 
     "room": "D139-140"
   }, 
@@ -1633,20 +1723,20 @@
     "start": "2012-07-18 17:00:00-08:00", 
     "end": "2012-07-18 17:40:00-08:00", 
     "description": "The \"cloud stack\" development environment\u2014one that lets you not just build cloud-based app for the web, but actually build them while on the Web\u2014is a reality. Using open source, standardized software and management tools, it\u2019s now possible to code, test, debug, and deploy web based solutions; all from a modern browser.", 
-    "author": "Mike Amundsen (amundsen.com, inc.)", 
+    "author": "Mike Amundsen (Layer 7 Technologies)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24230", 
-    "raw_description": "Presented by Mike Amundsen (amundsen.com, inc.). The \"cloud stack\" development environment\u2014one that lets you not just build cloud-based app for the web, but actually build them while on the Web\u2014is a reality. Using open source, standardized software and management tools, it\u2019s now possible to code, test, debug, and deploy web based solutions; all from a modern browser.", 
+    "raw_description": "Presented by Mike Amundsen (Layer 7 Technologies). The \"cloud stack\" development environment\u2014one that lets you not just build cloud-based app for the web, but actually build them while on the Web\u2014is a reality. Using open source, standardized software and management tools, it\u2019s now possible to code, test, debug, and deploy web based solutions; all from a modern browser.", 
     "title": "Programming with the OSS Cloud Stack", 
     "room": "D139-140"
   }, 
   {
     "start": "2012-07-19 10:40:00-08:00", 
     "end": "2012-07-19 11:20:00-08:00", 
-    "description": "How to write software to leverage the scalability of the cloud; lessons learned at Amazon Web Services that can be applied to any cloud application.", 
+    "description": "More and more companies, large and small,  are using open source software.  Sometimes, in addition to just using the software they also want to try to support the development efforts.  How hard could that be?", 
     "author": "Randi Harper (Amazon), Mitch Garnaat (Amazon)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24309", 
-    "raw_description": "Presented by Randi Harper (Amazon), Mitch Garnaat (Amazon). How to write software to leverage the scalability of the cloud; lessons learned at Amazon Web Services that can be applied to any cloud application.", 
-    "title": "Thinking Big: Building a SaaS SDK for the Cloud", 
+    "raw_description": "Presented by Randi Harper (Amazon), Mitch Garnaat (Amazon). More and more companies, large and small,  are using open source software.  Sometimes, in addition to just using the software they also want to try to support the development efforts.  How hard could that be?", 
+    "title": "Thinking Big: Building a IaaS SDK for the Cloud", 
     "room": "D139-140"
   }, 
   {
@@ -1663,9 +1753,9 @@
     "start": "2012-07-19 13:40:00-08:00", 
     "end": "2012-07-19 14:20:00-08:00", 
     "description": "SDN is the promise of bringing comparable programmability to the network by abstracting a logical view from the underlying infrastructure for more agility, flexibility, scalability but also for more innovation, looking at networks in a new way and allowing for better synergies with applications running on it. 2012 is poised to be a pivotal year with production deployments, new players and more.", 
-    "author": "Mike Cohen (Big Switch Networks)", 
+    "author": "Mike Cohen (Big Switch Networks), Faan DeSwardt (Symantec)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23350", 
-    "raw_description": "Presented by Mike Cohen (Big Switch Networks). SDN is the promise of bringing comparable programmability to the network by abstracting a logical view from the underlying infrastructure for more agility, flexibility, scalability but also for more innovation, looking at networks in a new way and allowing for better synergies with applications running on it. 2012 is poised to be a pivotal year with production deployments, new players and more.", 
+    "raw_description": "Presented by Mike Cohen (Big Switch Networks), Faan DeSwardt (Symantec). SDN is the promise of bringing comparable programmability to the network by abstracting a logical view from the underlying infrastructure for more agility, flexibility, scalability but also for more innovation, looking at networks in a new way and allowing for better synergies with applications running on it. 2012 is poised to be a pivotal year with production deployments, new players and more.", 
     "title": "When Cloud Networking meets Cloud Computing: Software-Defined   Networking (SDN)", 
     "room": "D139-140"
   }, 
@@ -1740,6 +1830,26 @@
     "room": "D139-140"
   }, 
   {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "Chef is an open source systems integration framework for automating the deployment of your entire infrastructure and the applications running in it. Let's get together and talk about what Chef can do for you today and what's coming in the future.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26446", 
+    "raw_description": "Chef is an open source systems integration framework for automating the deployment of your entire infrastructure and the applications running in it. Let's get together and talk about what Chef can do for you today and what's coming in the future.", 
+    "title": "Chef BoF: Automate All the Things!", 
+    "room": "D139-140"
+  }, 
+  {
+    "start": "2012-07-16 19:00:00-08:00", 
+    "end": "2012-07-16 20:00:00-08:00", 
+    "description": "A deep dive and discussion of Ceph, the highly available, massively scalable distributed object store, file system, and block device.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26463", 
+    "raw_description": "A deep dive and discussion of Ceph, the highly available, massively scalable distributed object store, file system, and block device.", 
+    "title": "Ceph: object storage, block storage, file system, replication, massive scalability, and then some!", 
+    "room": "D139-140"
+  }, 
+  {
     "start": "2012-07-16 09:00:00-08:00", 
     "end": "2012-07-16 12:30:00-08:00", 
     "description": "Normally it takes three days of classes for a beginner to get familiar with Perl.  We don't have three days, so we're going to speed things up... just a bit.  This tutorial will cover the basics and enough of the more advanced features to bootstrap the learning process for Perl novices.", 
@@ -1770,16 +1880,6 @@
     "room": "E143-144"
   }, 
   {
-    "start": "2012-07-17 13:30:00-08:00", 
-    "end": "2012-07-17 17:00:00-08:00", 
-    "description": "If you're at OSCON, you probably have plenty of knowledge to share with the world. Why not do it through publishing?", 
-    "author": "Laurel Ruma (O'Reilly Media, Inc.), Kat Meyer (O'Reilly Media)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24737", 
-    "raw_description": "Presented by Laurel Ruma (O'Reilly Media, Inc.), Kat Meyer (O'Reilly Media). If you're at OSCON, you probably have plenty of knowledge to share with the world. Why not do it through publishing?", 
-    "title": "Publishing for Hackers", 
-    "room": "E143-144"
-  }, 
-  {
     "start": "2012-07-18 10:40:00-08:00", 
     "end": "2012-07-18 11:20:00-08:00", 
     "description": "A look at the state of PHP in 2012 and how it fits into the current technology stack. The session will cover common mistakes and a detailed review of new PHP 5.4 features.", 
@@ -1803,9 +1903,9 @@
     "start": "2012-07-18 13:40:00-08:00", 
     "end": "2012-07-18 14:20:00-08:00", 
     "description": "For the last twelve years we've been giving conference talks and writing books about how to develop for the web in PHP.  Over that time we've made a bunch of recommendations: some still hold true, and some things have changed quite a bit since 2000.  We'll talk about how the landscape's changed, and how and when you should change the way you work.", 
-    "author": "Laura Thomson (Mozilla Corporation), Luke Welling (PandaWhale)", 
+    "author": "Laura Thomson (Mozilla Corporation), Luke Welling ([Redacted])", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23829", 
-    "raw_description": "Presented by Laura Thomson (Mozilla Corporation), Luke Welling (PandaWhale). For the last twelve years we've been giving conference talks and writing books about how to develop for the web in PHP.  Over that time we've made a bunch of recommendations: some still hold true, and some things have changed quite a bit since 2000.  We'll talk about how the landscape's changed, and how and when you should change the way you work.", 
+    "raw_description": "Presented by Laura Thomson (Mozilla Corporation), Luke Welling ([Redacted]). For the last twelve years we've been giving conference talks and writing books about how to develop for the web in PHP.  Over that time we've made a bunch of recommendations: some still hold true, and some things have changed quite a bit since 2000.  We'll talk about how the landscape's changed, and how and when you should change the way you work.", 
     "title": "I Can't Believe You Still Do It That Way:12 Years of PHP Best Practice Talks revisited", 
     "room": "E144"
   }, 
@@ -1843,30 +1943,30 @@
     "start": "2012-07-19 10:40:00-08:00", 
     "end": "2012-07-19 11:20:00-08:00", 
     "description": "PHP has rarely been a fashionable language, so it's probably no surprise that it is not high fashion for startups today.  What advantages influence the startups that choose it?  Ignoring loss of hipster cred, what real disadvantages do they face?  What features of other language ecosystems are missing or underused in PHP?", 
-    "author": "Luke Welling (PandaWhale)", 
+    "author": "Luke Welling ([Redacted])", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24320", 
-    "raw_description": "Presented by Luke Welling (PandaWhale). PHP has rarely been a fashionable language, so it's probably no surprise that it is not high fashion for startups today.  What advantages influence the startups that choose it?  Ignoring loss of hipster cred, what real disadvantages do they face?  What features of other language ecosystems are missing or underused in PHP?", 
+    "raw_description": "Presented by Luke Welling ([Redacted]). PHP has rarely been a fashionable language, so it's probably no surprise that it is not high fashion for startups today.  What advantages influence the startups that choose it?  Ignoring loss of hipster cred, what real disadvantages do they face?  What features of other language ecosystems are missing or underused in PHP?", 
     "title": "Why would you use PHP for a startup?", 
     "room": "E144"
   }, 
   {
     "start": "2012-07-19 11:30:00-08:00", 
     "end": "2012-07-19 12:10:00-08:00", 
-    "description": "CakePHP 2.0 has been out for a couple of months now, and the new version has stabilised well, resulting in a massive leap forward for PHP and CakePHP developers. This new framework version for CakePHP represents a real stride in terms of performance, flexibility and overall speed.", 
-    "author": "Graham Weldon (Cake Development Corporation)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23096", 
-    "raw_description": "Presented by Graham Weldon (Cake Development Corporation). CakePHP 2.0 has been out for a couple of months now, and the new version has stabilised well, resulting in a massive leap forward for PHP and CakePHP developers. This new framework version for CakePHP represents a real stride in terms of performance, flexibility and overall speed.", 
-    "title": "CakePHP 2.0 - Truly rapid application development", 
+    "description": "When dealing with databases, developers frequently run into the N+1 problem, in which they populate domain objects via queries in loops. This causes terrible performance drags. The talk shows how to solve the N+1 problem in plain PHP as well as Postgres. It concludes with a way of automating the PHP side, and includes editorializing about the origins of the N+1 problem in the developer mindset.", 
+    "author": "Paul Jones (http://paul-m-jones.com/)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24071", 
+    "raw_description": "Presented by Paul Jones (http://paul-m-jones.com/). When dealing with databases, developers frequently run into the N+1 problem, in which they populate domain objects via queries in loops. This causes terrible performance drags. The talk shows how to solve the N+1 problem in plain PHP as well as Postgres. It concludes with a way of automating the PHP side, and includes editorializing about the origins of the N+1 problem in the developer mindset.", 
+    "title": "A Stitch In Time Saves Nine: Solving the N+1 Problem", 
     "room": "E144"
   }, 
   {
     "start": "2012-07-19 13:40:00-08:00", 
     "end": "2012-07-19 14:20:00-08:00", 
-    "description": "Presented by Andy Blyler (Barracuda Networks, Inc & Nutshell, LLC), Lindsay Snider. PHP is commonly thought of as a programming language that is used in web development.  However, it is also a approachable and powerful language to use for creating daemons.  In this session we will discuss why and how we use PHP to run everything from our web interface to our backend processes as part of the Barracuda Backup Service.", 
-    "author": "", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24178", 
-    "raw_description": "Presented by Andy Blyler (Barracuda Networks, Inc & Nutshell, LLC), Lindsay Snider. PHP is commonly thought of as a programming language that is used in web development.  However, it is also a approachable and powerful language to use for creating daemons.  In this session we will discuss why and how we use PHP to run everything from our web interface to our backend processes as part of the Barracuda Backup Service.", 
-    "title": "Daemonizing PHP", 
+    "description": "So you know the PHP language back to front, you know all the frameworks, and you've churned out countless native PHP modules in C -- but have you ever wondered how you might toy with the PHP language itself? Come along and learn a little more about the inside of your favourite programming language as I guide you through the process of adding a new keyword to the language.", 
+    "author": "Thomas Lee (New Relic)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24377", 
+    "raw_description": "Presented by Thomas Lee (New Relic). So you know the PHP language back to front, you know all the frameworks, and you've churned out countless native PHP modules in C -- but have you ever wondered how you might toy with the PHP language itself? Come along and learn a little more about the inside of your favourite programming language as I guide you through the process of adding a new keyword to the language.", 
+    "title": "Inside PHP", 
     "room": "E144"
   }, 
   {
@@ -1882,11 +1982,11 @@
   {
     "start": "2012-07-19 17:00:00-08:00", 
     "end": "2012-07-19 17:40:00-08:00", 
-    "description": "When dealing with databases, developers frequently run into the N+1 problem, in which they populate domain objects via queries in loops. This causes terrible performance drags. The talk shows how to solve the N+1 problem in plain PHP as well as Postgres. It concludes with a way of automating the PHP side, and includes editorializing about the origins of the N+1 problem in the developer mindset.", 
-    "author": "Paul Jones (http://paul-m-jones.com/)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24071", 
-    "raw_description": "Presented by Paul Jones (http://paul-m-jones.com/). When dealing with databases, developers frequently run into the N+1 problem, in which they populate domain objects via queries in loops. This causes terrible performance drags. The talk shows how to solve the N+1 problem in plain PHP as well as Postgres. It concludes with a way of automating the PHP side, and includes editorializing about the origins of the N+1 problem in the developer mindset.", 
-    "title": "A Stitch In Time Saves Nine: Solving the N+1 Problem", 
+    "description": "Most developers are developers, not DBAs, yet many smaller companies have inadequate database experience in-house.  This is largely because databases like MySQL and PostgreSQL don't necessarily require a full-time DBA to administer.  It's become more important for developers at smaller companies to have some basic knowledge of how to keep their database happy.", 
+    "author": "Steve Meyers (Utah Open Source Foundation)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23264", 
+    "raw_description": "Presented by Steve Meyers (Utah Open Source Foundation). Most developers are developers, not DBAs, yet many smaller companies have inadequate database experience in-house.  This is largely because databases like MySQL and PostgreSQL don't necessarily require a full-time DBA to administer.  It's become more important for developers at smaller companies to have some basic knowledge of how to keep their database happy.", 
+    "title": "What every web developer should know about database optimization", 
     "room": "E144"
   }, 
   {
@@ -1917,6 +2017,26 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23950", 
     "raw_description": "Presented by Leon Stein (Decide). These days it is not uncommon to have 100s of gigabytes of data that needs to be sliced and diced then delivered fast and rendered quickly. This talk seeks to cover some strategies for caching large data sets without tons of expensive hardware, but through software and data design.", 
     "title": "Big Data Without Big Database: Extreme In-Memory Caching", 
+    "room": "E144"
+  }, 
+  {
+    "start": "2012-07-18 19:00:00-08:00", 
+    "end": "2012-07-18 20:00:00-08:00", 
+    "description": "Meet, discuss and learn about open translation and localization tools that you can use to make your application or service accessible to users globally.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26455", 
+    "raw_description": "Meet, discuss and learn about open translation and localization tools that you can use to make your application or service accessible to users globally.", 
+    "title": "Open Translation & Localization Tools", 
+    "room": "E144"
+  }, 
+  {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "Are you using Spring? Curious about some of the upcoming new features and projects? Then this is the BoF for you.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26485", 
+    "raw_description": "Are you using Spring? Curious about some of the upcoming new features and projects? Then this is the BoF for you.", 
+    "title": "Enterprise Java and Spring", 
     "room": "E144"
   }, 
   {
@@ -1993,9 +2113,9 @@
     "start": "2012-07-19 11:30:00-08:00", 
     "end": "2012-07-19 12:10:00-08:00", 
     "description": "We've assembled the first comprehensive history of open source in the US government -- all the major events, publications, policy, and code releases we could collect. And it's mashable. From that data, we learn how the government adopts open source, how policies affects adoption, and how governments have most effectively encouraged their own open source use.", 
-    "author": "Karl Fogel (Civic Commons / Code for America), Gunnar  Hellekson (Red Hat)", 
+    "author": "Karl Fogel (Open Tech Strategies, LLC), Gunnar  Hellekson (Red Hat)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24221", 
-    "raw_description": "Presented by Karl Fogel (Civic Commons / Code for America), Gunnar  Hellekson (Red Hat). We've assembled the first comprehensive history of open source in the US government -- all the major events, publications, policy, and code releases we could collect. And it's mashable. From that data, we learn how the government adopts open source, how policies affects adoption, and how governments have most effectively encouraged their own open source use.", 
+    "raw_description": "Presented by Karl Fogel (Open Tech Strategies, LLC), Gunnar  Hellekson (Red Hat). We've assembled the first comprehensive history of open source in the US government -- all the major events, publications, policy, and code releases we could collect. And it's mashable. From that data, we learn how the government adopts open source, how policies affects adoption, and how governments have most effectively encouraged their own open source use.", 
     "title": "US Government v. Open Source: A History and Lessons Learned", 
     "room": "E145"
   }, 
@@ -2062,11 +2182,31 @@
   {
     "start": "2012-07-20 11:50:00-08:00", 
     "end": "2012-07-20 12:30:00-08:00", 
-    "description": "In this session, the Nebula project manager and a senior OpenStack architect at Mirantis will discuss the evolution of NASA\u2019s open source project. They will share the history of how this project originally came about, discuss the challenges faced by the Nebula project team as OpenStack continued to evolve, and preview the roadmap for the future of the project within the agency and beyond.", 
-    "author": "Jason Venner (Mirantis), Keith Shackelford (NASA)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24079", 
-    "raw_description": "Presented by Jason Venner (Mirantis), Keith Shackelford (NASA). In this session, the Nebula project manager and a senior OpenStack architect at Mirantis will discuss the evolution of NASA\u2019s open source project. They will share the history of how this project originally came about, discuss the challenges faced by the Nebula project team as OpenStack continued to evolve, and preview the roadmap for the future of the project within the agency and beyond.", 
-    "title": "OpenStack at NASA: How a government agency started a technological movement", 
+    "description": "You have a great business idea and your friends and colleagues are supportive and tell you that you can do it. The forms have been filled in, you've said goodbye to your rat-race job, and you're investing your energy into getting things done. Still, despite how compelling your idea is, you're not making any money and your savings are dwindling. What are you doing wrong?", 
+    "author": "Jacinta Richardson (Perl Training Australia)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26537", 
+    "raw_description": "Presented by Jacinta Richardson (Perl Training Australia). You have a great business idea and your friends and colleagues are supportive and tell you that you can do it. The forms have been filled in, you've said goodbye to your rat-race job, and you're investing your energy into getting things done. Still, despite how compelling your idea is, you're not making any money and your savings are dwindling. What are you doing wrong?", 
+    "title": "Small Business Mistakes", 
+    "room": "E145"
+  }, 
+  {
+    "start": "2012-07-18 19:00:00-08:00", 
+    "end": "2012-07-18 20:00:00-08:00", 
+    "description": " Join Arun C. Murthy, Apache Hadoop PMC and co-founder of Hortonworks, to discuss the next generation of Apache Hadoop and the major improvements in \"Hadoop-.23\".", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26352", 
+    "raw_description": " Join Arun C. Murthy, Apache Hadoop PMC and co-founder of Hortonworks, to discuss the next generation of Apache Hadoop and the major improvements in \"Hadoop-.23\".", 
+    "title": "Next Generation of Apache Hadoop", 
+    "room": "E145"
+  }, 
+  {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "I've recently been hired (part-time) by Arduino to wear a couple of different and flexible hats, the primary two responsibilities being community relations and educational materials. If you use, teach, or are in general interested in Arduino I'd like find out what you wish I would do.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26504", 
+    "raw_description": "I've recently been hired (part-time) by Arduino to wear a couple of different and flexible hats, the primary two responsibilities being community relations and educational materials. If you use, teach, or are in general interested in Arduino I'd like find out what you wish I would do.", 
+    "title": "Meet the Arduino Community Manager and tell him what you'd like to see", 
     "room": "E145"
   }, 
   {
@@ -2082,10 +2222,10 @@
   {
     "start": "2012-07-16 13:30:00-08:00", 
     "end": "2012-07-16 17:00:00-08:00", 
-    "description": "Social media has become the true mirror of the society & no doubt, Twitter is silver behind the glass. An understanding of the underlying network models reflected by the tweets & associated metadata enables one to infer and predict. In this tutorial, we will derive domain metrics like Brand Rank and Sentiment Analysis by applying SNA principles via Twitter APIs.", 
+    "description": "Social media has become the true mirror of the society & no doubt, Twitter is silver behind the glass. An understanding of the underlying network models reflected by the tweets & associated metadata enables one to infer and predict. In this tutorial, we will derive domain metrics like Cliques and Brand Rank by applying SNA principles via Twitter APIs.", 
     "author": "Krishna Sankar (Genophen)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23130", 
-    "raw_description": "Presented by Krishna Sankar (Genophen). Social media has become the true mirror of the society & no doubt, Twitter is silver behind the glass. An understanding of the underlying network models reflected by the tweets & associated metadata enables one to infer and predict. In this tutorial, we will derive domain metrics like Brand Rank and Sentiment Analysis by applying SNA principles via Twitter APIs.", 
+    "raw_description": "Presented by Krishna Sankar (Genophen). Social media has become the true mirror of the society & no doubt, Twitter is silver behind the glass. An understanding of the underlying network models reflected by the tweets & associated metadata enables one to infer and predict. In this tutorial, we will derive domain metrics like Cliques and Brand Rank by applying SNA principles via Twitter APIs.", 
     "title": "The Art of Social Media Analysis with Twitter & Python", 
     "room": "E145-146"
   }, 
@@ -2113,9 +2253,9 @@
     "start": "2012-07-18 10:40:00-08:00", 
     "end": "2012-07-18 11:20:00-08:00", 
     "description": "The BodyTrack project develops open source tools to aggregate and visualize self-tracking data from a variety of sources. We seek to empower individuals to explore how various factors affect them, such as evaluating potential food sensitivities, asthma or migraine triggers, or other environment/health interactions. We will discuss these tools and experiences using them.", 
-    "author": "Anne Wright (CMU), Candide Kemmler (Fluxtream.com)", 
+    "author": "Anne Wright (CMU), Candide Kemmler (Fluxtream.com), Rich Gibson (Gigapan.org)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24733", 
-    "raw_description": "Presented by Anne Wright (CMU), Candide Kemmler (Fluxtream.com). The BodyTrack project develops open source tools to aggregate and visualize self-tracking data from a variety of sources. We seek to empower individuals to explore how various factors affect them, such as evaluating potential food sensitivities, asthma or migraine triggers, or other environment/health interactions. We will discuss these tools and experiences using them.", 
+    "raw_description": "Presented by Anne Wright (CMU), Candide Kemmler (Fluxtream.com), Rich Gibson (Gigapan.org). The BodyTrack project develops open source tools to aggregate and visualize self-tracking data from a variety of sources. We seek to empower individuals to explore how various factors affect them, such as evaluating potential food sensitivities, asthma or migraine triggers, or other environment/health interactions. We will discuss these tools and experiences using them.", 
     "title": "BodyTrack: Open Source Tools for Health Empowerment through Self-Tracking", 
     "room": "E146"
   }, 
@@ -2152,20 +2292,20 @@
   {
     "start": "2012-07-18 16:10:00-08:00", 
     "end": "2012-07-18 16:50:00-08:00", 
-    "description": "After 9/11, the FDNY was faced with many challenges, one of which was the health and safety of those officers that responded during the collapse. This session will present how the FDNY (largest combined Fire and EMS provider) used open source solution Alfresco to manage, record and streamline Firefighter Line of Duty Injuries as well as the FDNY World Trade Center Medical Monitoring Program.", 
-    "author": "David Prezant (New York Fire Department)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24295", 
-    "raw_description": "Presented by David Prezant (New York Fire Department). After 9/11, the FDNY was faced with many challenges, one of which was the health and safety of those officers that responded during the collapse. This session will present how the FDNY (largest combined Fire and EMS provider) used open source solution Alfresco to manage, record and streamline Firefighter Line of Duty Injuries as well as the FDNY World Trade Center Medical Monitoring Program.", 
-    "title": "Case Study: New York Fire Department and Open Source", 
+    "description": "Unicode isn't new, but it still seems hard when you're starting at the beginning and haven't even been told the difference between a glyph, a codepoint, a character and a byte. Every year there are talks and tutorials at conferences about it, but if you haven't grasped the basics, you can feel frustrated and lost much too quickly. Fear not! It's about to get easier.", 
+    "author": "Jacinta Richardson (Perl Training Australia)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26536", 
+    "raw_description": "Presented by Jacinta Richardson (Perl Training Australia). Unicode isn't new, but it still seems hard when you're starting at the beginning and haven't even been told the difference between a glyph, a codepoint, a character and a byte. Every year there are talks and tutorials at conferences about it, but if you haven't grasped the basics, you can feel frustrated and lost much too quickly. Fear not! It's about to get easier.", 
+    "title": "Don't Fear Unicode", 
     "room": "E146"
   }, 
   {
     "start": "2012-07-18 17:00:00-08:00", 
     "end": "2012-07-18 17:40:00-08:00", 
     "description": "What are the advantages and disadvantages of building Health IT platforms instead of out-of-the box systems? How can people building these systems share tools and resources with others in different countries who may do very different work? This panel of participants in the OpenMRS community will share their real-world experiences from multiple continents on a variety of scales.", 
-    "author": "Paul Biondich (OpenMRS), Joaqu\u00edn Blaya (eHealth Systems Chile), Hamish Fraser (Partners In Health)", 
+    "author": "Paul Biondich (OpenMRS), Burke Mamlin (OpenMRS), Hamish Fraser (Partners In Health)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24177", 
-    "raw_description": "Presented by Paul Biondich (OpenMRS), Joaqu\u00edn Blaya (eHealth Systems Chile), Hamish Fraser (Partners In Health). What are the advantages and disadvantages of building Health IT platforms instead of out-of-the box systems? How can people building these systems share tools and resources with others in different countries who may do very different work? This panel of participants in the OpenMRS community will share their real-world experiences from multiple continents on a variety of scales.", 
+    "raw_description": "Presented by Paul Biondich (OpenMRS), Burke Mamlin (OpenMRS), Hamish Fraser (Partners In Health). What are the advantages and disadvantages of building Health IT platforms instead of out-of-the box systems? How can people building these systems share tools and resources with others in different countries who may do very different work? This panel of participants in the OpenMRS community will share their real-world experiences from multiple continents on a variety of scales.", 
     "title": "Global communities building open source Health IT platforms: The OpenMRS experience", 
     "room": "E146"
   }, 
@@ -2173,9 +2313,9 @@
     "start": "2012-07-19 10:40:00-08:00", 
     "end": "2012-07-19 11:20:00-08:00", 
     "description": "Open standards and open architecture support developing countries to build systems in a more thoughtful and pragmatic way. Through this approach, and using these tools, we can follow an example of how Rwanda has begun to design and develop a national health information system, and how this will allow other countries to do the same, more quickly and more effectively then ever before", 
-    "author": "Paul Biondich (OpenMRS), Derek Ritz (ecGroup Inc.), Dykki Settle (IntraHealth International)", 
+    "author": "Paul Biondich (OpenMRS), Derek Ritz (ecGroup Inc.), Dykki Settle (IntraHealth International), Eduardo Jezierski (InSTEDD)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24181", 
-    "raw_description": "Presented by Paul Biondich (OpenMRS), Derek Ritz (ecGroup Inc.), Dykki Settle (IntraHealth International). Open standards and open architecture support developing countries to build systems in a more thoughtful and pragmatic way. Through this approach, and using these tools, we can follow an example of how Rwanda has begun to design and develop a national health information system, and how this will allow other countries to do the same, more quickly and more effectively then ever before", 
+    "raw_description": "Presented by Paul Biondich (OpenMRS), Derek Ritz (ecGroup Inc.), Dykki Settle (IntraHealth International), Eduardo Jezierski (InSTEDD). Open standards and open architecture support developing countries to build systems in a more thoughtful and pragmatic way. Through this approach, and using these tools, we can follow an example of how Rwanda has begun to design and develop a national health information system, and how this will allow other countries to do the same, more quickly and more effectively then ever before", 
     "title": "Open Standards and Open Architecture in Global Health: Saving Lives with Open Source", 
     "room": "E146"
   }, 
@@ -2203,9 +2343,9 @@
     "start": "2012-07-19 14:30:00-08:00", 
     "end": "2012-07-19 15:10:00-08:00", 
     "description": "Long-time open source advocate in government Deb Bryant takes off the gloves and talks about legislators and lobbyists, policy wonks and pundits, bureaucrats and and advocates. It's just the fodder you\u2019ll need to get behind a new national technology imperative; recycle US Federal investments in software into the innovation economy while taking control of their own software destiny.", 
-    "author": "Deborah Bryant (Deb Bryant & Associates)", 
+    "author": "Deborah Bryant (Deb Bryant & Associates), John Scott (RadiantBlue Technologies, Inc. )", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25832", 
-    "raw_description": "Presented by Deborah Bryant (Deb Bryant & Associates). Long-time open source advocate in government Deb Bryant takes off the gloves and talks about legislators and lobbyists, policy wonks and pundits, bureaucrats and and advocates. It's just the fodder you\u2019ll need to get behind a new national technology imperative; recycle US Federal investments in software into the innovation economy while taking control of their own software destiny.", 
+    "raw_description": "Presented by Deborah Bryant (Deb Bryant & Associates), John Scott (RadiantBlue Technologies, Inc. ). Long-time open source advocate in government Deb Bryant takes off the gloves and talks about legislators and lobbyists, policy wonks and pundits, bureaucrats and and advocates. It's just the fodder you\u2019ll need to get behind a new national technology imperative; recycle US Federal investments in software into the innovation economy while taking control of their own software destiny.", 
     "title": "Free the Code: The Case for the US Federal Government to Open Source Software as a Default Position", 
     "room": "E146"
   }, 
@@ -2233,9 +2373,9 @@
     "start": "2012-07-20 10:00:00-08:00", 
     "end": "2012-07-20 10:40:00-08:00", 
     "description": "Various studies over the past decade are nearly universal in lambasting the office chair as the harbinger of a number of ills. But what's the alternative? In this session, we look at some popular alternatives to the traditional office chair including standing at a desk, treadmill desks, saddle seats, stools, kneeling chairs, the Swooper, and balance ball chairs.", 
-    "author": "Jason Levitt (TIC)", 
+    "author": "Jason Levitt (Spirit.io)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24263", 
-    "raw_description": "Presented by Jason Levitt (TIC). Various studies over the past decade are nearly universal in lambasting the office chair as the harbinger of a number of ills. But what's the alternative? In this session, we look at some popular alternatives to the traditional office chair including standing at a desk, treadmill desks, saddle seats, stools, kneeling chairs, the Swooper, and balance ball chairs.", 
+    "raw_description": "Presented by Jason Levitt (Spirit.io). Various studies over the past decade are nearly universal in lambasting the office chair as the harbinger of a number of ills. But what's the alternative? In this session, we look at some popular alternatives to the traditional office chair including standing at a desk, treadmill desks, saddle seats, stools, kneeling chairs, the Swooper, and balance ball chairs.", 
     "title": "What's the Matter With Sitting On Your Butt All Day?", 
     "room": "E146"
   }, 
@@ -2257,6 +2397,26 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24112", 
     "raw_description": "Presented by Stephen Chin (Oracle). This presentation demonstrates the potential of using JavaFX 2 together with alternative languages such as Groovy, Clojure, and Scala. It also will showcase the successor to JavaFX Script, Visage, a DSL with features specifically targeted at helping create clean UIs.", 
     "title": "Hacking JavaFX with Groovy, Clojure, Scala, and Visage", 
+    "room": "E146"
+  }, 
+  {
+    "start": "2012-07-18 19:00:00-08:00", 
+    "end": "2012-07-18 20:00:00-08:00", 
+    "description": "A group discussion on the integration technologies needed in the new open Platform as a Service era - we've got mature data formats, messaging providers and protocols - what sorts of methods and techniques are useful, and what are we missing?", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26478", 
+    "raw_description": "A group discussion on the integration technologies needed in the new open Platform as a Service era - we've got mature data formats, messaging providers and protocols - what sorts of methods and techniques are useful, and what are we missing?", 
+    "title": "Messaging and Integration in PaaS-based solutions (Cloud Foundry)", 
+    "room": "E146"
+  }, 
+  {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "If you're running MySQL on the large scales you're using MySQL at least some of the technologies on Clustering, Replication or Sharding.  Come to This BOF to share your experiences with different strategies, tools and technologies and learn what other people are doing", 
+    "author": "Peter Zaitsev (Percona Inc)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26507", 
+    "raw_description": "Presented by Peter Zaitsev (Percona Inc). If you're running MySQL on the large scales you're using MySQL at least some of the technologies on Clustering, Replication or Sharding.  Come to This BOF to share your experiences with different strategies, tools and technologies and learn what other people are doing", 
+    "title": "MySQL Sharding Replication and Clustering", 
     "room": "E146"
   }, 
   {
@@ -2412,12 +2572,42 @@
   {
     "start": "2012-07-17 13:30:00-08:00", 
     "end": "2012-07-17 17:00:00-08:00", 
-    "description": "juju is a deployment and service orchestration tool for the cloud. With it you can deploy over 80 services to AWS, OpenStack, or bare metal. This charm school will show you what juju is, how it works, and how it can save you time by showing you how to write juju charms, which are scripts you'll use and share to deploy your service in a few commands.", 
+    "description": "Deploying things at scale can get hard and complicated, wouldn't it be nice if deploying services was as easy as using apt-get? With Ubuntu and juju you can deploy over 80 services to AWS, HP Cloud, OpenStack, or bare metal with really simple commands. This talk will show you what juju is, how it works, and how it can save you time by showing you how to write juju charms.", 
     "author": "Jorge Castro (Canonical Ltd. / Ubuntu)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26182", 
-    "raw_description": "Presented by Jorge Castro (Canonical Ltd. / Ubuntu). juju is a deployment and service orchestration tool for the cloud. With it you can deploy over 80 services to AWS, OpenStack, or bare metal. This charm school will show you what juju is, how it works, and how it can save you time by showing you how to write juju charms, which are scripts you'll use and share to deploy your service in a few commands.", 
-    "title": "Juju Charm School (Sponsored Tutorial)", 
+    "raw_description": "Presented by Jorge Castro (Canonical Ltd. / Ubuntu). Deploying things at scale can get hard and complicated, wouldn't it be nice if deploying services was as easy as using apt-get? With Ubuntu and juju you can deploy over 80 services to AWS, HP Cloud, OpenStack, or bare metal with really simple commands. This talk will show you what juju is, how it works, and how it can save you time by showing you how to write juju charms.", 
+    "title": "Service Orchestration with Ubuntu in the Cloud (Sponsored Tutorial)", 
     "room": "E147"
+  }, 
+  {
+    "start": "2012-07-17 09:00:00-08:00", 
+    "end": "2012-07-17 12:30:00-08:00", 
+    "description": "Here's your chance to learn how to build your own Platform-as-a-Service (PaaS). Come check out this session with Krishna and Mark from the OpenShift team and learn how to install, configure and deploy OpenShift Origin - the open source project that powers the OpenShift service - on your laptop.", 
+    "author": "Mark Atwood (OpenShift at Red Hat), Krishna Raman (Red Hat)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26404", 
+    "raw_description": "Presented by Mark Atwood (OpenShift at Red Hat), Krishna Raman (Red Hat). Here's your chance to learn how to build your own Platform-as-a-Service (PaaS). Come check out this session with Krishna and Mark from the OpenShift team and learn how to install, configure and deploy OpenShift Origin - the open source project that powers the OpenShift service - on your laptop.", 
+    "title": "Build your Own Platform-as-a-Service (PaaS), Just like Red Hat's (Sponsored Tutorial)", 
+    "room": "E147"
+  }, 
+  {
+    "start": "2012-07-18 19:00:00-08:00", 
+    "end": "2012-07-18 20:00:00-08:00", 
+    "description": "Contributing successfully to free software projects requires persistence, humility, and above all, good communication skills.  Upstream University will lead a discussion on how to teach these to aspiring contributors: can it be done?  If so, how?", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26499", 
+    "raw_description": "Contributing successfully to free software projects requires persistence, humility, and above all, good communication skills.  Upstream University will lead a discussion on how to teach these to aspiring contributors: can it be done?  If so, how?", 
+    "title": "Training developers on how to contribute to free software projects", 
+    "room": "E147"
+  }, 
+  {
+    "start": "2012-07-18 10:40:00-08:00", 
+    "end": "2012-07-18 11:20:00-08:00", 
+    "description": "The mobile platform adds new challenges to concurrent programming making it much more like what used to be called \"real time programming\".  The Android OS addresses these challenges with three frameworks: a managed application lifecycle, the Looper class, and the AsyncTask template.  But is it enough?", 
+    "author": "G. Blake Meike (Open Mobile World Wide)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24113", 
+    "raw_description": "Presented by G. Blake Meike (Open Mobile World Wide). The mobile platform adds new challenges to concurrent programming making it much more like what used to be called \"real time programming\".  The Android OS addresses these challenges with three frameworks: a managed application lifecycle, the Looper class, and the AsyncTask template.  But is it enough?", 
+    "title": "Concurrent Programming for Mobile Application: Is Android Up To The Challenge?", 
+    "room": "F150"
   }, 
   {
     "start": "2012-07-18 11:30:00-08:00", 
@@ -2463,9 +2653,9 @@
     "start": "2012-07-18 17:00:00-08:00", 
     "end": "2012-07-18 17:40:00-08:00", 
     "description": "This presentation will focus on a process for taking open data sources, turning them into beautiful custom maps, using them on mobile in an offline-capable way, and doing it all with entirely open source code.", 
-    "author": "Justin Miller (MapBox)", 
+    "author": "Justin Miller (MapBox / Development Seed)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24027", 
-    "raw_description": "Presented by Justin Miller (MapBox). This presentation will focus on a process for taking open data sources, turning them into beautiful custom maps, using them on mobile in an offline-capable way, and doing it all with entirely open source code.", 
+    "raw_description": "Presented by Justin Miller (MapBox / Development Seed). This presentation will focus on a process for taking open data sources, turning them into beautiful custom maps, using them on mobile in an offline-capable way, and doing it all with entirely open source code.", 
     "title": "Building a mobile, offline mapping stack using open tools & data", 
     "room": "F150"
   }, 
@@ -2530,16 +2720,6 @@
     "room": "F150"
   }, 
   {
-    "start": "2012-07-20 10:00:00-08:00", 
-    "end": "2012-07-20 10:40:00-08:00", 
-    "description": "Project Mustard Seed is an open source development platform that gives people control of their personal data, provides safeguards for sharing and protecting that data, and for developing services and applications to monetize such data.", 
-    "author": "Toby Boudreaux (Control Group), Dr. John Clippinger (ID Cubed, MIT Media Lab)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23824", 
-    "raw_description": "Presented by Toby Boudreaux (Control Group), Dr. John Clippinger (ID Cubed, MIT Media Lab). Project Mustard Seed is an open source development platform that gives people control of their personal data, provides safeguards for sharing and protecting that data, and for developing services and applications to monetize such data.", 
-    "title": "Project Mustard Seed: A Trusted Open Platform", 
-    "room": "F150"
-  }, 
-  {
     "start": "2012-07-20 11:00:00-08:00", 
     "end": "2012-07-20 11:40:00-08:00", 
     "description": "If you've ever written any code to authenticate wtih Twitter, you may have been confused by all the signature methods and base strings. You'll be happy to know that OAuth 2 has vastly simplified the process, but at what cost?", 
@@ -2582,6 +2762,16 @@
   {
     "start": "2012-07-18 10:40:00-08:00", 
     "end": "2012-07-18 11:20:00-08:00", 
+    "description": "The Shared Learning Collaborative (SLC) is building a set of shared technology services that will allow states and school districts to connect student data and education materials that currently exist in different formats and locations. Learn about the developing technology, including the technical specifications, data store, APIs and SDK, and address participant questions.", 
+    "author": "Sharren Bates (Bill & Melinda Gates Foundation)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26434", 
+    "raw_description": "Presented by Sharren Bates (Bill & Melinda Gates Foundation). The Shared Learning Collaborative (SLC) is building a set of shared technology services that will allow states and school districts to connect student data and education materials that currently exist in different formats and locations. Learn about the developing technology, including the technical specifications, data store, APIs and SDK, and address participant questions.", 
+    "title": "The Shared Learning Collaborative", 
+    "room": "F151"
+  }, 
+  {
+    "start": "2012-07-18 11:30:00-08:00", 
+    "end": "2012-07-18 12:10:00-08:00", 
     "description": " Our current public education system was built using industrial age thinking, and is now struggling to adapt to modern educational needs. Open Source philosophies\thave given us an information age of prosperity.  Recent developments mean we can finally use \"open source thinking\" to transform our educational system into a 21st century success- but it won't look much like it does today.", 
     "author": "Kurt Bollacker (Applied Minds)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26307", 
@@ -2600,6 +2790,16 @@
     "room": "F151"
   }, 
   {
+    "start": "2012-07-18 14:30:00-08:00", 
+    "end": "2012-07-18 15:10:00-08:00", 
+    "description": "One of the many parts of the FERPA law is the ability of students to put a restriction on the release of their academic information. While this sounds simple enough, there are many powerful (and sometimes unforeseen) consequences of choosing the Restriction. In this session, we will discuss why you should add the field to your student records, why students opt in, and what side effects can happen.", 
+    "author": "Michael Brewer (UGA: Franklin College OIT)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26001", 
+    "raw_description": "Presented by Michael Brewer (UGA: Franklin College OIT). One of the many parts of the FERPA law is the ability of students to put a restriction on the release of their academic information. While this sounds simple enough, there are many powerful (and sometimes unforeseen) consequences of choosing the Restriction. In this session, we will discuss why you should add the field to your student records, why students opt in, and what side effects can happen.", 
+    "title": "Big Little Boolean: The FERPA Restriction and You", 
+    "room": "F151"
+  }, 
+  {
     "start": "2012-07-18 16:10:00-08:00", 
     "end": "2012-07-18 16:50:00-08:00", 
     "description": "We are bringing a previously unrepresented field, neuroscience, to K12 education with an unheard of method: we are open-sourcing everything. You'll learn how building upon open source technologies and using open licensing on our creations lets us do what no one else has -- bring neuroscience to primary education classrooms around the world!", 
@@ -2607,6 +2807,16 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25210", 
     "raw_description": "Presented by Nathan Dotz (Backyard Brains). We are bringing a previously unrepresented field, neuroscience, to K12 education with an unheard of method: we are open-sourcing everything. You'll learn how building upon open source technologies and using open licensing on our creations lets us do what no one else has -- bring neuroscience to primary education classrooms around the world!", 
     "title": "Backyard Brains: Improving neuroscience education through open-source lessons and technology", 
+    "room": "F151"
+  }, 
+  {
+    "start": "2012-07-18 17:00:00-08:00", 
+    "end": "2012-07-18 17:40:00-08:00", 
+    "description": "Take a tour of 8 years of lessons learned building, assembling, purchasing and adapting an optimal online learning ecosystem at a forward thinking 5-12 independent school. Find out how to get rapid teacher adoption, maximize resources and influence instructional practices. We will also take a tour of how Eastside Prep's integrated systems support all levels of the school.", 
+    "author": "Jonathan Briggs (Eastside Preparatory School)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26109", 
+    "raw_description": "Presented by Jonathan Briggs (Eastside Preparatory School). Take a tour of 8 years of lessons learned building, assembling, purchasing and adapting an optimal online learning ecosystem at a forward thinking 5-12 independent school. Find out how to get rapid teacher adoption, maximize resources and influence instructional practices. We will also take a tour of how Eastside Prep's integrated systems support all levels of the school.", 
+    "title": "Designing Systems for Fluid Teacher Adoption", 
     "room": "F151"
   }, 
   {
@@ -2630,12 +2840,32 @@
     "room": "F151"
   }, 
   {
+    "start": "2012-07-19 13:40:00-08:00", 
+    "end": "2012-07-19 14:20:00-08:00", 
+    "description": "The Darwin Information Typing Architecture (DITA) is an OASIS specification that defines a set of XML doc types for authoring and organizing topic-oriented information, including maps to sequence topics and other resources into structured collections, and taxonomy-driven metadata to classify content. Attend this session to learn about DITA features supporting interop standards for K-12 education.", 
+    "author": "John Hunt (IBM)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26436", 
+    "raw_description": "Presented by John Hunt (IBM). The Darwin Information Typing Architecture (DITA) is an OASIS specification that defines a set of XML doc types for authoring and organizing topic-oriented information, including maps to sequence topics and other resources into structured collections, and taxonomy-driven metadata to classify content. Attend this session to learn about DITA features supporting interop standards for K-12 education.", 
+    "title": "Using OASIS DITA Learning Maps to Align with Standards and Model Learning Pathways", 
+    "room": "F151"
+  }, 
+  {
+    "start": "2012-07-19 14:30:00-08:00", 
+    "end": "2012-07-19 15:10:00-08:00", 
+    "description": "Development and exchange of formative assessments are hampered by inconsistent implementation of standards that do exist, and silo-ed data with static transfer between systems. CoreSpring,org is building an open library of formative assessment content aligned to new teaching standards, and a suite of tools and open APIs to facilitate development, distribution and data analysis.", 
+    "author": "Evan Eustace (CoreSpring)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26435", 
+    "raw_description": "Presented by Evan Eustace (CoreSpring). Development and exchange of formative assessments are hampered by inconsistent implementation of standards that do exist, and silo-ed data with static transfer between systems. CoreSpring,org is building an open library of formative assessment content aligned to new teaching standards, and a suite of tools and open APIs to facilitate development, distribution and data analysis.", 
+    "title": "Advancing the State of the Art in Formative Assessment Development and Distribution", 
+    "room": "F151"
+  }, 
+  {
     "start": "2012-07-19 16:10:00-08:00", 
     "end": "2012-07-19 16:50:00-08:00", 
     "description": "Self directed, interest based learning needs validation, Mozilla's Open Badges Infrastructure opens learning accreditation to all. We'll cover the current thinking around interest based learning, and dive into the implementation details of the Mozilla Open Badges infrastructure, which provides a framework for recognizing and legitimizing self directed interest based learning.", 
-    "author": "Tara Tiger Brown (Tiger Productions), Chris McAvoy (Mozilla Foundation)", 
+    "author": "Tara Tiger Brown (UC Irvine Digital Media Learning Hub), Chris McAvoy (Mozilla Foundation)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25978", 
-    "raw_description": "Presented by Tara Tiger Brown (Tiger Productions), Chris McAvoy (Mozilla Foundation). Self directed, interest based learning needs validation, Mozilla's Open Badges Infrastructure opens learning accreditation to all. We'll cover the current thinking around interest based learning, and dive into the implementation details of the Mozilla Open Badges infrastructure, which provides a framework for recognizing and legitimizing self directed interest based learning.", 
+    "raw_description": "Presented by Tara Tiger Brown (UC Irvine Digital Media Learning Hub), Chris McAvoy (Mozilla Foundation). Self directed, interest based learning needs validation, Mozilla's Open Badges Infrastructure opens learning accreditation to all. We'll cover the current thinking around interest based learning, and dive into the implementation details of the Mozilla Open Badges infrastructure, which provides a framework for recognizing and legitimizing self directed interest based learning.", 
     "title": "Legitimizing interest based learning with Mozilla Open Badges", 
     "room": "F151"
   }, 
@@ -2650,12 +2880,22 @@
     "room": "F151"
   }, 
   {
+    "start": "2012-07-20 10:00:00-08:00", 
+    "end": "2012-07-20 10:40:00-08:00", 
+    "description": "We will cover the migration from Flash players to HTML5 and tools to support that transition. We will look at challenges of creating a consistent user experience with HTML5 video across devices. We will share insight from our html5video.org survey of industry leading open source players including benchmarks on performance and supported plugins.", 
+    "author": "Andrew Davis (Kaltura, Inc.), Michael Dale (Kaltura)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/23862", 
+    "raw_description": "Presented by Andrew Davis (Kaltura, Inc.), Michael Dale (Kaltura). We will cover the migration from Flash players to HTML5 and tools to support that transition. We will look at challenges of creating a consistent user experience with HTML5 video across devices. We will share insight from our html5video.org survey of industry leading open source players including benchmarks on performance and supported plugins.", 
+    "title": "Media and Video in the HTML5 Age", 
+    "room": "F151"
+  }, 
+  {
     "start": "2012-07-20 11:00:00-08:00", 
     "end": "2012-07-20 11:40:00-08:00", 
     "description": "The strength of your community is the best predictor of your project's long-term viability. What happens when that community is gradually infiltrated by assholes, who infect everyone else with their constant negativity and personal attacks? This talk will teach you about the dramatic impact assholes are having on your organization today and will show you how you can begin to repair it.", 
-    "author": "Donnie Berkholz (RedMonk), Leslie Hawthorn (AppFog)", 
+    "author": "Donnie Berkholz (RedMonk), Leslie Hawthorn (Red Hat)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24297", 
-    "raw_description": "Presented by Donnie Berkholz (RedMonk), Leslie Hawthorn (AppFog). The strength of your community is the best predictor of your project's long-term viability. What happens when that community is gradually infiltrated by assholes, who infect everyone else with their constant negativity and personal attacks? This talk will teach you about the dramatic impact assholes are having on your organization today and will show you how you can begin to repair it.", 
+    "raw_description": "Presented by Donnie Berkholz (RedMonk), Leslie Hawthorn (Red Hat). The strength of your community is the best predictor of your project's long-term viability. What happens when that community is gradually infiltrated by assholes, who infect everyone else with their constant negativity and personal attacks? This talk will teach you about the dramatic impact assholes are having on your organization today and will show you how you can begin to repair it.", 
     "title": "Assholes are killing your project", 
     "room": "F151"
   }, 
@@ -2663,9 +2903,9 @@
     "start": "2012-07-20 11:50:00-08:00", 
     "end": "2012-07-20 12:30:00-08:00", 
     "description": "Grow, Grow, Grow! People are the life-blood of Open Source Communities. Mozilla has always recognised this in regards to their own success, and are now undertaking a project to expand the community even further with the Mozilla Reps program. This talk will discuss the successes and challenges we have had, and our plans for continued momentum.", 
-    "author": "Brian King (Briks Software), Pierros Papadeas (Mozilla)", 
+    "author": "Brian King (Briks Software), Benjamin Kerensa (Ubuntu)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24162", 
-    "raw_description": "Presented by Brian King (Briks Software), Pierros Papadeas (Mozilla). Grow, Grow, Grow! People are the life-blood of Open Source Communities. Mozilla has always recognised this in regards to their own success, and are now undertaking a project to expand the community even further with the Mozilla Reps program. This talk will discuss the successes and challenges we have had, and our plans for continued momentum.", 
+    "raw_description": "Presented by Brian King (Briks Software), Benjamin Kerensa (Ubuntu). Grow, Grow, Grow! People are the life-blood of Open Source Communities. Mozilla has always recognised this in regards to their own success, and are now undertaking a project to expand the community even further with the Mozilla Reps program. This talk will discuss the successes and challenges we have had, and our plans for continued momentum.", 
     "title": "How To Multiply Your Community By A Factor Of X", 
     "room": "F151"
   }, 
@@ -2713,10 +2953,20 @@
     "start": "2012-07-18 10:40:00-08:00", 
     "end": "2012-07-18 11:20:00-08:00", 
     "description": "In this session, we will explore the ideas behind the Enyo framework, a new JavaScript framework that takes the ideas of encapsulation and reusable code objects into the web application and mobile worlds.  We will also explore the ecosystem of new libraries build on the Enyo core, especially the Onyx user-interface system which was designed to be beautiful and usable across multiple platforms.", 
-    "author": "", 
+    "author": "Dave Freeman (Hewlett Packard)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26375", 
-    "raw_description": "In this session, we will explore the ideas behind the Enyo framework, a new JavaScript framework that takes the ideas of encapsulation and reusable code objects into the web application and mobile worlds.  We will also explore the ecosystem of new libraries build on the Enyo core, especially the Onyx user-interface system which was designed to be beautiful and usable across multiple platforms.", 
+    "raw_description": "Presented by Dave Freeman (Hewlett Packard). In this session, we will explore the ideas behind the Enyo framework, a new JavaScript framework that takes the ideas of encapsulation and reusable code objects into the web application and mobile worlds.  We will also explore the ecosystem of new libraries build on the Enyo core, especially the Onyx user-interface system which was designed to be beautiful and usable across multiple platforms.", 
     "title": "A Deeper Look at the Enyo JavaScript Framework", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-18 14:30:00-08:00", 
+    "end": "2012-07-18 15:10:00-08:00", 
+    "description": "Find out how Java-based Alfresco, a rich content repository that is open source and fully standards compliant, can be a building block in your architecture for content-heavy solutions. We'll explore different patterns of implementation in order to get you started on your next project. Includes live demos and code snippets.", 
+    "author": "Jeff Potts (Alfresco Software)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26403", 
+    "raw_description": "Presented by Jeff Potts (Alfresco Software). Find out how Java-based Alfresco, a rich content repository that is open source and fully standards compliant, can be a building block in your architecture for content-heavy solutions. We'll explore different patterns of implementation in order to get you started on your next project. Includes live demos and code snippets.", 
+    "title": "Alfresco: An Open Source Platform for Content Management, On-Premise or in the Cloud", 
     "room": "E141"
   }, 
   {
@@ -2727,6 +2977,96 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26374", 
     "raw_description": "Presented by Blake Yeager (Hewlett Packard). HP\u2019s public cloud is built on OpenStack open-source cloud technology. The OpenStack project has rapidly been adopted as the leading open source cloud solution because it avoids vendor lock-in, and is ubiquitous across public, managed and private clouds.", 
     "title": "Why Open Matters: HP Cloud Services Designed With OpenStack\u2122 Technology", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-17 09:00:00-08:00", 
+    "end": "2012-07-17 12:30:00-08:00", 
+    "description": "Do you dream of spinning up ten, twenty, or a thousand virtual machines in an instant? Discover and repair bottlenecks without moving a finger? Dodge the loss of an entire storage array with no-one noticing? This is no sales pitch; during this tutorial, we'll demonstrate how to leverage truly FOSS tools to build a powerful, scalable cloud that easily competes with those proprietary solutions!", 
+    "author": "George Dunlap (Citrix Systems, UK), Steven Maresca (Zentific LLC), Josh West (One.com), Patrick F. Wilbur (PFW Research LLC)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26400", 
+    "raw_description": "Presented by George Dunlap (Citrix Systems, UK), Steven Maresca (Zentific LLC), Josh West (One.com), Patrick F. Wilbur (PFW Research LLC). Do you dream of spinning up ten, twenty, or a thousand virtual machines in an instant? Discover and repair bottlenecks without moving a finger? Dodge the loss of an entire storage array with no-one noticing? This is no sales pitch; during this tutorial, we'll demonstrate how to leverage truly FOSS tools to build a powerful, scalable cloud that easily competes with those proprietary solutions!", 
+    "title": "From Datacenter to the Cloud - Featuring Xen and XCP (Sponsored Tutorial)", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-19 11:30:00-08:00", 
+    "end": "2012-07-19 12:10:00-08:00", 
+    "description": "Let's face it, the cloud's here to stay. Spring's always been about portability and choice, and the cloud is no different. Join Josh Long as he introduces how to use Cloud Foundry and Spring.", 
+    "author": "Josh Long (SpringSource, a division of VMware)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26442", 
+    "raw_description": "Presented by Josh Long (SpringSource, a division of VMware). Let's face it, the cloud's here to stay. Spring's always been about portability and choice, and the cloud is no different. Join Josh Long as he introduces how to use Cloud Foundry and Spring.", 
+    "title": "Spring in the Cloud", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-19 14:30:00-08:00", 
+    "end": "2012-07-19 15:10:00-08:00", 
+    "description": "Come learn about Apache CloudStack, its architecture, and how to deploy it - and then how to connect it to your configuration management system and continuous integration to achieve an incredibly robust and flexible dev/test environment.", 
+    "author": "David Nalley (Apache CloudStack (incubating))", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26454", 
+    "raw_description": "Presented by David Nalley (Apache CloudStack (incubating)). Come learn about Apache CloudStack, its architecture, and how to deploy it - and then how to connect it to your configuration management system and continuous integration to achieve an incredibly robust and flexible dev/test environment.", 
+    "title": "Building A Test/Dev Cloud With Apache CoudStack - Part 1", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-19 16:10:00-08:00", 
+    "end": "2012-07-19 16:50:00-08:00", 
+    "description": "Come learn about Apache CloudStack, its architecture, and how to deploy it - and then how to connect it to your configuration management system and continuous integration to achieve an incredibly robust and flexible dev/test environment.", 
+    "author": "David Nalley (Apache CloudStack (incubating))", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26417", 
+    "raw_description": "Presented by David Nalley (Apache CloudStack (incubating)). Come learn about Apache CloudStack, its architecture, and how to deploy it - and then how to connect it to your configuration management system and continuous integration to achieve an incredibly robust and flexible dev/test environment.", 
+    "title": "Building A Test/Dev Cloud With Apache CloudStack - Part 2", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-17 13:30:00-08:00", 
+    "end": "2012-07-17 17:00:00-08:00", 
+    "description": "Apache CloudStack is an infrastructure-as-a-service platform used to deploy Amazon-style cloud computing environments, in this session developers will learn abou the  architecture, plugin framework, and how to get involved in the Apache CloudStack project.", 
+    "author": "Chiradeep Vittal (Citrix Systems)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26433", 
+    "raw_description": "Presented by Chiradeep Vittal (Citrix Systems). Apache CloudStack is an infrastructure-as-a-service platform used to deploy Amazon-style cloud computing environments, in this session developers will learn abou the  architecture, plugin framework, and how to get involved in the Apache CloudStack project.", 
+    "title": "Hacking on Apache CloudStack (Sponsored Tutorial)", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-18 11:30:00-08:00", 
+    "end": "2012-07-18 12:10:00-08:00", 
+    "description": "In this talk, Jason Hall will discuss the problems that every developer misses, why your finance gets frustrated, and the marketing team cries about your existing billing code. He will also show you how to avoid problems by utilizing existing open source billing toolkits like Freeside as the base of your billing and payments system.", 
+    "author": "Jason Hall (Bluehost)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26456", 
+    "raw_description": "Presented by Jason Hall (Bluehost). In this talk, Jason Hall will discuss the problems that every developer misses, why your finance gets frustrated, and the marketing team cries about your existing billing code. He will also show you how to avoid problems by utilizing existing open source billing toolkits like Freeside as the base of your billing and payments system.", 
+    "title": "Open Source in the Enterprise: Billing and Payment Processing Systems", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "In which we sing, discuss FLOSS tools for music creation, sing, talk about various music public domain archives, and sing.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26438", 
+    "raw_description": "In which we sing, discuss FLOSS tools for music creation, sing, talk about various music public domain archives, and sing.", 
+    "title": "Geek Choir", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-20 10:00:00-08:00", 
+    "end": "2012-07-20 12:30:00-08:00", 
+    "description": "Lockpicking is fun for everyone and demystifies simple mechanical puzzles that we all rely on. Join representatives from the local Portland TOOOL (Open Organization Of Lockpickers) group and sharpen your lockpicking skills.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26466", 
+    "raw_description": "Lockpicking is fun for everyone and demystifies simple mechanical puzzles that we all rely on. Join representatives from the local Portland TOOOL (Open Organization Of Lockpickers) group and sharpen your lockpicking skills.", 
+    "title": "Lockpicking Play Room", 
+    "room": "E141"
+  }, 
+  {
+    "start": "2012-07-18 17:00:00-08:00", 
+    "end": "2012-07-18 17:40:00-08:00", 
+    "description": "Watch as we show you how to rapidly build a functional hybrid mobile app starting from conception to a working application for iOS and Android devices \u2013 with time left over to discuss various deployment challenges to developing hybrid applications.", 
+    "author": "Carlos Andreu (IBM), Michael Thompson (IBM)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26482", 
+    "raw_description": "Presented by Carlos Andreu (IBM), Michael Thompson (IBM). Watch as we show you how to rapidly build a functional hybrid mobile app starting from conception to a working application for iOS and Android devices \u2013 with time left over to discuss various deployment challenges to developing hybrid applications.", 
+    "title": "Building Functional Hybrid Apps For The iPhone And Android", 
     "room": "E141"
   }, 
   {
@@ -2752,11 +3092,11 @@
   {
     "start": "2012-07-18 10:40:00-08:00", 
     "end": "2012-07-18 11:20:00-08:00", 
-    "description": "This session will explain how Apache Cassandra meets OLTP big data needs, and its relationship with big data analytics.  Jonathan will explain why Cassandra is the leading big data OLTP solution and how Cassandra delivers linear scale-out capabilities with true high availability, with examples from real-world production use cases:", 
+    "description": "This session will explain how Apache Cassandra meets OLTP big data needs, and its relationship with big data analytics. Jonathan will explain why Cassandra is the leading big data OLTP solution and how Cassandra delivers linear scale-out capabilities with true high availability, with examples from real-world production use cases.", 
     "author": "Jonathan Ellis (DataStax, Inc)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26087", 
-    "raw_description": "Presented by Jonathan Ellis (DataStax, Inc). This session will explain how Apache Cassandra meets OLTP big data needs, and its relationship with big data analytics.  Jonathan will explain why Cassandra is the leading big data OLTP solution and how Cassandra delivers linear scale-out capabilities with true high availability, with examples from real-world production use cases:", 
-    "title": "Big Data OLTP with Apache Cassandra", 
+    "raw_description": "Presented by Jonathan Ellis (DataStax, Inc). This session will explain how Apache Cassandra meets OLTP big data needs, and its relationship with big data analytics. Jonathan will explain why Cassandra is the leading big data OLTP solution and how Cassandra delivers linear scale-out capabilities with true high availability, with examples from real-world production use cases.", 
+    "title": "Massively Scalable NoSQL with Apache Cassandra", 
     "room": "E142"
   }, 
   {
@@ -2772,10 +3112,10 @@
   {
     "start": "2012-07-19 13:40:00-08:00", 
     "end": "2012-07-19 14:20:00-08:00", 
-    "description": "In this session Philipp Reisner will present DRBD, the Linux kernel  approved high availability storage replication solution.", 
-    "author": "Philipp Reisner (LINBIT)", 
+    "description": "In this session Cooper Stevenson will present DRBD, the Linux kernel  approved high availability storage replication solution.", 
+    "author": "Cooper Stevenson (LINBIT)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26191", 
-    "raw_description": "Presented by Philipp Reisner (LINBIT). In this session Philipp Reisner will present DRBD, the Linux kernel  approved high availability storage replication solution.", 
+    "raw_description": "Presented by Cooper Stevenson (LINBIT). In this session Cooper Stevenson will present DRBD, the Linux kernel  approved high availability storage replication solution.", 
     "title": "DRBD -- High Availability Storage Replication for Today and Tomorrow", 
     "room": "E142"
   }, 
@@ -2787,6 +3127,66 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26334", 
     "raw_description": "A state of the union on OpenSocial.", 
     "title": "OpenSocial State of the Union", 
+    "room": "E142"
+  }, 
+  {
+    "start": "2012-07-19 14:30:00-08:00", 
+    "end": "2012-07-19 15:10:00-08:00", 
+    "description": "In this presentation, ActiveState CTO Jeff Hobbs and Cloud Evangelist Diane Mueller discuss the challenges, drama, and realities of deploying private Platform as a Service (PaaS) on OpenStack and CloudStack.", 
+    "author": "Jeff Hobbs (ActiveState), Diane Mueller (ActiveState)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26388", 
+    "raw_description": "Presented by Jeff Hobbs (ActiveState), Diane Mueller (ActiveState). In this presentation, ActiveState CTO Jeff Hobbs and Cloud Evangelist Diane Mueller discuss the challenges, drama, and realities of deploying private Platform as a Service (PaaS) on OpenStack and CloudStack.", 
+    "title": "Adventures in Deploying Private Paas on the Open Cloud: Tales from the Enterprise", 
+    "room": "E142"
+  }, 
+  {
+    "start": "2012-07-18 16:10:00-08:00", 
+    "end": "2012-07-18 16:50:00-08:00", 
+    "description": "Apache Hadoop is clearly one of the fastest growing big data platforms used by enterprises to store and analyze arbitrarily structured data  in search of business insights. However, Hadoop systems are challenging to configure, manage and scale, and Hadoop expertise is hard to find.", 
+    "author": "Audrey Ng (Hewlett-Packard), Steve Watt (Hewlett-Packard)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26511", 
+    "raw_description": "Presented by Audrey Ng (Hewlett-Packard), Steve Watt (Hewlett-Packard). Apache Hadoop is clearly one of the fastest growing big data platforms used by enterprises to store and analyze arbitrarily structured data  in search of business insights. However, Hadoop systems are challenging to configure, manage and scale, and Hadoop expertise is hard to find.", 
+    "title": " Taking the Guesswork Out of Implementing Hadoop", 
+    "room": "E142"
+  }, 
+  {
+    "start": "2012-07-19 10:40:00-08:00", 
+    "end": "2012-07-19 11:20:00-08:00", 
+    "description": "In his talk, Jared Smith will talk about telecommunications systems built on open source software, and how they can give you better productivity and agility, all while saving you money.  He'll also highlight Bluehost's use of open source software to run its contact centers.", 
+    "author": "Jared Smith (Bluehost)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26457", 
+    "raw_description": "Presented by Jared Smith (Bluehost). In his talk, Jared Smith will talk about telecommunications systems built on open source software, and how they can give you better productivity and agility, all while saving you money.  He'll also highlight Bluehost's use of open source software to run its contact centers.", 
+    "title": "Open Source in the Enterprise: Telecommunications and Contact Centers", 
+    "room": "E142"
+  }, 
+  {
+    "start": "2012-07-18 14:30:00-08:00", 
+    "end": "2012-07-18 15:10:00-08:00", 
+    "description": "Open source software is not just fueling innovation, but leading it, according to a recent 451 Group survey. It's leading innovation in cloud and big data, as well as creating innovative business models such as Open SaaS. In this session, John Igoe, executive director of Dell's open source Cloud and Big Data Solutions, will talk about this exciting new era of open innovation on demand.", 
+    "author": "John Igoe (Dell), Winston Damarillo (Morphlabs), Russell P. Reeder (Media Temple, Inc.)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26474", 
+    "raw_description": "Presented by John Igoe (Dell), Winston Damarillo (Morphlabs), Russell P. Reeder (Media Temple, Inc.). Open source software is not just fueling innovation, but leading it, according to a recent 451 Group survey. It's leading innovation in cloud and big data, as well as creating innovative business models such as Open SaaS. In this session, John Igoe, executive director of Dell's open source Cloud and Big Data Solutions, will talk about this exciting new era of open innovation on demand.", 
+    "title": "Open Innovation on Demand", 
+    "room": "E142"
+  }, 
+  {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "Many Linux desktop environments try to be easy to use for the average user, but that's not you. You're at your computer all day writing code; you don't want to mess around with _dragging windows_ or (ugh) watching _animated transitions_. Stop by to discuss a great solution to this problem: the tiling window manager xmonad. Free yourself from the tyranny of the mouse.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26473", 
+    "raw_description": "Many Linux desktop environments try to be easy to use for the average user, but that's not you. You're at your computer all day writing code; you don't want to mess around with _dragging windows_ or (ugh) watching _animated transitions_. Stop by to discuss a great solution to this problem: the tiling window manager xmonad. Free yourself from the tyranny of the mouse.", 
+    "title": "xmonad", 
+    "room": "E142"
+  }, 
+  {
+    "start": "2012-07-19 16:10:00-08:00", 
+    "end": "2012-07-19 16:50:00-08:00", 
+    "description": "X.commerce is a new business unit in the eBay Inc. family that is revolutionizing commerce for consumers, merchants and developers. In this presentation, we will look at how our technology strategy aligns with open source principles and how open source is helping X.commerce achieve its vision, with both technical solutions and a community-driven strategy.", 
+    "author": "Jeromy Carriere (X.commerce (an eBay company))", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26503", 
+    "raw_description": "Presented by Jeromy Carriere (X.commerce (an eBay company)). X.commerce is a new business unit in the eBay Inc. family that is revolutionizing commerce for consumers, merchants and developers. In this presentation, we will look at how our technology strategy aligns with open source principles and how open source is helping X.commerce achieve its vision, with both technical solutions and a community-driven strategy.", 
+    "title": "How X.commerce is building a platform on open source", 
     "room": "E142"
   }, 
   {
@@ -2820,13 +3220,103 @@
     "room": "E143"
   }, 
   {
+    "start": "2012-07-18 10:40:00-08:00", 
+    "end": "2012-07-18 11:20:00-08:00", 
+    "description": "Logging infrastructures have traditionally been centered around building human readable logging, but as systems have grown, the volume of log data is impractical for a human to consume.", 
+    "author": "Brandon Philips (Rackspace, Inc)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26386", 
+    "raw_description": "Presented by Brandon Philips (Rackspace, Inc). Logging infrastructures have traditionally been centered around building human readable logging, but as systems have grown, the volume of log data is impractical for a human to consume.", 
+    "title": "Logging as Event Streams", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-19 13:40:00-08:00", 
+    "end": "2012-07-19 14:20:00-08:00", 
+    "description": "With over 15,000 sites in operation right now, Drupal Commerce is changing the course of how eCommerce is done, allowing E-retailers to break the mold of the catalog-and-checkout process, while remaining true to its community roots. This session will provide a point of view on the new innovations of eCommerce and how Drupal Commerce is becoming the framework of choice for eCommerce innovators.", 
+    "author": "Mike O'Connor (Commerce Guys)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26401", 
+    "raw_description": "Presented by Mike O'Connor (Commerce Guys). With over 15,000 sites in operation right now, Drupal Commerce is changing the course of how eCommerce is done, allowing E-retailers to break the mold of the catalog-and-checkout process, while remaining true to its community roots. This session will provide a point of view on the new innovations of eCommerce and how Drupal Commerce is becoming the framework of choice for eCommerce innovators.", 
+    "title": "Drupal Commerce: Changing The Course Of eCommerce", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-18 11:30:00-08:00", 
+    "end": "2012-07-18 12:10:00-08:00", 
+    "description": "If you are thinking of implementing noSQL because you have no alternative, we\u2019ll show you how to drop Akiban Server into your existing application & solve problematic SQL queries w/o investing in an entirely new approach to storing data. Your applications operate on Objects - we will demonstrate how much performance can be gained when you remove the SQL impedance mismatch with the Akiban Server.", 
+    "author": "Ori Herrnstadt (Akiban)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26439", 
+    "raw_description": "Presented by Ori Herrnstadt (Akiban). If you are thinking of implementing noSQL because you have no alternative, we\u2019ll show you how to drop Akiban Server into your existing application & solve problematic SQL queries w/o investing in an entirely new approach to storing data. Your applications operate on Objects - we will demonstrate how much performance can be gained when you remove the SQL impedance mismatch with the Akiban Server.", 
+    "title": "Why The Sequel To NoSQL Is SQL", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-19 11:30:00-08:00", 
+    "end": "2012-07-19 12:10:00-08:00", 
+    "description": "Learn how to build UI for and debug HTML5 apps for mobile devices using Rapid Interface Builder (RIB) and Web Simulator, two open-source tools recently released by Intel.  This session dives deep into the feature sets of both Web app developer tools, with demos, and shows you how you can influence the future of these open-source projects.", 
+    "author": "Gail Frederick (Intel)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26489", 
+    "raw_description": "Presented by Gail Frederick (Intel). Learn how to build UI for and debug HTML5 apps for mobile devices using Rapid Interface Builder (RIB) and Web Simulator, two open-source tools recently released by Intel.  This session dives deep into the feature sets of both Web app developer tools, with demos, and shows you how you can influence the future of these open-source projects.", 
+    "title": "Design and Debug HTML5 Apps for Devices with Rapid Interface Builder (RIB) and Web Simulator", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-19 19:00:00-08:00", 
+    "end": "2012-07-19 20:00:00-08:00", 
+    "description": "A discussion about MQTT, a popular lightweight messaging protocol open sourced through the Eclipse Foundation, and used in a variety of mobile and embedded device applications (from automated mousetraps, to tweeting ferries, and Facebook Messenger).", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26477", 
+    "raw_description": "A discussion about MQTT, a popular lightweight messaging protocol open sourced through the Eclipse Foundation, and used in a variety of mobile and embedded device applications (from automated mousetraps, to tweeting ferries, and Facebook Messenger).", 
+    "title": "Lightweight messaging for the Internet of Things", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-19 14:30:00-08:00", 
+    "end": "2012-07-19 15:10:00-08:00", 
+    "description": "Have you ever needed to work on applications in two different versions of the same language at the same time? There are many ways to do this, most of which involve a lot of mechanics or are custom to a single language or both.", 
+    "author": "Langdon White (Red Hat)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26490", 
+    "raw_description": "Presented by Langdon White (Red Hat). Have you ever needed to work on applications in two different versions of the same language at the same time? There are many ways to do this, most of which involve a lot of mechanics or are custom to a single language or both.", 
+    "title": "Working with Python 2.6 and 3.2 on the same machine (without virtualenv)", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-18 20:00:00-08:00", 
+    "end": "2012-07-18 21:00:00-08:00", 
+    "description": "A gathering to discuss issues with FLOSS in EDU (K-12 and post-secondary).", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26437", 
+    "raw_description": "A gathering to discuss issues with FLOSS in EDU (K-12 and post-secondary).", 
+    "title": "EDU BOF", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2012-07-17 09:00:00-08:00", 
+    "end": "2012-07-17 12:30:00-08:00", 
+    "description": "GlusterFS is a community produced, open source, distributed file system capable of scaling to several petabytes(actually, 72 brontobytes!) and handling thousands of clients. The morning tutorial will provide attendees with a broad and deep overview of GlusterFS, from history and roadmap to the latest release, v 3.3.", 
+    "author": "Anand Babu (Gluster), John Mark Walker (Gluster)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26495", 
+    "raw_description": "Presented by Anand Babu (Gluster), John Mark Walker (Gluster). GlusterFS is a community produced, open source, distributed file system capable of scaling to several petabytes(actually, 72 brontobytes!) and handling thousands of clients. The morning tutorial will provide attendees with a broad and deep overview of GlusterFS, from history and roadmap to the latest release, v 3.3.", 
+    "title": "GlusterFS Tutorial - Part 1: Gluster Overview", 
+    "room": "E148"
+  }, 
+  {
+    "start": "2012-07-17 13:30:00-08:00", 
+    "end": "2012-07-17 17:00:00-08:00", 
+    "description": "GlusterFS is a community produced, open source, distributed file system capable of scaling  to several petabytes(actually, 72 brontobytes!) and handling thousands of clients. The afternoon session of the GlusterFS tutorial will focus on Gluster implementation as a big data solution, development platform and tool for systems administrators.", 
+    "author": "Dustin Black (Red Hat), Anand Avati (Red Hat)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26496", 
+    "raw_description": "Presented by Dustin Black (Red Hat), Anand Avati (Red Hat). GlusterFS is a community produced, open source, distributed file system capable of scaling  to several petabytes(actually, 72 brontobytes!) and handling thousands of clients. The afternoon session of the GlusterFS tutorial will focus on Gluster implementation as a big data solution, development platform and tool for systems administrators.", 
+    "title": "Gluster FS Tutorial - Part 2: Gluster and Big Data; Gluster for Devs and Sys Admins", 
+    "room": "E148"
+  }, 
+  {
     "start": "2012-07-17 17:00:00-08:00", 
     "end": "2012-07-17 18:00:00-08:00", 
     "description": "Grab a drink and kick off the 14th edition of OSCON by meeting and mingling with exhibitors and fellow attendees.", 
     "author": "", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24989", 
     "raw_description": "Grab a drink and kick off the 14th edition of OSCON by meeting and mingling with exhibitors and fellow attendees.", 
-    "title": "Opening Reception", 
+    "title": "Expo Hall Opening Reception (sponsored by Bluehost)", 
     "room": "Expo Hall"
   }, 
   {
@@ -2872,10 +3362,10 @@
   {
     "start": "2012-07-18 08:45:00-08:00", 
     "end": "2012-07-18 08:50:00-08:00", 
-    "description": "Opening remarks by the OSCON program chairs, Sarah Novotny and Edd Dumbill.", 
-    "author": "Edd Dumbill (O'Reilly Media, Inc. ), Sarah Novotny (Meteor Enterainment)", 
+    "description": "Opening remarks by Portland Mayor Sam Adams, as well as OSCON program chairs, Sarah Novotny and Edd Dumbill.", 
+    "author": "Edd Dumbill (O'Reilly Media, Inc. ), Sarah Novotny (Meteor Enterainment), Sam Adams (City of Portland, Oregon)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25035", 
-    "raw_description": "Presented by Edd Dumbill (O'Reilly Media, Inc. ), Sarah Novotny (Meteor Enterainment). Opening remarks by the OSCON program chairs, Sarah Novotny and Edd Dumbill.", 
+    "raw_description": "Presented by Edd Dumbill (O'Reilly Media, Inc. ), Sarah Novotny (Meteor Enterainment), Sam Adams (City of Portland, Oregon). Opening remarks by Portland Mayor Sam Adams, as well as OSCON program chairs, Sarah Novotny and Edd Dumbill.", 
     "title": "Opening Welcome", 
     "room": "Portland Ballroom"
   }, 
@@ -2892,10 +3382,10 @@
   {
     "start": "2012-07-18 09:05:00-08:00", 
     "end": "2012-07-18 09:20:00-08:00", 
-    "description": "Keynote by Danny Hills.", 
+    "description": "Applied Minds CEO, Danny Hills will offer an introduction to The Learning Map, a Shared Learning Collaborative initiative organizing online learning material to get the right content to the right student at the right time.", 
     "author": "Danny Hillis (Applied Minds, LLC)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25873", 
-    "raw_description": "Presented by Danny Hillis (Applied Minds, LLC). Keynote by Danny Hills.", 
+    "raw_description": "Presented by Danny Hillis (Applied Minds, LLC). Applied Minds CEO, Danny Hills will offer an introduction to The Learning Map, a Shared Learning Collaborative initiative organizing online learning material to get the right content to the right student at the right time.", 
     "title": "The Learning Map", 
     "room": "Portland Ballroom"
   }, 
@@ -2910,13 +3400,23 @@
     "room": "Portland Ballroom"
   }, 
   {
+    "start": "2012-07-18 09:35:00-08:00", 
+    "end": "2012-07-18 09:50:00-08:00", 
+    "description": "In this keynote, Brian Aker, HP Fellow,  will share challenges and best practices from his work with OpenStack software, including how a rich set of APIs must be developed in order to drive broad platform adoption as well as the need for formal APIs.", 
+    "author": "Brian Aker (HP)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26452", 
+    "raw_description": "Presented by Brian Aker (HP). In this keynote, Brian Aker, HP Fellow,  will share challenges and best practices from his work with OpenStack software, including how a rich set of APIs must be developed in order to drive broad platform adoption as well as the need for formal APIs.", 
+    "title": "Scaling OpenStack Technology. Lessons From The Field", 
+    "room": "Portland Ballroom"
+  }, 
+  {
     "start": "2012-07-18 09:50:00-08:00", 
     "end": "2012-07-18 10:10:00-08:00", 
-    "description": "Keynote by Tim O'Reilly, Founder and CEO, O'Reilly Media, Inc.", 
+    "description": "Open source software was one of the earliest successful examples of a sharing economy that has had huge economic impact. But as alternative energy advocate Steve Baer once noted, ecosystem services are often ignored in economic analysis: when you put your clothes in the dryer the energy you use is measured and counted, but when you hang them on the line, they disappear from the measured economy.", 
     "author": "Tim O'Reilly (O'Reilly Media, Inc.)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25028", 
-    "raw_description": "Presented by Tim O'Reilly (O'Reilly Media, Inc.). Keynote by Tim O'Reilly, Founder and CEO, O'Reilly Media, Inc.", 
-    "title": "Tim O'Reilly", 
+    "raw_description": "Presented by Tim O'Reilly (O'Reilly Media, Inc.). Open source software was one of the earliest successful examples of a sharing economy that has had huge economic impact. But as alternative energy advocate Steve Baer once noted, ecosystem services are often ignored in economic analysis: when you put your clothes in the dryer the energy you use is measured and counted, but when you hang them on the line, they disappear from the measured economy.", 
+    "title": "The Clothesline Paradox and the Sharing Economy", 
     "room": "Portland Ballroom"
   }, 
   {
@@ -2940,13 +3440,33 @@
     "room": "Portland Ballroom"
   }, 
   {
-    "start": "2012-07-19 10:00:00-08:00", 
+    "start": "2012-07-19 09:30:00-08:00", 
+    "end": "2012-07-19 09:45:00-08:00", 
+    "description": "Through its ubiquitous presence in small business, Open Source has become a key, but  unrecognized, driver of the U.S. economy. John will discuss the hidden impact of Open Source and what it means to contributors and project leaders. He\u2019ll also provide important tips on making it easy to increase exposure of projects through code contributors and distribution platforms.", 
+    "author": "John Mone (Endurance International Group)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26458", 
+    "raw_description": "Presented by John Mone (Endurance International Group). Through its ubiquitous presence in small business, Open Source has become a key, but  unrecognized, driver of the U.S. economy. John will discuss the hidden impact of Open Source and what it means to contributors and project leaders. He\u2019ll also provide important tips on making it easy to increase exposure of projects through code contributors and distribution platforms.", 
+    "title": "Open Source: A Recipe For Success", 
+    "room": "Portland Ballroom"
+  }, 
+  {
+    "start": "2012-07-19 09:45:00-08:00", 
+    "end": "2012-07-19 09:55:00-08:00", 
+    "description": "Microsoft's journey into open source has been eventful, and even unexpected. Ten years ago, few would have predicted the importance to the company of projects such Node.JS, Hadoop and even Linux.", 
+    "author": "Edd Dumbill (O'Reilly Media, Inc. ), Gianugo Rabellino (Microsoft)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26459", 
+    "raw_description": "Presented by Edd Dumbill (O'Reilly Media, Inc. ), Gianugo Rabellino (Microsoft). Microsoft's journey into open source has been eventful, and even unexpected. Ten years ago, few would have predicted the importance to the company of projects such Node.JS, Hadoop and even Linux.", 
+    "title": "An Interview with Gianugo Rabellino", 
+    "room": "Portland Ballroom"
+  }, 
+  {
+    "start": "2012-07-19 09:55:00-08:00", 
     "end": "2012-07-19 10:10:00-08:00", 
-    "description": "The 8th Annual O\u2019Reilly Open Source Award winners will be announced.", 
-    "author": "", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25039", 
-    "raw_description": "The 8th Annual O\u2019Reilly Open Source Award winners will be announced.", 
-    "title": "O'Reilly Open Source Awards", 
+    "description": "In this talk, Facebook's Frank Frankovsky will examine key moments from the history of open hardware and share learnings from his work on the Open Compute Project \u2014 a prominent industry initiative focused on driving greater openness and collaboration in infrastructure technology \u2014 to draw out insights on how we can create and sustain open source movements in hardware.", 
+    "author": "Frank Frankovsky (Facebook)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26445", 
+    "raw_description": "Presented by Frank Frankovsky (Facebook). In this talk, Facebook's Frank Frankovsky will examine key moments from the history of open hardware and share learnings from his work on the Open Compute Project \u2014 a prominent industry initiative focused on driving greater openness and collaboration in infrastructure technology \u2014 to draw out insights on how we can create and sustain open source movements in hardware.", 
+    "title": "Disrupting Hardware: The Next Era of Openness", 
     "room": "Portland Ballroom"
   }, 
   {
@@ -2962,11 +3482,11 @@
   {
     "start": "2012-07-20 09:05:00-08:00", 
     "end": "2012-07-20 09:20:00-08:00", 
-    "description": "Keynote by Chris DiBona, Director, Open Source, Google, Inc.", 
+    "description": "In this plenary, Google's Chris DiBona will share some of the more interesting results from the project and tell you how you too can use and crunch this data.", 
     "author": "Chris DiBona (Google, Inc.)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24862", 
-    "raw_description": "Presented by Chris DiBona (Google, Inc.). Keynote by Chris DiBona, Director, Open Source, Google, Inc.", 
-    "title": "Chris DiBona", 
+    "raw_description": "Presented by Chris DiBona (Google, Inc.). In this plenary, Google's Chris DiBona will share some of the more interesting results from the project and tell you how you too can use and crunch this data.", 
+    "title": "How Good Is Your Internet, Really?", 
     "room": "Portland Ballroom"
   }, 
   {
@@ -2981,7 +3501,7 @@
   }, 
   {
     "start": "2012-07-20 09:25:00-08:00", 
-    "end": "2012-07-20 09:40:00-08:00", 
+    "end": "2012-07-20 09:45:00-08:00", 
     "description": "Open source fuels engineers' professional and personal development as well as our client work. By doing so, we've created a sustainable environment that is driven by purpose. I will share some of the principles we've adopted and how we managed to make it work.", 
     "author": "Irene Ros (Bocoup)", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26073", 
@@ -2990,13 +3510,23 @@
     "room": "Portland Ballroom"
   }, 
   {
-    "start": "2012-07-20 12:40:00-08:00", 
+    "start": "2012-07-20 09:45:00-08:00", 
+    "end": "2012-07-20 09:50:00-08:00", 
+    "description": "\"Piers, do you want to do a keynote at OSCON?\" \"Yes! What should I talk about?\" \"Well... you know xkcd.com?\" \"Yes.\" \"There's this strip over here. It'd be fun if...\" \"Oh! Hell yes!\" So here I am. Saying yes.", 
+    "author": "Piers Cawley (Headforwards)", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26444", 
+    "raw_description": "Presented by Piers Cawley (Headforwards). \"Piers, do you want to do a keynote at OSCON?\" \"Yes! What should I talk about?\" \"Well... you know xkcd.com?\" \"Yes.\" \"There's this strip over here. It'd be fun if...\" \"Oh! Hell yes!\" So here I am. Saying yes.", 
+    "title": "Saying Yes", 
+    "room": "Portland Ballroom"
+  }, 
+  {
+    "start": "2012-07-20 12:45:00-08:00", 
     "end": "2012-07-20 13:10:00-08:00", 
-    "description": "Paul Fenwick, Managing Director, Perl Training Australia.", 
+    "description": "Humans display an immense capacity to act against their own best judgement.  Whether it's putting off healthy lifestyle choices, writing our tests and documentation \"tomorrow\", or having just one more unit of something we know we shouldn't. Learn how to patch your mindware, use cognitive prosthetics, and upgrade your memory to actually get done what you want to be doing.", 
     "author": "Paul Fenwick (Perl Training Australia)", 
-    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24863", 
-    "raw_description": "Presented by Paul Fenwick (Perl Training Australia). Paul Fenwick, Managing Director, Perl Training Australia.", 
-    "title": "Keynote by Paul Fenwick", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24157", 
+    "raw_description": "Presented by Paul Fenwick (Perl Training Australia). Humans display an immense capacity to act against their own best judgement.  Whether it's putting off healthy lifestyle choices, writing our tests and documentation \"tomorrow\", or having just one more unit of something we know we shouldn't. Learn how to patch your mindware, use cognitive prosthetics, and upgrade your memory to actually get done what you want to be doing.", 
+    "title": "Mindware Upgrades For Fun And Profit", 
     "room": "Portland Ballroom"
   }, 
   {
@@ -3010,13 +3540,23 @@
     "room": "Portland Ballroom"
   }, 
   {
+    "start": "2012-07-20 12:40:00-08:00", 
+    "end": "2012-07-20 12:45:00-08:00", 
+    "description": "The 8th Annual O\u2019Reilly Open Source Award winners will be announced.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/25039", 
+    "raw_description": "The 8th Annual O\u2019Reilly Open Source Award winners will be announced.", 
+    "title": "O'Reilly Open Source Awards", 
+    "room": "Portland Ballroom"
+  }, 
+  {
     "start": "2012-07-19 21:00:00-08:00", 
     "end": "2012-07-20 00:00:00-08:00", 
-    "description": "Brush up on your poker skills because Citrix is hosting Poker Night at OSCON. More details coming soon.", 
+    "description": "Citrix is sponsoring a night of poker, pizza and beer. For one night only, OSCON's Hall E will be transformed into Portland's only poker room complete with professional dealers.", 
     "author": "", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26368", 
-    "raw_description": "Brush up on your poker skills because Citrix is hosting Poker Night at OSCON. More details coming soon.", 
-    "title": "Poker Night (sponsored by Citrix)", 
+    "raw_description": "Citrix is sponsoring a night of poker, pizza and beer. For one night only, OSCON's Hall E will be transformed into Portland's only poker room complete with professional dealers.", 
+    "title": "Citrix Open Cloud Poker Party (sponsored by Citrix)", 
     "room": "Exhibit Hall E"
   }, 
   {
@@ -3076,8 +3616,8 @@
     "author": "", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24991", 
     "raw_description": "We're swapping last year's clown shoes for Camp OSCON t-shirts at this year's attendee party. You don't have to worry about sewing in nametags and forget those long bus rides -- just stroll over to the brand new park across from the Convention Center. This is the camp you wish your parents had sent you to. You won't want to miss this; trust us.", 
-    "title": "Camp OSCON Attendee Party", 
-    "room": "Offsite Event"
+    "title": "Camp OSCON Attendee Party (sponsored by Microsoft and O'Reilly Media)", 
+    "room": "OCC Plaza (across the street from convention center)"
   }, 
   {
     "start": "2012-07-17 20:00:00-08:00", 
@@ -3087,16 +3627,46 @@
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/24992", 
     "raw_description": "Join Puppet Labs at their headquarters in the Pearl District.  The part is free, as in free beer, food and fun. Two open bars and more! Take the Green or Yellow line (free transit) west to Union Station and walk 2 blocks west to 411 NW Park Ave.", 
     "title": "Puppet Labs Party", 
-    "room": "Offsite Event"
+    "room": "411 NW Park Ave."
+  }, 
+  {
+    "start": "2012-07-20 14:00:00-08:00", 
+    "end": "2012-07-20 16:00:00-08:00", 
+    "description": "Cap off your trip to Portland with one of Portland's award-winning guided walking tours. Tours will leave from the convention center right after the closing keynotes. Please register in advance. Tickets range from $20-$25 per person depending on the tour.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26382", 
+    "raw_description": "Cap off your trip to Portland with one of Portland's award-winning guided walking tours. Tours will leave from the convention center right after the closing keynotes. Please register in advance. Tickets range from $20-$25 per person depending on the tour.", 
+    "title": "Portland Walking Tours", 
+    "room": "Meet in MLK Lobby of OCC"
+  }, 
+  {
+    "start": "2012-07-17 18:45:00-08:00", 
+    "end": "2012-07-17 20:00:00-08:00", 
+    "description": "Don't forget to pack your running shoes and your self-tracking tech, because we're hosting the first ever Couch to Quantified 5K fun run at OSCON. Whether you are an avid runner or just starting out, you are invited to join other OSCON attendees Tuesday evening for a run/jog/walk through some of the most scenic and emblematic sites of Portland.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26414", 
+    "raw_description": "Don't forget to pack your running shoes and your self-tracking tech, because we're hosting the first ever Couch to Quantified 5K fun run at OSCON. Whether you are an avid runner or just starting out, you are invited to join other OSCON attendees Tuesday evening for a run/jog/walk through some of the most scenic and emblematic sites of Portland.", 
+    "title": "OSCON Couch to Quantified 5K Run/Walk", 
+    "room": "OCC Lloyd parking lot"
   }, 
   {
     "start": "2012-07-18 21:00:00-08:00", 
     "end": "2012-07-18 23:00:00-08:00", 
-    "description": "More details coming soon", 
+    "description": "Please join us to celebrate the OpenStack community's success on its 2nd anniversary during OSCON 2012! We will have food, drinks, bar games and of course, OpenStack limited-edition t-shirts!", 
     "author": "", 
     "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26369", 
-    "raw_description": "More details coming soon", 
+    "raw_description": "Please join us to celebrate the OpenStack community's success on its 2nd anniversary during OSCON 2012! We will have food, drinks, bar games and of course, OpenStack limited-edition t-shirts!", 
     "title": "OpenStack Party", 
-    "room": "Offsite Event"
+    "room": "Spirit of 77 (500 NE MLK Blvd.)"
+  }, 
+  {
+    "start": "2012-07-19 18:00:00-08:00", 
+    "end": "2012-07-19 21:00:00-08:00", 
+    "description": "Come meet the Amazon Web Services Developer Resources team at the Green Dragon brewpub (928 SE 9th Ave) on Thursday evening.  Drinks and snacks are on us!  RSVP required.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2012/public/schedule/detail/26480", 
+    "raw_description": "Come meet the Amazon Web Services Developer Resources team at the Green Dragon brewpub (928 SE 9th Ave) on Thursday evening.  Drinks and snacks are on us!  RSVP required.", 
+    "title": "AWS Developer Resources Beer Social", 
+    "room": "Green Dragon brewpub (928 SE 9th Ave)"
   }
 ]
