@@ -83,18 +83,20 @@ public class ScheduleActivity extends Activity {
 
 		Calendar startOfConference = Calendar.getInstance(Config.confTimeZone);
 		startOfConference.set(2013, Calendar.JULY, 22, 0, 0);
+		Calendar endOfConference = Calendar.getInstance(Config.confTimeZone);
+		endOfConference.set(2013, Calendar.JULY, 26, 23, 55);
 		Calendar c = Calendar.getInstance(Config.confTimeZone);
 		c.setTimeInMillis(System.currentTimeMillis());
-		//c.set(2013, Calendar.JULY, 24, 11, 11); // FORCE TIME TO BE 11AM
-												// WEDNESDAY FOR NOW.
+		// c.set(2013, Calendar.JULY, 24, 11, 11); // FORCE TIME TO BE 11AM
+		// WEDNESDAY FOR NOW.
 
 		// c.setTimeInMillis(System.currentTimeMillis()); // get current time
 		if (day == -1) {
 			day = c.get(Calendar.DAY_OF_MONTH) - 22;
 			mShowCurrentSessionMode = true;
-			if (c.before(startOfConference)) {
+			if (c.before(startOfConference) || c.after(endOfConference)) {
 				day = 0;
-				c.set(2012, Calendar.JULY, day + 16, 0, 0);
+				c.set(2013, Calendar.JULY, day + 22, 0, 0);
 			}
 		}
 
@@ -132,8 +134,8 @@ public class ScheduleActivity extends Activity {
 			if (mDisplayedTab == null) {
 				if (c.compareTo(startOfConference) <= 0) {
 					mDisplayedTab = tab;
-				}
-				else if (c.compareTo(ts.start) >= 0 && c.compareTo(ts.end) <= 0) {
+				} else if (c.compareTo(ts.start) >= 0
+						&& c.compareTo(ts.end) <= 0) {
 					actionBar.selectTab(tab);
 					mDisplayedTab = tab;
 					Log.v("ScheduleActivity", "Selecting Tab: " + title);
