@@ -21,7 +21,7 @@ public class ScheduleActivity extends Activity {
 	public static SimpleDateFormat timeOnly;
 	public Tab mDisplayedTab;
 	public boolean mShowCurrentSessionMode;
-	
+
 	static {
 		// 9:00am
 		timeOnly = new SimpleDateFormat("hh:mma", Locale.US);
@@ -41,7 +41,8 @@ public class ScheduleActivity extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 
-		if (getIntent().getExtras() != null && getIntent().getExtras().containsKey("show_days")) {
+		if (getIntent().getExtras() != null
+				&& getIntent().getExtras().containsKey("show_days")) {
 			Intent i = new Intent(this, DayListActivity.class);
 			startActivity(i);
 		}
@@ -67,16 +68,19 @@ public class ScheduleActivity extends Activity {
 
 		Calendar startOfConference = Calendar.getInstance(Config.confTimeZone);
 		startOfConference.set(2012, Calendar.JULY, 16, 0, 0);
+		Calendar endOfConference = Calendar.getInstance(Config.confTimeZone);
+		endOfConference.set(2012, Calendar.JULY, 19, 23, 55);
 		Calendar c = Calendar.getInstance(Config.confTimeZone);
 		c.setTimeInMillis(System.currentTimeMillis());
-		//c.set(2012, Calendar.JULY, 18, 11, 11); // FORCE TIME TO BE 11AM
-												// WEDNESDAY FOR NOW.
+		// c.set(2012, Calendar.JULY, 18, 11, 11); // FORCE TIME TO BE 11AM
+		// WEDNESDAY FOR NOW.
 
 		// c.setTimeInMillis(System.currentTimeMillis()); // get current time
 		if (day == -1) {
 			day = c.get(Calendar.DAY_OF_MONTH) - 16;
+
 			mShowCurrentSessionMode = true;
-			if (c.before(startOfConference)) {
+			if (c.before(startOfConference) || c.after(endOfConference)) {
 				day = 0;
 				c.set(2012, Calendar.JULY, day + 16, 0, 0);
 			}
@@ -116,8 +120,8 @@ public class ScheduleActivity extends Activity {
 			if (mDisplayedTab == null) {
 				if (c.compareTo(startOfConference) <= 0) {
 					mDisplayedTab = tab;
-				}
-				else if (c.compareTo(ts.start) >= 0 && c.compareTo(ts.end) <= 0) {
+				} else if (c.compareTo(ts.start) >= 0
+						&& c.compareTo(ts.end) <= 0) {
 					actionBar.selectTab(tab);
 					mDisplayedTab = tab;
 					Log.v("ScheduleActivity", "Selecting Tab: " + title);
