@@ -51,10 +51,10 @@ public class TalkListingFragment extends Fragment {
 		mRoom = "Portland 252";
 
 		mStartDate = Calendar.getInstance(Config.confTimeZone, Locale.US);
-		mStartDate.set(2012, 7, 23, 9, 00);
+		mStartDate.set(2013, 7, 23, 9, 00);
 		
 		mEndDate = Calendar.getInstance(Config.confTimeZone, Locale.US);
-		mEndDate.set(2012, 7, 23, 12, 30);
+		mEndDate.set(2013, 7, 23, 12, 30);
 		
 		mUrl = "http://www.oscon.com/oscon2013/public/schedule/detail/29002";
 	}
