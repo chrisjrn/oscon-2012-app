@@ -16,11 +16,14 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
+
 public class ScheduleActivity extends Activity {
 
 	public static SimpleDateFormat timeOnly;
 	public Tab mDisplayedTab;
 	public boolean mShowCurrentSessionMode;
+	private SlidingMenu mMenu;
 
 	static {
 		// 9:00am
@@ -41,7 +44,8 @@ public class ScheduleActivity extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 
-		if (getIntent().getExtras() != null && getIntent().getExtras().containsKey("show_days")) {
+		if (getIntent().getExtras() != null
+				&& getIntent().getExtras().containsKey("show_days")) {
 			Intent i = new Intent(this, DayListActivity.class);
 			startActivity(i);
 		}
@@ -52,10 +56,22 @@ public class ScheduleActivity extends Activity {
 		// Turn on the tabs!
 		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
 
+		setContentView(R.layout.schedule_activity);
+
 		// Set up a ViewPager for tab swiping
-		ViewPager vp = new ViewPager(this);
-		vp.setId(R.id.pager); // More on this later
-		setContentView(vp);
+		ViewPager vp = (ViewPager) (findViewById(R.id.pager));
+
+		// Set up the slidey menu
+		mMenu = new SlidingMenu(this);
+		mMenu.setMode(SlidingMenu.LEFT);
+		mMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_MARGIN);
+		mMenu.setBehindWidth(300);
+		mMenu.setFadeDegree(0.35f);
+		mMenu.attachToActivity(this, SlidingMenu.SLIDING_WINDOW);
+		mMenu.setMenu(R.layout.menu_frame);
+
+		getFragmentManager().beginTransaction()
+				.add(R.id.menu_frame, new DayListFragment()).commit();
 
 		// Tabs Adapter!
 		TabsAdapter adapter = new TabsAdapter(this, vp);
@@ -138,6 +154,7 @@ public class ScheduleActivity extends Activity {
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
+		Intent intent;
 
 		switch (item.getItemId()) {
 		case R.id.schedule_go_to_today:
@@ -146,27 +163,30 @@ public class ScheduleActivity extends Activity {
 			if (mShowCurrentSessionMode && mDisplayedTab != null) {
 				getActionBar().selectTab(mDisplayedTab);
 				return true;
+			} else {
+				intent = new Intent(this, ScheduleActivity.class);
+
+				// This flag unwinds the navigation stack, rather than loading
+				// the
+				// new activity in the existing stack.
+				intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
+						| Intent.FLAG_ACTIVITY_NEW_TASK);
+				startActivity(intent);
+				return true;
 			}
 		case android.R.id.home:
-			// android.R.id.home is the "up" button.
-			Intent intent = new Intent(this, ScheduleActivity.class);
-
-			// This flag unwinds the navigation stack, rather than loading the
-			// new activity in the existing stack.
-			intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-					| Intent.FLAG_ACTIVITY_NEW_TASK);
-			startActivity(intent);
-			return true;
-		case R.id.schedule_show_days:
-			intent = new Intent(this, ScheduleActivity.class);
-			intent.putExtra("show_days", true);
-			intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-					| Intent.FLAG_ACTIVITY_NEW_TASK);
-			startActivity(intent);
-
+			toggleMenu();
 			return true;
 		default:
 			return super.onOptionsItemSelected(item);
+		}
+	}
+
+	public void toggleMenu() {
+		if (mMenu.isMenuShowing()) {
+			mMenu.showContent();
+		} else {
+			mMenu.showMenu();
 		}
 	}
 

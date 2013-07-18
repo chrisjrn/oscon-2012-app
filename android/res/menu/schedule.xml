@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:id="@+id/schedule_go_to_today" android:title="What's on now" android:icon="@drawable/ic_go_to_today" android:showAsAction="always" android:titleCondensed="Now"></item>
-    <item android:id="@+id/schedule_show_days" android:title="@string/schedule_all_days" android:showAsAction="always"></item>
     
 
 </menu>
