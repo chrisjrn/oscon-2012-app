@@ -15,109 +15,115 @@ public class ScheduleFragment extends ListFragment {
 
 	}
 
-	
 	// Ignore the man behind the curtain :)
 	public List<Event> getHardcodedEventsList() {
 		List<Event> l = new ArrayList<Event>();
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"So you know the basics of jQuery and Selectors, but you want to solidify your knowledge with jQuery events, ajax, effects, and code organization. This course picks up where Intro to jQuery 1 left off, jumping straight into the most useful jQuery techniques. We'll cover Events, AJAX, Effects, and Code Organization in detail, utilizing the Code School engine so you can code in the browser.",
-				"Gregg Pollack (Envy Labs), Olivier Lacan (Envy Labs), Christopher Green (Envy Labs), Tyler Hunt (Envy Labs)",
-				"Presented by Gregg Pollack (Envy Labs), Olivier Lacan (Envy Labs), Christopher Green (Envy Labs), Tyler Hunt (Envy Labs). So you know the basics of jQuery and Selectors, but you want to solidify your knowledge with jQuery events, ajax, effects, and code organization. This course picks up where Intro to jQuery 1 left off, jumping straight into the most useful jQuery techniques. We'll cover Events, AJAX, Effects, and Code Organization in detail, utilizing the Code School engine so you can code in the browser.",
-				"jQuery - Captain's Log", "Portland 251",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/23120"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"Games account for about half of the apps in the typical app store and are the first thing ported to any new platform. This year's edition of the popular HTML Canvas Deep Dive will focus on building cross-platform games. We will cover everything needed for basic games with animation, audio, image loading, sprites, and joystick support, then package them for desktop, mobile web, and app stores.",
+				"Joshua Marinacci (Nokia)",
+				"Presented by Joshua Marinacci (Nokia). Games account for about half of the apps in the typical app store and are the first thing ported to any new platform. This year's edition of the popular HTML Canvas Deep Dive will focus on building cross-platform games. We will cover everything needed for basic games with animation, audio, image loading, sprites, and joystick support, then package them for desktop, mobile web, and app stores.",
+				"HTML Canvas Deep Dive", "Portland 251",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/28823"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"Web development without Photoshop, IDs or classes?  Improve your development time, reduced maintenance costs, SEO, accessibility and site performance with CSS. This skills-based workshop will cover including selectors, specificity, media queries, backgrounds,  gradients, animations, browser quirks, debugging and basic to advanced best practices.",
-				"Estelle Weyl (Standardista.com)",
-				"Presented by Estelle Weyl (Standardista.com). Web development without Photoshop, IDs or classes?  Improve your development time, reduced maintenance costs, SEO, accessibility and site performance with CSS. This skills-based workshop will cover including selectors, specificity, media queries, backgrounds,  gradients, animations, browser quirks, debugging and basic to advanced best practices.",
-				"CSS: Go from Good to Great", "Portland 252",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/23301"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"In this session you'll learn why you can't consider UX and design an optional extra when designing mobile apps, and how to tell an awesome app from a terrible app. In this platform-agnostic design-heavy workshop, you'll learn how to build wireframes, how to translate those wireframes into actual working Android code, and how to evaluate your designs for future improvement.",
+				"Paris Buttfield-Addison (Secret Lab Pty. Ltd.), Christopher Neugebauer (chris.neugebauer.id.au), Jonathon Manning (Secret Lab Pty. Ltd.)",
+				"Presented by Paris Buttfield-Addison (Secret Lab Pty. Ltd.), Christopher Neugebauer (chris.neugebauer.id.au), Jonathon Manning (Secret Lab Pty. Ltd.). In this session you'll learn why you can't consider UX and design an optional extra when designing mobile apps, and how to tell an awesome app from a terrible app. In this platform-agnostic design-heavy workshop, you'll learn how to build wireframes, how to translate those wireframes into actual working Android code, and how to evaluate your designs for future improvement.",
+				"Level Up Your Apps: Mobile UX Design and Development",
+				"Portland 252",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/29002"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"In this session you'll learn why you can't consider UX and design an optional extra when designing mobile apps for Android, how to tell an awesome app from a terrible app, and the basics of both designing and coding for the latest and greatest Android platform (Android 4.0 and beyond). Stylish apps aren't just for that other mobile platform, and Android is surprisingly easy to get started with.",
-				"Paris Buttfield-Addison (Secret Lab Pty. Ltd.), Christopher Neugebauer (Secret Lab Pty. Ltd.), Jonathon Manning (Secret Lab Pty. Ltd.)",
-				"Presented by Paris Buttfield-Addison (Secret Lab Pty. Ltd.), Christopher Neugebauer (Secret Lab Pty. Ltd.), Jonathon Manning (Secret Lab Pty. Ltd.). In this session you'll learn why you can't consider UX and design an optional extra when designing mobile apps for Android, how to tell an awesome app from a terrible app, and the basics of both designing and coding for the latest and greatest Android platform (Android 4.0 and beyond). Stylish apps aren't just for that other mobile platform, and Android is surprisingly easy to get started with.",
-				"Android-Fu: awesome apps for Ice Cream Sandwich and beyond",
-				"Portland 255",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/24288"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"One of the most popular configuration and cloud management tools, Chef is a powerful platform for rapid provisioning and deployment of servers. Attend this tutorial to learn  what benefits Chef can bring, how to get started and best use Chef to meet your needs.",
+				"Joshua Timberman (Opscode, Inc), James Casey (Opscode, Inc.)",
+				"Presented by Joshua Timberman (Opscode, Inc), James Casey (Opscode, Inc.). One of the most popular configuration and cloud management tools, Chef is a powerful platform for rapid provisioning and deployment of servers. Attend this tutorial to learn  what benefits Chef can bring, how to get started and best use Chef to meet your needs.",
+				"Systems Management with Chef", "Portland 255",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/29621"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"Want to write Node.JS applications and want someone to show you the ropes? In this workshop we will go through a quick paced introduction to node.JS, and will introduce the basic principles of writing evented IO applications. For the more advanced developers it will be interactive on the depth of certain subjects.",
-				"Rik Arends (Cloud9 IDE Inc)",
-				"Presented by Rik Arends (Cloud9 IDE Inc). Want to write Node.JS applications and want someone to show you the ropes? In this workshop we will go through a quick paced introduction to node.JS, and will introduce the basic principles of writing evented IO applications. For the more advanced developers it will be interactive on the depth of certain subjects.",
-				"An Introduction To Evented IO Programming In Node.JS , From The Experts",
-				"Portland 256",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/24214"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"Apache Solr is a Lucene-based blazing fast, highly scalable search engine used in thousands of applications and projects at organizations such as Zappos, Wells Fargo, Getty Images and many more. This tutorial will provide you with the fundamentals, enabling you to be up and running with Solr in minutes.",
+				"Erik Hatcher (LucidWorks)",
+				"Presented by Erik Hatcher (LucidWorks). Apache Solr is a Lucene-based blazing fast, highly scalable search engine used in thousands of applications and projects at organizations such as Zappos, Wells Fargo, Getty Images and many more. This tutorial will provide you with the fundamentals, enabling you to be up and running with Solr in minutes.",
+				"Solr Quick Start", "Portland 256",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/28933"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"Blender is a 3D animation suite that excels at every part of the animation pipeline, and has found its way into Hollywood blockbusters and AAA game titles. This introductory presentation will teach you 3D pipeline in a nutshell, followed by a hands-on demo where attendees can model, sculpt and render their first 3D project.",
-				"Oscar Baechler (Baechler Creative, LLC)",
-				"Presented by Oscar Baechler (Baechler Creative, LLC). Blender is a 3D animation suite that excels at every part of the animation pipeline, and has found its way into Hollywood blockbusters and AAA game titles. This introductory presentation will teach you 3D pipeline in a nutshell, followed by a hands-on demo where attendees can model, sculpt and render their first 3D project.",
-				"Blender: a 3D introduction", "D135",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/23255"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"This tutorial gives you the details you need to become an idiomatic PHP programmer when you're coming from another language. We won't waste time on basics but instead tour the landscape of the \"PHP way\" to approach tasks and concepts that you already know how to do in another language, such as wrangling types, OO, errors, performance, external packages, and development environment.",
+				"David Sklar (Ning (Glam Media))",
+				"Presented by David Sklar (Ning (Glam Media)). This tutorial gives you the details you need to become an idiomatic PHP programmer when you're coming from another language. We won't waste time on basics but instead tour the landscape of the \"PHP way\" to approach tasks and concepts that you already know how to do in another language, such as wrangling types, OO, errors, performance, external packages, and development environment.",
+				"Writing Idiomatic PHP", "D136",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/28834"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"Clojure is a general-purpose language with direct support for Java, a modern Lisp dialect, and support in both the language and data structures for functional programming. Learn Clojure and you'll become a better all-around programmer. You'll also be able to write applications that have the beauty and elegance of a good scripting language and the power and reach of the JVM.",
-				"Alan Dipert (Relevance, Inc.), Clinton R. Nixon (Relevance, Inc.)",
-				"Presented by Alan Dipert (Relevance, Inc.), Clinton R. Nixon (Relevance, Inc.). Clojure is a general-purpose language with direct support for Java, a modern Lisp dialect, and support in both the language and data structures for functional programming. Learn Clojure and you'll become a better all-around programmer. You'll also be able to write applications that have the beauty and elegance of a good scripting language and the power and reach of the JVM.",
-				"Computing with Clojure", "D136",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/24005"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"An extensive look at simple, practical, concrete methods to make your website or webapp more accessible for people with disabilities and in all forms of assistive technology. Participants will leave with a number of tips, tricks, and tools they can use on any site, no matter how simple or fancy it is -- and a number of examples of doing it incorrectly.",
+				"Denise Paolucci (Dreamwidth Studios), Deborah Kaplan (Dreamwidth Studios)",
+				"Presented by Denise Paolucci (Dreamwidth Studios), Deborah Kaplan (Dreamwidth Studios). An extensive look at simple, practical, concrete methods to make your website or webapp more accessible for people with disabilities and in all forms of assistive technology. Participants will leave with a number of tips, tricks, and tools they can use on any site, no matter how simple or fancy it is -- and a number of examples of doing it incorrectly.",
+				"Web Accessibility for the 21st Century", "D137/138",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/28801"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"Have you always wanted to create hardware devices to interact with the real world? Heard about the Arduino electronics prototyping platform but not sure how to get started? When you attend this workshop you will: set up an Arduino board & software; learn how the Arduino fits into the field of physical computing; and make your Arduino respond to button presses and blink lights. Hardware is fun!",
-				"Philip Lindsay (rancidbacon.com)",
-				"Presented by Philip Lindsay (rancidbacon.com). Have you always wanted to create hardware devices to interact with the real world? Heard about the Arduino electronics prototyping platform but not sure how to get started? When you attend this workshop you will: set up an Arduino board & software; learn how the Arduino fits into the field of physical computing; and make your Arduino respond to button presses and blink lights. Hardware is fun!",
-				"Get Started with the Arduino - A Hands-On Introductory Workshop",
-				"D137-138",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/23941"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"A fun, interactive, and comprehensive tutorial on how to host a successful code sprint, hackathon, (un)conference or workshop.",
+				"Christie Koehler (Mozilla / Stumptown Syndicate), Audrey Eschright (Elevated Code / Stumptown Syndicate), Sherri Montgomery (Open Source Bridge / Ignite Portland / Mentor Graphics)",
+				"Presented by Christie Koehler (Mozilla / Stumptown Syndicate), Audrey Eschright (Elevated Code / Stumptown Syndicate), Sherri Montgomery (Open Source Bridge / Ignite Portland / Mentor Graphics). A fun, interactive, and comprehensive tutorial on how to host a successful code sprint, hackathon, (un)conference or workshop.",
+				"Community-Driven Event Planning", "D139/140",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/29259"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"This session will introduce you to the JavaFX 2 platform from the perspective of a seasoned Java developer. The breadth of JavaFX APIs will be explained through several examples that we will build out during the course of the session.",
-				"Stephen Chin (Oracle)",
-				"Presented by Stephen Chin (Oracle). This session will introduce you to the JavaFX 2 platform from the perspective of a seasoned Java developer. The breadth of JavaFX APIs will be explained through several examples that we will build out during the course of the session.",
-				"JavaFX 2 - A Java Developer's Guide", "D139-140",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/24131"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"In this session we'll quickly go over the basic concepts of juju and spend the rest of the time walking through explicit examples of juju in action.  We'll look at stacks of services and the charms behind those services.",
+				"Jorge Castro (Canonical Ltd. / Ubuntu), Mark Mims (Canonical Ltd / Ubuntu)",
+				"Presented by Jorge Castro (Canonical Ltd. / Ubuntu), Mark Mims (Canonical Ltd / Ubuntu). In this session we'll quickly go over the basic concepts of juju and spend the rest of the time walking through explicit examples of juju in action.  We'll look at stacks of services and the charms behind those services.",
+				"Service Orchestration In The Cloud With Juju", "E143/144",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/29115"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"This tutorial provides a overview of the most important new features introduced in Perl 5.10 to 5.16, along with practical examples of how those features can improve the performance, robustness, and maintainability of your code",
-				"Damian Conway (Thoughtstream)",
-				"Presented by Damian Conway (Thoughtstream). This tutorial provides a overview of the most important new features introduced in Perl 5.10 to 5.16, along with practical examples of how those features can improve the performance, robustness, and maintainability of your code",
-				"New Features of the Modern Perls (5.10 to 5.16)", "E143-144",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/23275"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"This hands-on workshop will walk you through building a simple distributed sensor network. Using an Arduino board, off-the-shelf sensors, and XBee radios, we'll show you how to put together an individual sensor platform (commonly known as a \"mote\") and how to network more than one of these platforms together to build a small scale distributed network.",
+				"Alasdair Allan (Babilim Light Industries), Kipp Bradford (Kippworks)",
+				"Presented by Alasdair Allan (Babilim Light Industries), Kipp Bradford (Kippworks). This hands-on workshop will walk you through building a simple distributed sensor network. Using an Arduino board, off-the-shelf sensors, and XBee radios, we'll show you how to put together an individual sensor platform (commonly known as a \"mote\") and how to network more than one of these platforms together to build a small scale distributed network.",
+				"Building A Distributed Sensor Network", "E145/146",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/29622"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 12:30:00-08:00",
-				"You have your shiny new PostgreSQL source tarball or package, but what to do with it? In one intense tutorial, we'll go through everything need to install, configure, and maintain your new, tuned, replicated, back-uped PostgreSQL installation.",
-				"Christophe Pettus (PostgreSQL Experts, Inc.)",
-				"Presented by Christophe Pettus (PostgreSQL Experts, Inc.). You have your shiny new PostgreSQL source tarball or package, but what to do with it? In one intense tutorial, we'll go through everything need to install, configure, and maintain your new, tuned, replicated, back-uped PostgreSQL installation.",
-				"PostgreSQL Unboxing", "E145-146",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/23090"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"Presented by leaders of multiple open source non-profit foundations, this session introduces choices of governance and organisation for those considering anchoring their community with a non-profit organisation.",
+				"Simon  Phipps (Open Source Initiative), Josh Berkus (PostgreSQL Experts, Inc.), Steve Holden (Holden Web LLC), Paula Hunter (Outercurve Foundation), Bradley Kuhn (Software Freedom Conservancy), Dave Neary (Red Hat), Deb Nicholson (Open Invention Network), Cedric  Thomas (OW2), Ian Skerrett (Eclipse Foundation)",
+				"Presented by Simon  Phipps (Open Source Initiative), Josh Berkus (PostgreSQL Experts, Inc.), Steve Holden (Holden Web LLC), Paula Hunter (Outercurve Foundation), Bradley Kuhn (Software Freedom Conservancy), Dave Neary (Red Hat), Deb Nicholson (Open Invention Network), Cedric  Thomas (OW2), Ian Skerrett (Eclipse Foundation). Presented by leaders of multiple open source non-profit foundations, this session introduces choices of governance and organisation for those considering anchoring their community with a non-profit organisation.",
+				"Community Foundations 101", "E147",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/29249"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 17:00:00-08:00",
-				"Join us for a day-long program exploring OpenStack, the open source cloud infrastructure platform. Originally founded at NASA and Rackspace, OpenStack has grown to be a global software community of developers collaborating on a standard and massively scalable open source cloud operating system.",
-				"",
-				"Join us for a day-long program exploring OpenStack, the open source cloud infrastructure platform. Originally founded at NASA and Rackspace, OpenStack has grown to be a global software community of developers collaborating on a standard and massively scalable open source cloud operating system.",
-				"OpenStack Day", "F150",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/24987"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"Clojure is the most interesting new language on the JVM, both from a syntactic and capabilities standpoint. This workshop teaches attendees Clojure syntax, Java interoperability, and how to build applications, both Swing and Web, using Clojure.",
+				"Neal Ford (ThoughtWorks)",
+				"Presented by Neal Ford (ThoughtWorks). Clojure is the most interesting new language on the JVM, both from a syntactic and capabilities standpoint. This workshop teaches attendees Clojure syntax, Java interoperability, and how to build applications, both Swing and Web, using Clojure.",
+				"Introduction to Clojure", "F150",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/28779"));
 		l.add(new Event(
-				"2012-07-17 09:00:00-08:00",
-				"2012-07-17 17:00:00-08:00",
-				"So, you want to run a business; or, maybe you want to turn your Open Source project hobby into a day job.  What ever the reason you're reading the Business Leadership Day description, this one-day track has the basics to help bootstrap your business skills.",
-				"Kevin Shockey (Mis Tribus)",
-				"Presented by Kevin Shockey (Mis Tribus). So, you want to run a business; or, maybe you want to turn your Open Source project hobby into a day job.  What ever the reason you're reading the Business Leadership Day description, this one-day track has the basics to help bootstrap your business skills.",
-				"Business Leadership Day", "F151",
-				"http://www.oscon.com/oscon2012/public/schedule/detail/24988"));
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 17:00:00-07:00",
+				"inBloom releases open-source for a core educational service at OSCon 2013. Released under the Apache 2 license, come learn how to use this service in your apps and contribute to improving the core search service for usage in school districts across the nation.",
+				"Jason Hoekstra  (inBloom)",
+				"Presented by Jason Hoekstra  (inBloom). inBloom releases open-source for a core educational service at OSCon 2013. Released under the Apache 2 license, come learn how to use this service in your apps and contribute to improving the core search service for usage in school districts across the nation.",
+				"Code-a-Thon / inBloom LRI -- Learning Resource Discovery Engine",
+				"D 135",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/31509"));
+		l.add(new Event(
+				"2013-07-23 09:00:00-07:00",
+				"2013-07-23 12:30:00-07:00",
+				"The Rackspace Unlocked team will cover the Five Pillars of Cloudiness, the five key tenets that dive into how to navigate uncharted territory and design cloud applications. Learn how public, private and hybrid clouds can be leveraged to your advantage to free your application(s) from a one-size-fits-all cloud in favor of one that is a perfect fit.",
+				"Wayne Walls (Rackspace Hosting), Alex Brandt  (Rackspace Hosting)",
+				"Presented by Wayne Walls (Rackspace Hosting), Alex Brandt  (Rackspace Hosting). The Rackspace Unlocked team will cover the Five Pillars of Cloudiness, the five key tenets that dive into how to navigate uncharted territory and design cloud applications. Learn how public, private and hybrid clouds can be leveraged to your advantage to free your application(s) from a one-size-fits-all cloud in favor of one that is a perfect fit.",
+				"'Butter' Up Your Application", "E142",
+				"http://www.oscon.com/oscon2013/public/schedule/detail/31425"));
 		return l;
 	}
 }
