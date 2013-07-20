@@ -44,6 +44,7 @@ public class DayListFragment extends ListFragment {
 		i.putExtra("day", day); // This adds the value to the intent.
 		
 		this.getActivity().startActivity(i);
+		this.getActivity().finish();
 	}
 	
 	private List<String> getListOfDays() {
