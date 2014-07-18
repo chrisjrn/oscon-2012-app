@@ -47,7 +47,7 @@ public class DayListFragment extends ListFragment {
 	}
 	
 	private List<String> getListOfDays() {
-		return Arrays.asList(new String[] {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"});
+		return Arrays.asList(new String[] {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"});
 	}
 	
 

@@ -17,6 +17,9 @@ import com.google.gson.reflect.TypeToken;
 
 public class Schedule {
 
+	public static final int YEAR = 2014;
+	public static final int FIRST_DAY = 20;
+
 	public static List<TimeSlot> mTimeSlots;
 	public static List<Event> mSchedule;
 	public static Gson mGson = new Gson();
@@ -120,9 +123,9 @@ public class Schedule {
 				new int[] { 9, 0, 9, 40, 10, 00, 10, 40, 11, 00, 11, 40, 11,
 						50, 12, 30, 12, 40, 13, 10, 13, 15, 14, 00 } };
 		int tsid = 0;
-		int year = 2012;
+		int year = YEAR;
 		int month = 7 - 1; // I HATE JAVA
-		int day = 16;
+		int day = FIRST_DAY;
 		for (int i = 0; i < boundaries.length; i++) {
 			for (int j = 0; j < boundaries[i].length; j += 4) {
 				c = newCalendar();
