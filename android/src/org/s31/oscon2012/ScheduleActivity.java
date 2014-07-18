@@ -82,7 +82,7 @@ public class ScheduleActivity extends Activity {
 			mShowCurrentSessionMode = true;
 			if (c.before(startOfConference) || c.after(endOfConference)) {
 				day = 0;
-				c.set(Schedule.YEAR, Calendar.JULY, day + 16, 0, 0);
+				c.set(Schedule.YEAR, Calendar.JULY, day + Schedule.FIRST_DAY, 0, 0);
 			}
 		}
 
