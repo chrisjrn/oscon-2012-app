@@ -1070,16 +1070,6 @@
     "room": "D135"
   }, 
   {
-    "start": "2014-07-22 19:00:00-07:00", 
-    "end": "2014-07-22 20:00:00-07:00", 
-    "description": "Open discussion to talk about the methods, tricks and different tools available for copying and replicating data from traditional RDBMS into Hadoop, covering best practices and customer stories.", 
-    "author": "", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/36005", 
-    "raw_description": "Open discussion to talk about the methods, tricks and different tools available for copying and replicating data from traditional RDBMS into Hadoop, covering best practices and customer stories.", 
-    "title": "Migrating Data from MySQL and Oracle into Hadoop", 
-    "room": "D135"
-  }, 
-  {
     "start": "2014-07-22 20:00:00-07:00", 
     "end": "2014-07-22 21:00:00-07:00", 
     "description": "Caching at scale might be troublesome and sometimes require adapting your usage patterns to really take advantage of the employed solutions. Moving the business logic to the caching subsystem and allowing horizontal scaling might be a key factor to minimise the impact of introducing a caching layer in your infrastructure.", 
@@ -1527,16 +1517,6 @@
     "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34570", 
     "raw_description": "Presented by Jason Strimpel (WalmartLabs). Often business and developer needs are at odds when developing public facing websites that need to be indexed. Business is concerned with factors such as SEO, visitor retention and bounce rates, while engineering is concerned with developer ergonomics, re-usage, separation of concerns, and maintenance. This talk will describe a solution that satisfies both business and engineering requirements.", 
     "title": "Satisfying Business and Engineering Requirements: Client-server JavaScript, SEO, and Optimized Page Load", 
-    "room": "D137/138"
-  }, 
-  {
-    "start": "2014-07-22 19:00:00-07:00", 
-    "end": "2014-07-22 20:00:00-07:00", 
-    "description": "Do you Hadoop? Or at least interested in stories from people who do? We will meet to share our experience and trade tips about working with the open source data storage and processing framework - Hadoop.", 
-    "author": "", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/36014", 
-    "raw_description": "Do you Hadoop? Or at least interested in stories from people who do? We will meet to share our experience and trade tips about working with the open source data storage and processing framework - Hadoop.", 
-    "title": "Hadoop Get-together", 
     "room": "D137/138"
   }, 
   {
@@ -2007,6 +1987,26 @@
     "url": "http://www.oscon.com/oscon2014/public/schedule/detail/37759", 
     "raw_description": "Much has been written about the connections between mathematics and music. Come meet and collaborate with your fellow attendees as we engage in another OSCON tradition: Geek Choir! (Yes, there will be singing.)", 
     "title": "Geek Choir", 
+    "room": "E144"
+  }, 
+  {
+    "start": "2014-07-22 19:00:00-07:00", 
+    "end": "2014-07-22 20:00:00-07:00", 
+    "description": "Do you Hadoop? Or at least interested in stories from people who do? We will meet to share our experience and trade tips about working with the open source data storage and processing framework - Hadoop.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/36014", 
+    "raw_description": "Do you Hadoop? Or at least interested in stories from people who do? We will meet to share our experience and trade tips about working with the open source data storage and processing framework - Hadoop.", 
+    "title": "Hadoop Get-together", 
+    "room": "E144"
+  }, 
+  {
+    "start": "2014-07-22 20:00:00-07:00", 
+    "end": "2014-07-22 21:00:00-07:00", 
+    "description": "Open discussion to talk about the methods, tricks and different tools available for copying and replicating data from traditional RDBMS into Hadoop, covering best practices and customer stories.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/36005", 
+    "raw_description": "Open discussion to talk about the methods, tricks and different tools available for copying and replicating data from traditional RDBMS into Hadoop, covering best practices and customer stories.", 
+    "title": "Migrating Data from MySQL and Oracle into Hadoop", 
     "room": "E144"
   }, 
   {
@@ -3180,6 +3180,16 @@
     "room": "E142"
   }, 
   {
+    "start": "2014-07-22 14:30:00-07:00", 
+    "end": "2014-07-22 15:10:00-07:00", 
+    "description": "Go is an open source language first released in 2009. Go is popular because it makes coding super-fun again. Josh will illustrate the deep role tools like gofmt, godoc, 'go vet', 'go test' and others play in the Go experience, show you how to roll your own, and talk about some unexplored possibilities.", 
+    "author": "Josh Bleecher Snyder (PayPal)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/37795", 
+    "raw_description": "Presented by Josh Bleecher Snyder (PayPal). Go is an open source language first released in 2009. Go is popular because it makes coding super-fun again. Josh will illustrate the deep role tools like gofmt, godoc, 'go vet', 'go test' and others play in the Go experience, show you how to roll your own, and talk about some unexplored possibilities.", 
+    "title": "Gophers with Hammers: Fun with Parsing and Generating Go", 
+    "room": "E142"
+  }, 
+  {
     "start": "2014-07-22 19:00:00-07:00", 
     "end": "2014-07-22 20:00:00-07:00", 
     "description": "There is a debate on the relevance of Open Standards when faced with Open Source efforts.  Open Source is an industry force, yet government bodies and others still rely on and give preference to ANSI and ISO standards.  Standards representatives from across the industry will be on hand to discuss possible paths forward that are complementary rather than competitive.", 
@@ -3277,6 +3287,16 @@
     "url": "http://www.oscon.com/oscon2014/public/schedule/detail/37778", 
     "raw_description": "Presented by Karen Sandler (Software Freedom Conservancy). This talk will introduce GNOME's Outreach Program for Women, outline how the program works and update you on what's happened recently. Tired of people talking about how there isn't diversity in free software? Come to this talk and find out how you can help actually change things.", 
     "title": "Bringing More Women to Free and Open Source Software", 
+    "room": "E143"
+  }, 
+  {
+    "start": "2014-07-22 20:00:00-07:00", 
+    "end": "2014-07-22 21:00:00-07:00", 
+    "description": "We will discuss the current state of containers and what can/should be improved.", 
+    "author": "", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/37794", 
+    "raw_description": "We will discuss the current state of containers and what can/should be improved.", 
+    "title": "Containers - What We Have and What's Missing?", 
     "room": "E143"
   }, 
   {
@@ -3397,6 +3417,16 @@
     "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35744", 
     "raw_description": "Presented by Tim Bray (Independent). What do you care about most in the worlds of software, the Net, and Life Online?  Are you worried about it?  Now is the time for sensible, reasonable, extreme paranoia.", 
     "title": "Threats", 
+    "room": "Portland  Ballroom"
+  }, 
+  {
+    "start": "2014-07-23 09:20:00-07:00", 
+    "end": "2014-07-23 09:30:00-07:00", 
+    "description": "In February of this year, PayPal announced it had hired Danese Cooper as their first Head of Open Source.  PayPal?  And Open Source? In fact, Open Source is playing a key role in reinventing PayPal engineering as a place where innovation at scale is easy and fun - especially if you like to work in Open Source.", 
+    "author": "Sarah Novotny (NGINX), Edwin  Aoki (AOL), Danese Cooper (PayPal), Josh Bleecher Snyder (PayPal)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/37801", 
+    "raw_description": "Presented by Sarah Novotny (NGINX), Edwin  Aoki (AOL), Danese Cooper (PayPal), Josh Bleecher Snyder (PayPal). In February of this year, PayPal announced it had hired Danese Cooper as their first Head of Open Source.  PayPal?  And Open Source? In fact, Open Source is playing a key role in reinventing PayPal engineering as a place where innovation at scale is easy and fun - especially if you like to work in Open Source.", 
+    "title": "Racing Change: Accelerating Innovation Through Radical Transparency", 
     "room": "Portland  Ballroom"
   }, 
   {

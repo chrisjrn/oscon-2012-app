@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140716T232652
+DTSTAMP:20140719T172437
 LOCATION:Portland 251
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34095
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--34095
@@ -273,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140721T123000
 DTSTART;TZID=US/Pacific:20140721T090000
-DTSTAMP:20140331T223826
+DTSTAMP:20140719T171728
 LOCATION:Portland 251
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34252
 UID:http://www.oscon.com/oscon2014--s2014-07-21-09:00--34252
@@ -1089,7 +1089,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140707T181505
+DTSTAMP:20140718T224931
 LOCATION:Portland 256
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34824
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34824
@@ -1598,18 +1598,6 @@ DESCRIPTION:Presented by Brian Capouch (Saint Josephs College), Nathan S
  sion we present an overview of a variety of tools vying for attention, a
  long with a demonstration of the sipML Javascript toolkit, using webRTC-
  enabled browsers and the latest version of Asterisk.
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20140722T200000
-DTSTART;TZID=US/Pacific:20140722T190000
-DTSTAMP:20140718T141213
-LOCATION:D135
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/36005
-UID:http://www.oscon.com/oscon2014--s2014-07-22-19:00--36005
-SUMMARY:Migrating Data from MySQL and Oracle into Hadoop
-DESCRIPTION:Open discussion to talk about the methods, tricks and differ
- ent tools available for copying and replicating data from traditional RD
- BMS into Hadoop, covering best practices and customer stories.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T210000
@@ -2274,18 +2262,6 @@ DESCRIPTION:Presented by Jason Strimpel (WalmartLabs). Often business an
  eering requirements.
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20140722T200000
-DTSTART;TZID=US/Pacific:20140722T190000
-DTSTAMP:20140528T181005
-LOCATION:D137/138
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/36014
-UID:http://www.oscon.com/oscon2014--s2014-07-22-19:00--36014
-SUMMARY:Hadoop Get-together
-DESCRIPTION:Do you Hadoop? Or at least interested in stories from people
-  who do? We will meet to share our experience and trade tips about worki
- ng with the open source data storage and processing framework - Hadoop.
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T200000
 DTSTART;TZID=US/Pacific:20140720T190000
 DTSTAMP:20140514T170723
@@ -2328,7 +2304,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140710T175512
+DTSTAMP:20140719T173934
 LOCATION:D139/140
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34773
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34773
@@ -2342,7 +2318,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140715T203253
+DTSTAMP:20140719T011941
 LOCATION:D139/140
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34772
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--34772
@@ -2971,6 +2947,30 @@ DESCRIPTION:Much has been written about the connections between mathemat
  ics and music. Come meet and collaborate with your fellow attendees as w
  e engage in another OSCON tradition: Geek Choir! (Yes, there will be sin
  ging.)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140722T200000
+DTSTART;TZID=US/Pacific:20140722T190000
+DTSTAMP:20140718T203110
+LOCATION:E144
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/36014
+UID:http://www.oscon.com/oscon2014--s2014-07-22-19:00--36014
+SUMMARY:Hadoop Get-together
+DESCRIPTION:Do you Hadoop? Or at least interested in stories from people
+  who do? We will meet to share our experience and trade tips about worki
+ ng with the open source data storage and processing framework - Hadoop.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140722T210000
+DTSTART;TZID=US/Pacific:20140722T200000
+DTSTAMP:20140718T203127
+LOCATION:E144
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/36005
+UID:http://www.oscon.com/oscon2014--s2014-07-22-20:00--36005
+SUMMARY:Migrating Data from MySQL and Oracle into Hadoop
+DESCRIPTION:Open discussion to talk about the methods, tricks and differ
+ ent tools available for copying and replicating data from traditional RD
+ BMS into Hadoop, covering best practices and customer stories.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
@@ -4699,6 +4699,20 @@ DESCRIPTION:Presented by Matt Stine (Pivotal). The Go programming langua
  istinctives to Java developers looking to add Go to their toolkits.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140722T151000
+DTSTART;TZID=US/Pacific:20140722T143000
+DTSTAMP:20140719T141101
+LOCATION:E142
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/37795
+UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--37795
+SUMMARY:Gophers with Hammers: Fun with Parsing and Generating Go
+DESCRIPTION:Presented by Josh Bleecher Snyder (PayPal). Go is an open so
+ urce language first released in 2009. Go is popular because it makes cod
+ ing super-fun again. Josh will illustrate the deep role tools like gofmt
+ , godoc, 'go vet', 'go test' and others play in the Go experience, show 
+ you how to roll your own, and talk about some unexplored possibilities.
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T200000
 DTSTART;TZID=US/Pacific:20140722T190000
 DTSTAMP:20140611T180508
@@ -4840,6 +4854,17 @@ DESCRIPTION:Presented by Karen Sandler (Software Freedom Conservancy). T
  the program works and update you on what's happened recently. Tired of p
  eople talking about how there isn't diversity in free software? Come to 
  this talk and find out how you can help actually change things.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140722T210000
+DTSTART;TZID=US/Pacific:20140722T200000
+DTSTAMP:20140718T211731
+LOCATION:E143
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/37794
+UID:http://www.oscon.com/oscon2014--s2014-07-22-20:00--37794
+SUMMARY:Containers - What We Have and What's Missing?
+DESCRIPTION:We will discuss the current state of containers and what can
+ /should be improved.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T190000
@@ -4995,6 +5020,23 @@ SUMMARY:Threats
 DESCRIPTION:Presented by Tim Bray (Independent). What do you care about 
  most in the worlds of software, the Net, and Life Online?  Are you worri
  ed about it?  Now is the time for sensible, reasonable, extreme paranoia
+ .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140723T093000
+DTSTART;TZID=US/Pacific:20140723T092000
+DTSTAMP:20140719T172735
+LOCATION:Portland  Ballroom
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/37801
+UID:http://www.oscon.com/oscon2014--s2014-07-23-09:20--37801
+SUMMARY:Racing Change: Accelerating Innovation Through Radical Transpare
+ ncy
+DESCRIPTION:Presented by Sarah Novotny (NGINX), Edwin  Aoki (AOL), Danes
+ e Cooper (PayPal), Josh Bleecher Snyder (PayPal). In February of this ye
+ ar, PayPal announced it had hired Danese Cooper as their first Head of O
+ pen Source.  PayPal?  And Open Source? In fact, Open Source is playing a
+  key role in reinventing PayPal engineering as a place where innovation 
+ at scale is easy and fun - especially if you like to work in Open Source
  .
 END:VEVENT
 BEGIN:VEVENT
@@ -5232,7 +5274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T220000
 DTSTART;TZID=US/Pacific:20140720T203000
-DTSTAMP:20140716T203147
+DTSTAMP:20140719T174635
 LOCATION:123 NE Davis St.
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/35853
 UID:http://www.oscon.com/oscon2014--s2014-07-20-20:30--35853
