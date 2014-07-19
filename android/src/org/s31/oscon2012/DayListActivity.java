@@ -29,13 +29,7 @@ public class DayListActivity extends Activity {
 		switch (item.getItemId()) {
 		case android.R.id.home:
 			// android.R.id.home is the "up" button.
-			Intent intent = new Intent(this, ScheduleActivity.class);
-
-			// This flag unwinds the navigation stack, rather than loading the
-			// new activity in the existing stack.
-			intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-					| Intent.FLAG_ACTIVITY_NEW_TASK);
-			startActivity(intent);
+			finish();
 			return true;
 		default:
 			return super.onOptionsItemSelected(item);

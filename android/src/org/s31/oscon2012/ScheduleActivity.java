@@ -161,17 +161,15 @@ public class ScheduleActivity extends Activity {
 
 			// This flag unwinds the navigation stack, rather than loading the
 			// new activity in the existing stack.
-			intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-					| Intent.FLAG_ACTIVITY_NEW_TASK);
-			startActivity(intent);
+			finish();
 			return true;
 		case R.id.schedule_show_days:
-			intent = new Intent(this, ScheduleActivity.class);
-			intent.putExtra("show_days", true);
-			intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-					| Intent.FLAG_ACTIVITY_NEW_TASK);
+			intent = new Intent(this, DayListActivity.class);
+			//intent.putExtra("show_days", true);
 			startActivity(intent);
-
+			if (!mShowCurrentSessionMode) {
+				finish();
+			}
 			return true;
 		default:
 			return super.onOptionsItemSelected(item);
