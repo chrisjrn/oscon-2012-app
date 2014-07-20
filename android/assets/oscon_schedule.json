@@ -192,51 +192,51 @@
   {
     "start": "2014-07-22 10:40:00-07:00", 
     "end": "2014-07-22 11:20:00-07:00", 
-    "description": "Have you ever written or used an API wrapper for a webservice? REST is a client-server architecture model and building the server is only half of the challenge. This talk will walk through some of the challenges of building a REST client, describe some best practices and some patterns to avoid, and discuss how we can all work to build better APIs for an open web.", 
-    "author": "Mark Lavin (Caktus Consulting Group)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34156", 
-    "raw_description": "Presented by Mark Lavin (Caktus Consulting Group). Have you ever written or used an API wrapper for a webservice? REST is a client-server architecture model and building the server is only half of the challenge. This talk will walk through some of the challenges of building a REST client, describe some best practices and some patterns to avoid, and discuss how we can all work to build better APIs for an open web.", 
-    "title": "REST: It's not just for servers", 
+    "description": "This talk will explore the \u201cmove fast\u201d side of Facebook\u2019s software engineering culture: development process, organizational structure, and the vast amounts of tooling we create and use to make sure we don\u2019t screw up. We\u2019ll also dig into how we \u201cship things\u201d: release process, A/B testing, gate keepers, test infrastructure, and more.", 
+    "author": "Andrei Alexandrescu (Facebook)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34635", 
+    "raw_description": "Presented by Andrei Alexandrescu (Facebook). This talk will explore the \u201cmove fast\u201d side of Facebook\u2019s software engineering culture: development process, organizational structure, and the vast amounts of tooling we create and use to make sure we don\u2019t screw up. We\u2019ll also dig into how we \u201cship things\u201d: release process, A/B testing, gate keepers, test infrastructure, and more.", 
+    "title": "Move Fast and Ship Things", 
     "room": "Portland 251"
   }, 
   {
     "start": "2014-07-22 11:30:00-07:00", 
     "end": "2014-07-22 12:10:00-07:00", 
-    "description": "Parse is a popular mobile Backend-as-a-Service allowing mobile developers to use backend APIs in conjunction with mobile apps. LoopBack is an open source mBaaS implementation that offers all the same functionality, is written in Node.js, and can be extended with Node.js' community of over 50,000 modules.", 
-    "author": "Ritchie Martori (StrongLoop)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34941", 
-    "raw_description": "Presented by Ritchie Martori (StrongLoop). Parse is a popular mobile Backend-as-a-Service allowing mobile developers to use backend APIs in conjunction with mobile apps. LoopBack is an open source mBaaS implementation that offers all the same functionality, is written in Node.js, and can be extended with Node.js' community of over 50,000 modules.", 
-    "title": "LoopBack: Open Source mBaaS", 
+    "description": "Show how tools including cURL, Wireshark and Charles can be used to inspect and change HTTP traffic when debugging applications which consume APIs and other remote sources.", 
+    "author": "Lorna Jane Mitchell (LornaJane)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34081", 
+    "raw_description": "Presented by Lorna Jane Mitchell (LornaJane). Show how tools including cURL, Wireshark and Charles can be used to inspect and change HTTP traffic when debugging applications which consume APIs and other remote sources.", 
+    "title": "Debugging HTTP", 
     "room": "Portland 251"
   }, 
   {
     "start": "2014-07-22 14:30:00-07:00", 
     "end": "2014-07-22 15:10:00-07:00", 
-    "description": "The story of an open-source project that brings mobile accessibility APIs together with native webviews to make mobile app development more responsive to users with disabilities.", 
-    "author": "Matt May (Adobe Systems)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34797", 
-    "raw_description": "Presented by Matt May (Adobe Systems). The story of an open-source project that brings mobile accessibility APIs together with native webviews to make mobile app development more responsive to users with disabilities.", 
-    "title": "Open Mobile Accessibility with GitHub and Cordova", 
+    "description": "Developers, increasingly, need to work in several different development languages. It is hard enough to remember all the bits and pieces of the languages themselves, do you really need to know all the unique toolchains to make them work?", 
+    "author": "Langdon White (Red Hat)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34944", 
+    "raw_description": "Presented by Langdon White (Red Hat). Developers, increasingly, need to work in several different development languages. It is hard enough to remember all the bits and pieces of the languages themselves, do you really need to know all the unique toolchains to make them work?", 
+    "title": "Open Source Tools for the Polyglot Developer", 
     "room": "Portland 251"
   }, 
   {
     "start": "2014-07-22 13:40:00-07:00", 
     "end": "2014-07-22 14:20:00-07:00", 
-    "description": "This session is an overview of the Android Developer Tools (ADT and Android Studio), including many useful techniques, tips and tricks for getting the most out of them.", 
-    "author": "Mike Wolfson (Epocrates)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34718", 
-    "raw_description": "Presented by Mike Wolfson (Epocrates). This session is an overview of the Android Developer Tools (ADT and Android Studio), including many useful techniques, tips and tricks for getting the most out of them.", 
-    "title": "Android Developer Tools Essentials", 
+    "description": "Since its first release in early 2013, Docker has been deployed successfully to implement continuous integration and testing environments, where the very fast lifecycle of containers gives them an edge over virtual machines. We will see how to extend the workflow from development to testing and all the way to production. We'll also address challenges like reliability and scaling with Docker.", 
+    "author": "Jerome Petazzoni (Docker Inc.)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34136", 
+    "raw_description": "Presented by Jerome Petazzoni (Docker Inc.). Since its first release in early 2013, Docker has been deployed successfully to implement continuous integration and testing environments, where the very fast lifecycle of containers gives them an edge over virtual machines. We will see how to extend the workflow from development to testing and all the way to production. We'll also address challenges like reliability and scaling with Docker.", 
+    "title": "Shipping Applications to Production in Containers with Docker", 
     "room": "Portland 251"
   }, 
   {
     "start": "2014-07-22 17:00:00-07:00", 
     "end": "2014-07-22 17:40:00-07:00", 
-    "description": "Firefox OS is a new mobile operating system, developed by Mozilla, which lets users install and run open web applications created using HTML, CSS, and JavaScript. The session will introduce people to Firefox OS, the overview, branding and distribution and will explain the governance behind it.", 
-    "author": "Benjamin Kerensa (Mozilla), Alex Lakatos (Mozilla)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34588", 
-    "raw_description": "Presented by Benjamin Kerensa (Mozilla), Alex Lakatos (Mozilla). Firefox OS is a new mobile operating system, developed by Mozilla, which lets users install and run open web applications created using HTML, CSS, and JavaScript. The session will introduce people to Firefox OS, the overview, branding and distribution and will explain the governance behind it.", 
-    "title": "Getting Started Contributing to Firefox OS", 
+    "description": "Computing is spreading outwards: clusters of 1000s of nodes serve a single database, and hundreds of machines analyze the same KPIs. How do we monitor a cluster with many nodes? This talk presents how to effectively monitor a multi-node Cassandra cluster using Riemann and other graphing solutions.", 
+    "author": "Patricia Gorla (The Last Pickle)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34587", 
+    "raw_description": "Presented by Patricia Gorla (The Last Pickle). Computing is spreading outwards: clusters of 1000s of nodes serve a single database, and hundreds of machines analyze the same KPIs. How do we monitor a cluster with many nodes? This talk presents how to effectively monitor a multi-node Cassandra cluster using Riemann and other graphing solutions.", 
+    "title": "Monitoring Distributed Systems in Real-time with Riemann and Cassandra", 
     "room": "Portland 251"
   }, 
   {
@@ -282,31 +282,31 @@
   {
     "start": "2014-07-23 10:40:00-07:00", 
     "end": "2014-07-23 11:20:00-07:00", 
-    "description": "Until iOS and Android came along, the opportunities for open source to flourish in the mobile space were limited, because platforms were totally proprietary. Now you can find countless FL/OSS projects that help mobile developers get their job done. So what's on the horizon, and what are the best open source tools today to deliver the next great app?", 
-    "author": "James Turner (O'Reilly Media), Alasdair Allan (The Thing System, Inc.), Joe Bowser (Adobe Systems), Mike Wolfson (Epocrates)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33463", 
-    "raw_description": "Presented by James Turner (O'Reilly Media), Alasdair Allan (The Thing System, Inc.), Joe Bowser (Adobe Systems), Mike Wolfson (Epocrates). Until iOS and Android came along, the opportunities for open source to flourish in the mobile space were limited, because platforms were totally proprietary. Now you can find countless FL/OSS projects that help mobile developers get their job done. So what's on the horizon, and what are the best open source tools today to deliver the next great app?", 
-    "title": "Open Source and Mobile Development: Where Does it go From Here?", 
+    "description": "Operating a massive-scale system, such as the Netflix API, is no trivial task. It supports over 44M members in 40+ countries and sees billions of requests a day. Along the way, there have been many mistakes, yet it is still at the center of the Netflix streaming ecosystem. In this session, I will go into detail on the top ten lessons learned in operating this complex and critical system.", 
+    "author": "Daniel Jacobson (Netflix)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34451", 
+    "raw_description": "Presented by Daniel Jacobson (Netflix). Operating a massive-scale system, such as the Netflix API, is no trivial task. It supports over 44M members in 40+ countries and sees billions of requests a day. Along the way, there have been many mistakes, yet it is still at the center of the Netflix streaming ecosystem. In this session, I will go into detail on the top ten lessons learned in operating this complex and critical system.", 
+    "title": "Netflix API : Top 10 Lessons Learned", 
     "room": "Portland 251"
   }, 
   {
     "start": "2014-07-23 14:30:00-07:00", 
     "end": "2014-07-23 15:10:00-07:00", 
-    "description": "As the internet grows, there are more and more interesting devices to connect to it - some of which are mobile, sensor platforms, or healthcare devices. This is all part of the \"Internet of Things\" that has been an emerging area of excitement for the last few years. MQTT is a lightweight, messaging system for connected devices, the Industrial Internet, mobile, and the IoT.", 
-    "author": "Andy Piper (Twitter)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34522", 
-    "raw_description": "Presented by Andy Piper (Twitter). As the internet grows, there are more and more interesting devices to connect to it - some of which are mobile, sensor platforms, or healthcare devices. This is all part of the \"Internet of Things\" that has been an emerging area of excitement for the last few years. MQTT is a lightweight, messaging system for connected devices, the Industrial Internet, mobile, and the IoT.", 
-    "title": "Internet ALL the Things - a walking tour of MQTT", 
+    "description": "If you're pushing the envelope of programming (or of your own skills)... and even when you\u2019re not... there *will* be bugs in your code.  Don't panic!  We cover the attitudes and skills (not taught in most schools) to minimize your bugs, track them, find them, fix them, ensure they never recur, and deploy fixes to your users.", 
+    "author": "Anna Martelli Ravenscroft (Self), Alex Martelli (Google)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33950", 
+    "raw_description": "Presented by Anna Martelli Ravenscroft (Self), Alex Martelli (Google). If you're pushing the envelope of programming (or of your own skills)... and even when you\u2019re not... there *will* be bugs in your code.  Don't panic!  We cover the attitudes and skills (not taught in most schools) to minimize your bugs, track them, find them, fix them, ensure they never recur, and deploy fixes to your users.", 
+    "title": "There *Will* Be Bugs", 
     "room": "Portland 251"
   }, 
   {
     "start": "2014-07-23 11:30:00-07:00", 
     "end": "2014-07-23 12:10:00-07:00", 
-    "description": "Mobile's here to stay! This talk will showcase how Open Source tools can power your test automation for mobile apps. It entirely relies on Open Source components such as Appium, Cordova/PhoneGap an Topcoat.", 
-    "author": "Sebastian Tiedtke (Sauce Labs Inc)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34713", 
-    "raw_description": "Presented by Sebastian Tiedtke (Sauce Labs Inc). Mobile's here to stay! This talk will showcase how Open Source tools can power your test automation for mobile apps. It entirely relies on Open Source components such as Appium, Cordova/PhoneGap an Topcoat.", 
-    "title": "Functionally Mobile (Automation)", 
+    "description": "Refactoring code (altering code to make it cleaner, simpler, and often faster, while not sacrificing functionality) We hate to do it, so learn how to do it better. Covers: When to refactor. How to refactor. Why refactor. How refactor can help us write better code. Common methodology for refactoring.", 
+    "author": "Adam Culp (Zend Technologies)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33457", 
+    "raw_description": "Presented by Adam Culp (Zend Technologies). Refactoring code (altering code to make it cleaner, simpler, and often faster, while not sacrificing functionality) We hate to do it, so learn how to do it better. Covers: When to refactor. How to refactor. Why refactor. How refactor can help us write better code. Common methodology for refactoring.", 
+    "title": "Refactoring 101", 
     "room": "Portland 251"
   }, 
   {
@@ -582,11 +582,11 @@
   {
     "start": "2014-07-22 10:40:00-07:00", 
     "end": "2014-07-22 11:20:00-07:00", 
-    "description": "For the uninitiated, a conversation with functional programmers can feel like ground zero of a jargon explosion. In this talk Lambda Ladies Co-Founder Katie Miller will help you to defend against the blah-blah blast by demystifying several terms commonly used by FP fans with bite-sized Haskell examples and friendly pictures. Expect appearances by Curry, Lens, and the infamous M-word, among others.", 
-    "author": "Katie Miller (Red Hat)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35493", 
-    "raw_description": "Presented by Katie Miller (Red Hat). For the uninitiated, a conversation with functional programmers can feel like ground zero of a jargon explosion. In this talk Lambda Ladies Co-Founder Katie Miller will help you to defend against the blah-blah blast by demystifying several terms commonly used by FP fans with bite-sized Haskell examples and friendly pictures. Expect appearances by Curry, Lens, and the infamous M-word, among others.", 
-    "title": "Coder Decoder: Functional Programmer Lingo Explained, with Pictures", 
+    "description": "You are a clever and talented person. You have architected a system that even my cat could use; your spreadsheet-fu is legendary. Your peers adore you. Your clients love you. But, until now, you haven\u2019t *&^#^! been able to make Git work. It makes you angry inside that you have to ask for help, again, to figure out that *&^#^! command to upload your work. It's not you. It's Git. Promise.", 
+    "author": "Emma Jane Westby (Freelance)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34117", 
+    "raw_description": "Presented by Emma Jane Westby (Freelance). You are a clever and talented person. You have architected a system that even my cat could use; your spreadsheet-fu is legendary. Your peers adore you. Your clients love you. But, until now, you haven\u2019t *&^#^! been able to make Git work. It makes you angry inside that you have to ask for help, again, to figure out that *&^#^! command to upload your work. It's not you. It's Git. Promise.", 
+    "title": "Git for Grown-ups", 
     "room": "Portland 255"
   }, 
   {
@@ -782,11 +782,11 @@
   {
     "start": "2014-07-22 11:30:00-07:00", 
     "end": "2014-07-22 12:10:00-07:00", 
-    "description": "Elasticsearch is an open-source document store known for enabling search and real-time analytics on large data sets. In this presentation we will walk through the development of an application that monitors the Parrot AR.Drone.  This application will collect metrics from the drone and then transform them to JSON for storage and real-time analysis in Elasticsearch.", 
-    "author": "Kevin Kluge (Elasticsearch), Steve Mayzak (Elasticsearch)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34243", 
-    "raw_description": "Presented by Kevin Kluge (Elasticsearch), Steve Mayzak (Elasticsearch). Elasticsearch is an open-source document store known for enabling search and real-time analytics on large data sets. In this presentation we will walk through the development of an application that monitors the Parrot AR.Drone.  This application will collect metrics from the drone and then transform them to JSON for storage and real-time analysis in Elasticsearch.", 
-    "title": "Monitoring Your Drone Project with Elasticsearch", 
+    "description": "Linux Containers (or LXC) is now a popular choice for development and testing environments. As more and more people use them in production deployments, they face a common question: are Linux Containers secure enough? It is often claimed that containers have weaker isolation than virtual machines. We will explore whether this is true, if it matters, and what can be done about it.", 
+    "author": "Jerome Petazzoni (Docker Inc.)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34137", 
+    "raw_description": "Presented by Jerome Petazzoni (Docker Inc.). Linux Containers (or LXC) is now a popular choice for development and testing environments. As more and more people use them in production deployments, they face a common question: are Linux Containers secure enough? It is often claimed that containers have weaker isolation than virtual machines. We will explore whether this is true, if it matters, and what can be done about it.", 
+    "title": "Is it Safe to Run Applications in Linux Containers?", 
     "room": "Portland 256"
   }, 
   {
@@ -852,11 +852,11 @@
   {
     "start": "2014-07-23 13:40:00-07:00", 
     "end": "2014-07-23 14:20:00-07:00", 
-    "description": "The underpinnings of open government are transparency and citizen participation.  In re-imagining a new Data.gov (the open data, open government initiative for the White House), this was taken to heart. This system was created using open source and with comments, issues, and commits worked with the public all along the way.", 
-    "author": "Jeanne Holm (Jet Propulsion Laboratory, NASA)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34109", 
-    "raw_description": "Presented by Jeanne Holm (Jet Propulsion Laboratory, NASA). The underpinnings of open government are transparency and citizen participation.  In re-imagining a new Data.gov (the open data, open government initiative for the White House), this was taken to heart. This system was created using open source and with comments, issues, and commits worked with the public all along the way.", 
-    "title": "Data.gov: Open Government as Open Source", 
+    "description": "Broad introduction to Bash features for users who want to go beyond simple command execution.  Covered topics include builtins, keywords, functions, parameters (arguments, variables, arrays, special parameters), parameter expansion and manipulation, compound commands (loops, groups, conditionals), and brace expansion.", 
+    "author": "James Pannacciulli (Media Temple)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34954", 
+    "raw_description": "Presented by James Pannacciulli (Media Temple). Broad introduction to Bash features for users who want to go beyond simple command execution.  Covered topics include builtins, keywords, functions, parameters (arguments, variables, arrays, special parameters), parameter expansion and manipulation, compound commands (loops, groups, conditionals), and brace expansion.", 
+    "title": "Introduction to Advanced Bash Usage", 
     "room": "Portland 256"
   }, 
   {
@@ -922,31 +922,31 @@
   {
     "start": "2014-07-22 10:40:00-07:00", 
     "end": "2014-07-22 11:20:00-07:00", 
-    "description": "You are a clever and talented person. You have architected a system that even my cat could use; your spreadsheet-fu is legendary. Your peers adore you. Your clients love you. But, until now, you haven\u2019t *&^#^! been able to make Git work. It makes you angry inside that you have to ask for help, again, to figure out that *&^#^! command to upload your work. It's not you. It's Git. Promise.", 
-    "author": "Emma Jane Westby (Freelance)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34117", 
-    "raw_description": "Presented by Emma Jane Westby (Freelance). You are a clever and talented person. You have architected a system that even my cat could use; your spreadsheet-fu is legendary. Your peers adore you. Your clients love you. But, until now, you haven\u2019t *&^#^! been able to make Git work. It makes you angry inside that you have to ask for help, again, to figure out that *&^#^! command to upload your work. It's not you. It's Git. Promise.", 
-    "title": "Git for Grown-ups", 
+    "description": "For the uninitiated, a conversation with functional programmers can feel like ground zero of a jargon explosion. In this talk Lambda Ladies Co-Founder Katie Miller will help you to defend against the blah-blah blast by demystifying several terms commonly used by FP fans with bite-sized Haskell examples and friendly pictures. Expect appearances by Curry, Lens, and the infamous M-word, among others.", 
+    "author": "Katie Miller (Red Hat)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35493", 
+    "raw_description": "Presented by Katie Miller (Red Hat). For the uninitiated, a conversation with functional programmers can feel like ground zero of a jargon explosion. In this talk Lambda Ladies Co-Founder Katie Miller will help you to defend against the blah-blah blast by demystifying several terms commonly used by FP fans with bite-sized Haskell examples and friendly pictures. Expect appearances by Curry, Lens, and the infamous M-word, among others.", 
+    "title": "Coder Decoder: Functional Programmer Lingo Explained, with Pictures", 
     "room": "D135"
   }, 
   {
     "start": "2014-07-22 11:30:00-07:00", 
     "end": "2014-07-22 12:10:00-07:00", 
-    "description": "Show how tools including cURL, Wireshark and Charles can be used to inspect and change HTTP traffic when debugging applications which consume APIs and other remote sources.", 
-    "author": "Lorna Jane Mitchell (LornaJane)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34081", 
-    "raw_description": "Presented by Lorna Jane Mitchell (LornaJane). Show how tools including cURL, Wireshark and Charles can be used to inspect and change HTTP traffic when debugging applications which consume APIs and other remote sources.", 
-    "title": "Debugging HTTP", 
+    "description": "Parse is a popular mobile Backend-as-a-Service allowing mobile developers to use backend APIs in conjunction with mobile apps. LoopBack is an open source mBaaS implementation that offers all the same functionality, is written in Node.js, and can be extended with Node.js' community of over 50,000 modules.", 
+    "author": "Ritchie Martori (StrongLoop)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34941", 
+    "raw_description": "Presented by Ritchie Martori (StrongLoop). Parse is a popular mobile Backend-as-a-Service allowing mobile developers to use backend APIs in conjunction with mobile apps. LoopBack is an open source mBaaS implementation that offers all the same functionality, is written in Node.js, and can be extended with Node.js' community of over 50,000 modules.", 
+    "title": "LoopBack: Open Source mBaaS", 
     "room": "D135"
   }, 
   {
     "start": "2014-07-22 14:30:00-07:00", 
     "end": "2014-07-22 15:10:00-07:00", 
-    "description": "Developers, increasingly, need to work in several different development languages. It is hard enough to remember all the bits and pieces of the languages themselves, do you really need to know all the unique toolchains to make them work?", 
-    "author": "Langdon White (Red Hat)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34944", 
-    "raw_description": "Presented by Langdon White (Red Hat). Developers, increasingly, need to work in several different development languages. It is hard enough to remember all the bits and pieces of the languages themselves, do you really need to know all the unique toolchains to make them work?", 
-    "title": "Open Source Tools for the Polyglot Developer", 
+    "description": "The story of an open-source project that brings mobile accessibility APIs together with native webviews to make mobile app development more responsive to users with disabilities.", 
+    "author": "Matt May (Adobe Systems)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34797", 
+    "raw_description": "Presented by Matt May (Adobe Systems). The story of an open-source project that brings mobile accessibility APIs together with native webviews to make mobile app development more responsive to users with disabilities.", 
+    "title": "Open Mobile Accessibility with GitHub and Cordova", 
     "room": "D135"
   }, 
   {
@@ -1002,11 +1002,11 @@
   {
     "start": "2014-07-23 13:40:00-07:00", 
     "end": "2014-07-23 14:20:00-07:00", 
-    "description": "Broad introduction to Bash features for users who want to go beyond simple command execution.  Covered topics include builtins, keywords, functions, parameters (arguments, variables, arrays, special parameters), parameter expansion and manipulation, compound commands (loops, groups, conditionals), and brace expansion.", 
-    "author": "James Pannacciulli (Media Temple)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34954", 
-    "raw_description": "Presented by James Pannacciulli (Media Temple). Broad introduction to Bash features for users who want to go beyond simple command execution.  Covered topics include builtins, keywords, functions, parameters (arguments, variables, arrays, special parameters), parameter expansion and manipulation, compound commands (loops, groups, conditionals), and brace expansion.", 
-    "title": "Introduction to Advanced Bash Usage", 
+    "description": "The underpinnings of open government are transparency and citizen participation.  In re-imagining a new Data.gov (the open data, open government initiative for the White House), this was taken to heart. This system was created using open source and with comments, issues, and commits worked with the public all along the way.", 
+    "author": "Jeanne Holm (Jet Propulsion Laboratory, NASA)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34109", 
+    "raw_description": "Presented by Jeanne Holm (Jet Propulsion Laboratory, NASA). The underpinnings of open government are transparency and citizen participation.  In re-imagining a new Data.gov (the open data, open government initiative for the White House), this was taken to heart. This system was created using open source and with comments, issues, and commits worked with the public all along the way.", 
+    "title": "Data.gov: Open Government as Open Source", 
     "room": "D135"
   }, 
   {
@@ -1192,11 +1192,11 @@
   {
     "start": "2014-07-22 16:10:00-07:00", 
     "end": "2014-07-22 16:50:00-07:00", 
-    "description": "Exploring how the functional language features of Java 8 and Scala combine with Vaadin to allow you to write clearer UI code.", 
-    "author": "Henri Muurimaa (Vaadin Ltd)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34176", 
-    "raw_description": "Presented by Henri Muurimaa (Vaadin Ltd). Exploring how the functional language features of Java 8 and Scala combine with Vaadin to allow you to write clearer UI code.", 
-    "title": "Functional Vaadin", 
+    "description": "Software development is easy. You tell a computer to do something. It does it. Someone sends you a packet. The OS receives it. Things don't happen unless you ask them to. Simple. But what if that wasn't true? What if your computer is full of hidden magic? What if your hardware makes assumptions about your software? Vendors wouldn't do that, would they? (Spoiler: Yes, they would)", 
+    "author": "Matthew Garrett (Nebula)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33943", 
+    "raw_description": "Presented by Matthew Garrett (Nebula). Software development is easy. You tell a computer to do something. It does it. Someone sends you a packet. The OS receives it. Things don't happen unless you ask them to. Simple. But what if that wasn't true? What if your computer is full of hidden magic? What if your hardware makes assumptions about your software? Vendors wouldn't do that, would they? (Spoiler: Yes, they would)", 
+    "title": "You Don't Know How Your Computer Works", 
     "room": "D136"
   }, 
   {
@@ -1262,11 +1262,11 @@
   {
     "start": "2014-07-24 11:00:00-07:00", 
     "end": "2014-07-24 11:40:00-07:00", 
-    "description": "The need for secure DNS is more pressing than ever but the current standard API for using the DNS can't take advantage of modern DNS features.  We will give an application developers view of DNSSEC and describe the independently written getDNS API specification. We will showcase the open source implementation of the specification built by our team of developers from NLNet Labs and Verisign.", 
-    "author": "Allison Mankin (Verisign, Inc.), Willem Toorop (NLNet Labs), Neel Goyal (Verisign, Inc.), Glen Wiley (Verisign, Inc.)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34610", 
-    "raw_description": "Presented by Allison Mankin (Verisign, Inc.), Willem Toorop (NLNet Labs), Neel Goyal (Verisign, Inc.), Glen Wiley (Verisign, Inc.). The need for secure DNS is more pressing than ever but the current standard API for using the DNS can't take advantage of modern DNS features.  We will give an application developers view of DNSSEC and describe the independently written getDNS API specification. We will showcase the open source implementation of the specification built by our team of developers from NLNet Labs and Verisign.", 
-    "title": "DNSSEC Via a New Stub Resolver", 
+    "description": "This presentation covers all aspects of configuring Apache HTTP Server for https/TLS, including ECC, RSA and DH keys and key strength, cipher suites, SSL session caches vs. session tickets, OCSP stapling and TLS virtual hostnames.  These elements are integrated to provide perfect forward secrecy and meet modern best practices for both client and proxied connections.", 
+    "author": "William A Rowe Jr (Pivotal)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35367", 
+    "raw_description": "Presented by William A Rowe Jr (Pivotal). This presentation covers all aspects of configuring Apache HTTP Server for https/TLS, including ECC, RSA and DH keys and key strength, cipher suites, SSL session caches vs. session tickets, OCSP stapling and TLS virtual hostnames.  These elements are integrated to provide perfect forward secrecy and meet modern best practices for both client and proxied connections.", 
+    "title": "Apache HTTP Server; SSL from End-to-End", 
     "room": "D136"
   }, 
   {
@@ -1702,11 +1702,11 @@
   {
     "start": "2014-07-23 11:30:00-07:00", 
     "end": "2014-07-23 12:10:00-07:00", 
-    "description": "Refactoring code (altering code to make it cleaner, simpler, and often faster, while not sacrificing functionality) We hate to do it, so learn how to do it better. Covers: When to refactor. How to refactor. Why refactor. How refactor can help us write better code. Common methodology for refactoring.", 
-    "author": "Adam Culp (Zend Technologies)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33457", 
-    "raw_description": "Presented by Adam Culp (Zend Technologies). Refactoring code (altering code to make it cleaner, simpler, and often faster, while not sacrificing functionality) We hate to do it, so learn how to do it better. Covers: When to refactor. How to refactor. Why refactor. How refactor can help us write better code. Common methodology for refactoring.", 
-    "title": "Refactoring 101", 
+    "description": "Cheap LCD TV + Raspberry Pi = instant data dashboard. Learn how to use NodeJS and Amino for full screen GPU accelerated graphics (no X) to quickly build data dashboards. Show feeds, chart tweets, or visualize your build server with a particle fountain. Unleash gratuitous graphics for all to see.", 
+    "author": "Joshua Marinacci (Nokia)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34535", 
+    "raw_description": "Presented by Joshua Marinacci (Nokia). Cheap LCD TV + Raspberry Pi = instant data dashboard. Learn how to use NodeJS and Amino for full screen GPU accelerated graphics (no X) to quickly build data dashboards. Show feeds, chart tweets, or visualize your build server with a particle fountain. Unleash gratuitous graphics for all to see.", 
+    "title": "Cheap Data Dashboards with Node, Amino and the Raspberry PI", 
     "room": "D139/140"
   }, 
   {
@@ -2022,11 +2022,11 @@
   {
     "start": "2014-07-22 11:30:00-07:00", 
     "end": "2014-07-22 12:10:00-07:00", 
-    "description": "This year brings the release of Perl 5.20.0, and the 20th anniversary of the Perl 5 programming language.  In this session, Ricardo Signes, the Perl 5 project manager,  covers the latest developments in the language, the development process, and changes we're hoping for in the near future.", 
-    "author": "Ricardo Signes (Pobox.com)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34442", 
-    "raw_description": "Presented by Ricardo Signes (Pobox.com). This year brings the release of Perl 5.20.0, and the 20th anniversary of the Perl 5 programming language.  In this session, Ricardo Signes, the Perl 5 project manager,  covers the latest developments in the language, the development process, and changes we're hoping for in the near future.", 
-    "title": "Perl 5.20: Perl 5 at 20", 
+    "description": "A large part of the internet of things will be made up of small constrained devices. The IETF is standardising protocols which are memory, energy and network efficient. Come and get an overview of these and of some Open Source implementations. See devices including Arduinos and Raspberry Pis with several sensors talking with one another and be inspired to build/connect your own devices.", 
+    "author": "Vidhya Gholkar (Freelance)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34148", 
+    "raw_description": "Presented by Vidhya Gholkar (Freelance). A large part of the internet of things will be made up of small constrained devices. The IETF is standardising protocols which are memory, energy and network efficient. Come and get an overview of these and of some Open Source implementations. See devices including Arduinos and Raspberry Pis with several sensors talking with one another and be inspired to build/connect your own devices.", 
+    "title": "Protocols for the Internet of Things", 
     "room": "E145"
   }, 
   {
@@ -2042,11 +2042,11 @@
   {
     "start": "2014-07-22 13:40:00-07:00", 
     "end": "2014-07-22 14:20:00-07:00", 
-    "description": "I was diagnosed with depression and anxiety when I was thirteen, and I've been struggling with it my whole life. In this talk, I'll discuss how it has impacted my work as a developer, husband, and father. By speaking openly about my experiences, I hope those struggling with mental illness will know the are not alone, and others can better understand how to be helpful and supportive.", 
-    "author": "Edward Finkler (FictiveKin)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33727", 
-    "raw_description": "Presented by Edward Finkler (FictiveKin). I was diagnosed with depression and anxiety when I was thirteen, and I've been struggling with it my whole life. In this talk, I'll discuss how it has impacted my work as a developer, husband, and father. By speaking openly about my experiences, I hope those struggling with mental illness will know the are not alone, and others can better understand how to be helpful and supportive.", 
-    "title": "Open Sourcing Mental Illness", 
+    "description": "Ruth Suehle, one of the authors of Raspberry Pi Hacks (O\u2019Reilly, December 2013) will offer technical tips for hardware and software hackers who want to build around the Raspberry Pi computer. She\u2019ll start with some tips like how to add a power switch and go on to share fun projects, from costume builds to radios and light displays.", 
+    "author": "Ruth Suehle (Red Hat)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34018", 
+    "raw_description": "Presented by Ruth Suehle (Red Hat). Ruth Suehle, one of the authors of Raspberry Pi Hacks (O\u2019Reilly, December 2013) will offer technical tips for hardware and software hackers who want to build around the Raspberry Pi computer. She\u2019ll start with some tips like how to add a power switch and go on to share fun projects, from costume builds to radios and light displays.", 
+    "title": "Raspberry Pi Hacks", 
     "room": "E145"
   }, 
   {
@@ -2062,11 +2062,11 @@
   {
     "start": "2014-07-22 16:10:00-07:00", 
     "end": "2014-07-22 16:50:00-07:00", 
-    "description": "Managing CPAN dependencies can be a major frustration for Perl developers.  In this session, you'll discover how to easily manage those dependencies by creating a private CPAN repository with Pinto.", 
-    "author": "Jeffrey Thalhammer (Stratopan)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35406", 
-    "raw_description": "Presented by Jeffrey Thalhammer (Stratopan). Managing CPAN dependencies can be a major frustration for Perl developers.  In this session, you'll discover how to easily manage those dependencies by creating a private CPAN repository with Pinto.", 
-    "title": "Pinto: Hassle-Free Dependency Management for Perl", 
+    "description": "We'll explore how to use an $8 dollar DVB-T TV dongle to monitor and capture various radio frequencies. The RTL-SDR library turns a cheap Realtek DVB-T into a very powerful Software Defined Radio receiver which can be used to inspect and hack various wireless protocols. All of the code is Free and Open Source so it runs on all platforms.", 
+    "author": "Bryan  Smith (Fossetcon)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34921", 
+    "raw_description": "Presented by Bryan  Smith (Fossetcon). We'll explore how to use an $8 dollar DVB-T TV dongle to monitor and capture various radio frequencies. The RTL-SDR library turns a cheap Realtek DVB-T into a very powerful Software Defined Radio receiver which can be used to inspect and hack various wireless protocols. All of the code is Free and Open Source so it runs on all platforms.", 
+    "title": "Hacking Radio for Under $10", 
     "room": "E145"
   }, 
   {
@@ -2112,11 +2112,11 @@
   {
     "start": "2014-07-23 14:30:00-07:00", 
     "end": "2014-07-23 15:10:00-07:00", 
-    "description": "If you're pushing the envelope of programming (or of your own skills)... and even when you\u2019re not... there *will* be bugs in your code.  Don't panic!  We cover the attitudes and skills (not taught in most schools) to minimize your bugs, track them, find them, fix them, ensure they never recur, and deploy fixes to your users.", 
-    "author": "Anna Martelli Ravenscroft (Self), Alex Martelli (Google)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33950", 
-    "raw_description": "Presented by Anna Martelli Ravenscroft (Self), Alex Martelli (Google). If you're pushing the envelope of programming (or of your own skills)... and even when you\u2019re not... there *will* be bugs in your code.  Don't panic!  We cover the attitudes and skills (not taught in most schools) to minimize your bugs, track them, find them, fix them, ensure they never recur, and deploy fixes to your users.", 
-    "title": "There *Will* Be Bugs", 
+    "description": "As the internet grows, there are more and more interesting devices to connect to it - some of which are mobile, sensor platforms, or healthcare devices. This is all part of the \"Internet of Things\" that has been an emerging area of excitement for the last few years. MQTT is a lightweight, messaging system for connected devices, the Industrial Internet, mobile, and the IoT.", 
+    "author": "Andy Piper (Twitter)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34522", 
+    "raw_description": "Presented by Andy Piper (Twitter). As the internet grows, there are more and more interesting devices to connect to it - some of which are mobile, sensor platforms, or healthcare devices. This is all part of the \"Internet of Things\" that has been an emerging area of excitement for the last few years. MQTT is a lightweight, messaging system for connected devices, the Industrial Internet, mobile, and the IoT.", 
+    "title": "Internet ALL the Things - a walking tour of MQTT", 
     "room": "E145"
   }, 
   {
@@ -2232,21 +2232,21 @@
   {
     "start": "2014-07-22 10:40:00-07:00", 
     "end": "2014-07-22 11:20:00-07:00", 
-    "description": "This talk will explore the \u201cmove fast\u201d side of Facebook\u2019s software engineering culture: development process, organizational structure, and the vast amounts of tooling we create and use to make sure we don\u2019t screw up. We\u2019ll also dig into how we \u201cship things\u201d: release process, A/B testing, gate keepers, test infrastructure, and more.", 
-    "author": "Andrei Alexandrescu (Facebook)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34635", 
-    "raw_description": "Presented by Andrei Alexandrescu (Facebook). This talk will explore the \u201cmove fast\u201d side of Facebook\u2019s software engineering culture: development process, organizational structure, and the vast amounts of tooling we create and use to make sure we don\u2019t screw up. We\u2019ll also dig into how we \u201cship things\u201d: release process, A/B testing, gate keepers, test infrastructure, and more.", 
-    "title": "Move Fast and Ship Things", 
+    "description": "This talk will introduce a new open source platform for citizen science data. It allows anyone anywhere to create online data sets by uploading data from their own environmental sensors, mobile devices, do-it-yourself science equipment, and other measurement tools. The talk will describe the design and use of the platform, covering multiple applications and alternatives.", 
+    "author": "Peter Sand (Modular Science)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34855", 
+    "raw_description": "Presented by Peter Sand (Modular Science). This talk will introduce a new open source platform for citizen science data. It allows anyone anywhere to create online data sets by uploading data from their own environmental sensors, mobile devices, do-it-yourself science equipment, and other measurement tools. The talk will describe the design and use of the platform, covering multiple applications and alternatives.", 
+    "title": "A Platform for Open Science", 
     "room": "E146"
   }, 
   {
     "start": "2014-07-22 11:30:00-07:00", 
     "end": "2014-07-22 12:10:00-07:00", 
-    "description": "Linux Containers (or LXC) is now a popular choice for development and testing environments. As more and more people use them in production deployments, they face a common question: are Linux Containers secure enough? It is often claimed that containers have weaker isolation than virtual machines. We will explore whether this is true, if it matters, and what can be done about it.", 
-    "author": "Jerome Petazzoni (Docker Inc.)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34137", 
-    "raw_description": "Presented by Jerome Petazzoni (Docker Inc.). Linux Containers (or LXC) is now a popular choice for development and testing environments. As more and more people use them in production deployments, they face a common question: are Linux Containers secure enough? It is often claimed that containers have weaker isolation than virtual machines. We will explore whether this is true, if it matters, and what can be done about it.", 
-    "title": "Is it Safe to Run Applications in Linux Containers?", 
+    "description": "Elasticsearch is an open-source document store known for enabling search and real-time analytics on large data sets. In this presentation we will walk through the development of an application that monitors the Parrot AR.Drone.  This application will collect metrics from the drone and then transform them to JSON for storage and real-time analysis in Elasticsearch.", 
+    "author": "Kevin Kluge (Elasticsearch), Steve Mayzak (Elasticsearch)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34243", 
+    "raw_description": "Presented by Kevin Kluge (Elasticsearch), Steve Mayzak (Elasticsearch). Elasticsearch is an open-source document store known for enabling search and real-time analytics on large data sets. In this presentation we will walk through the development of an application that monitors the Parrot AR.Drone.  This application will collect metrics from the drone and then transform them to JSON for storage and real-time analysis in Elasticsearch.", 
+    "title": "Monitoring Your Drone Project with Elasticsearch", 
     "room": "E146"
   }, 
   {
@@ -2262,31 +2262,31 @@
   {
     "start": "2014-07-22 13:40:00-07:00", 
     "end": "2014-07-22 14:20:00-07:00", 
-    "description": "Since its first release in early 2013, Docker has been deployed successfully to implement continuous integration and testing environments, where the very fast lifecycle of containers gives them an edge over virtual machines. We will see how to extend the workflow from development to testing and all the way to production. We'll also address challenges like reliability and scaling with Docker.", 
-    "author": "Jerome Petazzoni (Docker Inc.)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34136", 
-    "raw_description": "Presented by Jerome Petazzoni (Docker Inc.). Since its first release in early 2013, Docker has been deployed successfully to implement continuous integration and testing environments, where the very fast lifecycle of containers gives them an edge over virtual machines. We will see how to extend the workflow from development to testing and all the way to production. We'll also address challenges like reliability and scaling with Docker.", 
-    "title": "Shipping Applications to Production in Containers with Docker", 
+    "description": "This session is an overview of the Android Developer Tools (ADT and Android Studio), including many useful techniques, tips and tricks for getting the most out of them.", 
+    "author": "Mike Wolfson (Epocrates)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34718", 
+    "raw_description": "Presented by Mike Wolfson (Epocrates). This session is an overview of the Android Developer Tools (ADT and Android Studio), including many useful techniques, tips and tricks for getting the most out of them.", 
+    "title": "Android Developer Tools Essentials", 
     "room": "E146"
   }, 
   {
     "start": "2014-07-22 17:00:00-07:00", 
     "end": "2014-07-22 17:40:00-07:00", 
-    "description": "Computing is spreading outwards: clusters of 1000s of nodes serve a single database, and hundreds of machines analyze the same KPIs. How do we monitor a cluster with many nodes? This talk presents how to effectively monitor a multi-node Cassandra cluster using Riemann and other graphing solutions.", 
-    "author": "Patricia Gorla (The Last Pickle)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34587", 
-    "raw_description": "Presented by Patricia Gorla (The Last Pickle). Computing is spreading outwards: clusters of 1000s of nodes serve a single database, and hundreds of machines analyze the same KPIs. How do we monitor a cluster with many nodes? This talk presents how to effectively monitor a multi-node Cassandra cluster using Riemann and other graphing solutions.", 
-    "title": "Monitoring Distributed Systems in Real-time with Riemann and Cassandra", 
+    "description": "Firefox OS is a new mobile operating system, developed by Mozilla, which lets users install and run open web applications created using HTML, CSS, and JavaScript. The session will introduce people to Firefox OS, the overview, branding and distribution and will explain the governance behind it.", 
+    "author": "Benjamin Kerensa (Mozilla), Alex Lakatos (Mozilla)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34588", 
+    "raw_description": "Presented by Benjamin Kerensa (Mozilla), Alex Lakatos (Mozilla). Firefox OS is a new mobile operating system, developed by Mozilla, which lets users install and run open web applications created using HTML, CSS, and JavaScript. The session will introduce people to Firefox OS, the overview, branding and distribution and will explain the governance behind it.", 
+    "title": "Getting Started Contributing to Firefox OS", 
     "room": "E146"
   }, 
   {
     "start": "2014-07-22 16:10:00-07:00", 
     "end": "2014-07-22 16:50:00-07:00", 
-    "description": "Software development is easy. You tell a computer to do something. It does it. Someone sends you a packet. The OS receives it. Things don't happen unless you ask them to. Simple. But what if that wasn't true? What if your computer is full of hidden magic? What if your hardware makes assumptions about your software? Vendors wouldn't do that, would they? (Spoiler: Yes, they would)", 
-    "author": "Matthew Garrett (Nebula)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33943", 
-    "raw_description": "Presented by Matthew Garrett (Nebula). Software development is easy. You tell a computer to do something. It does it. Someone sends you a packet. The OS receives it. Things don't happen unless you ask them to. Simple. But what if that wasn't true? What if your computer is full of hidden magic? What if your hardware makes assumptions about your software? Vendors wouldn't do that, would they? (Spoiler: Yes, they would)", 
-    "title": "You Don't Know How Your Computer Works", 
+    "description": "Exploring how the functional language features of Java 8 and Scala combine with Vaadin to allow you to write clearer UI code.", 
+    "author": "Henri Muurimaa (Vaadin Ltd)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34176", 
+    "raw_description": "Presented by Henri Muurimaa (Vaadin Ltd). Exploring how the functional language features of Java 8 and Scala combine with Vaadin to allow you to write clearer UI code.", 
+    "title": "Functional Vaadin", 
     "room": "E146"
   }, 
   {
@@ -2352,11 +2352,11 @@
   {
     "start": "2014-07-24 11:00:00-07:00", 
     "end": "2014-07-24 11:40:00-07:00", 
-    "description": "This presentation covers all aspects of configuring Apache HTTP Server for https/TLS, including ECC, RSA and DH keys and key strength, cipher suites, SSL session caches vs. session tickets, OCSP stapling and TLS virtual hostnames.  These elements are integrated to provide perfect forward secrecy and meet modern best practices for both client and proxied connections.", 
-    "author": "William A Rowe Jr (Pivotal)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35367", 
-    "raw_description": "Presented by William A Rowe Jr (Pivotal). This presentation covers all aspects of configuring Apache HTTP Server for https/TLS, including ECC, RSA and DH keys and key strength, cipher suites, SSL session caches vs. session tickets, OCSP stapling and TLS virtual hostnames.  These elements are integrated to provide perfect forward secrecy and meet modern best practices for both client and proxied connections.", 
-    "title": "Apache HTTP Server; SSL from End-to-End", 
+    "description": "The need for secure DNS is more pressing than ever but the current standard API for using the DNS can't take advantage of modern DNS features.  We will give an application developers view of DNSSEC and describe the independently written getDNS API specification. We will showcase the open source implementation of the specification built by our team of developers from NLNet Labs and Verisign.", 
+    "author": "Allison Mankin (Verisign, Inc.), Willem Toorop (NLNet Labs), Neel Goyal (Verisign, Inc.), Glen Wiley (Verisign, Inc.)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34610", 
+    "raw_description": "Presented by Allison Mankin (Verisign, Inc.), Willem Toorop (NLNet Labs), Neel Goyal (Verisign, Inc.), Glen Wiley (Verisign, Inc.). The need for secure DNS is more pressing than ever but the current standard API for using the DNS can't take advantage of modern DNS features.  We will give an application developers view of DNSSEC and describe the independently written getDNS API specification. We will showcase the open source implementation of the specification built by our team of developers from NLNet Labs and Verisign.", 
+    "title": "DNSSEC Via a New Stub Resolver", 
     "room": "E146"
   }, 
   {
@@ -2452,11 +2452,11 @@
   {
     "start": "2014-07-22 11:30:00-07:00", 
     "end": "2014-07-22 12:10:00-07:00", 
-    "description": "A large part of the internet of things will be made up of small constrained devices. The IETF is standardising protocols which are memory, energy and network efficient. Come and get an overview of these and of some Open Source implementations. See devices including Arduinos and Raspberry Pis with several sensors talking with one another and be inspired to build/connect your own devices.", 
-    "author": "Vidhya Gholkar (Freelance)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34148", 
-    "raw_description": "Presented by Vidhya Gholkar (Freelance). A large part of the internet of things will be made up of small constrained devices. The IETF is standardising protocols which are memory, energy and network efficient. Come and get an overview of these and of some Open Source implementations. See devices including Arduinos and Raspberry Pis with several sensors talking with one another and be inspired to build/connect your own devices.", 
-    "title": "Protocols for the Internet of Things", 
+    "description": "This year brings the release of Perl 5.20.0, and the 20th anniversary of the Perl 5 programming language.  In this session, Ricardo Signes, the Perl 5 project manager,  covers the latest developments in the language, the development process, and changes we're hoping for in the near future.", 
+    "author": "Ricardo Signes (Pobox.com)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34442", 
+    "raw_description": "Presented by Ricardo Signes (Pobox.com). This year brings the release of Perl 5.20.0, and the 20th anniversary of the Perl 5 programming language.  In this session, Ricardo Signes, the Perl 5 project manager,  covers the latest developments in the language, the development process, and changes we're hoping for in the near future.", 
+    "title": "Perl 5.20: Perl 5 at 20", 
     "room": "E147/148"
   }, 
   {
@@ -2472,11 +2472,11 @@
   {
     "start": "2014-07-22 13:40:00-07:00", 
     "end": "2014-07-22 14:20:00-07:00", 
-    "description": "Ruth Suehle, one of the authors of Raspberry Pi Hacks (O\u2019Reilly, December 2013) will offer technical tips for hardware and software hackers who want to build around the Raspberry Pi computer. She\u2019ll start with some tips like how to add a power switch and go on to share fun projects, from costume builds to radios and light displays.", 
-    "author": "Ruth Suehle (Red Hat)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34018", 
-    "raw_description": "Presented by Ruth Suehle (Red Hat). Ruth Suehle, one of the authors of Raspberry Pi Hacks (O\u2019Reilly, December 2013) will offer technical tips for hardware and software hackers who want to build around the Raspberry Pi computer. She\u2019ll start with some tips like how to add a power switch and go on to share fun projects, from costume builds to radios and light displays.", 
-    "title": "Raspberry Pi Hacks", 
+    "description": "I was diagnosed with depression and anxiety when I was thirteen, and I've been struggling with it my whole life. In this talk, I'll discuss how it has impacted my work as a developer, husband, and father. By speaking openly about my experiences, I hope those struggling with mental illness will know the are not alone, and others can better understand how to be helpful and supportive.", 
+    "author": "Edward Finkler (FictiveKin)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33727", 
+    "raw_description": "Presented by Edward Finkler (FictiveKin). I was diagnosed with depression and anxiety when I was thirteen, and I've been struggling with it my whole life. In this talk, I'll discuss how it has impacted my work as a developer, husband, and father. By speaking openly about my experiences, I hope those struggling with mental illness will know the are not alone, and others can better understand how to be helpful and supportive.", 
+    "title": "Open Sourcing Mental Illness", 
     "room": "E147/148"
   }, 
   {
@@ -2492,11 +2492,11 @@
   {
     "start": "2014-07-22 16:10:00-07:00", 
     "end": "2014-07-22 16:50:00-07:00", 
-    "description": "We'll explore how to use an $8 dollar DVB-T TV dongle to monitor and capture various radio frequencies. The RTL-SDR library turns a cheap Realtek DVB-T into a very powerful Software Defined Radio receiver which can be used to inspect and hack various wireless protocols. All of the code is Free and Open Source so it runs on all platforms.", 
-    "author": "Bryan  Smith (Fossetcon)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34921", 
-    "raw_description": "Presented by Bryan  Smith (Fossetcon). We'll explore how to use an $8 dollar DVB-T TV dongle to monitor and capture various radio frequencies. The RTL-SDR library turns a cheap Realtek DVB-T into a very powerful Software Defined Radio receiver which can be used to inspect and hack various wireless protocols. All of the code is Free and Open Source so it runs on all platforms.", 
-    "title": "Hacking Radio for Under $10", 
+    "description": "Managing CPAN dependencies can be a major frustration for Perl developers.  In this session, you'll discover how to easily manage those dependencies by creating a private CPAN repository with Pinto.", 
+    "author": "Jeffrey Thalhammer (Stratopan)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/35406", 
+    "raw_description": "Presented by Jeffrey Thalhammer (Stratopan). Managing CPAN dependencies can be a major frustration for Perl developers.  In this session, you'll discover how to easily manage those dependencies by creating a private CPAN repository with Pinto.", 
+    "title": "Pinto: Hassle-Free Dependency Management for Perl", 
     "room": "E147/148"
   }, 
   {
@@ -2552,11 +2552,11 @@
   {
     "start": "2014-07-23 11:30:00-07:00", 
     "end": "2014-07-23 12:10:00-07:00", 
-    "description": "Cheap LCD TV + Raspberry Pi = instant data dashboard. Learn how to use NodeJS and Amino for full screen GPU accelerated graphics (no X) to quickly build data dashboards. Show feeds, chart tweets, or visualize your build server with a particle fountain. Unleash gratuitous graphics for all to see.", 
-    "author": "Joshua Marinacci (Nokia)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34535", 
-    "raw_description": "Presented by Joshua Marinacci (Nokia). Cheap LCD TV + Raspberry Pi = instant data dashboard. Learn how to use NodeJS and Amino for full screen GPU accelerated graphics (no X) to quickly build data dashboards. Show feeds, chart tweets, or visualize your build server with a particle fountain. Unleash gratuitous graphics for all to see.", 
-    "title": "Cheap Data Dashboards with Node, Amino and the Raspberry PI", 
+    "description": "Mobile's here to stay! This talk will showcase how Open Source tools can power your test automation for mobile apps. It entirely relies on Open Source components such as Appium, Cordova/PhoneGap an Topcoat.", 
+    "author": "Sebastian Tiedtke (Sauce Labs Inc)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34713", 
+    "raw_description": "Presented by Sebastian Tiedtke (Sauce Labs Inc). Mobile's here to stay! This talk will showcase how Open Source tools can power your test automation for mobile apps. It entirely relies on Open Source components such as Appium, Cordova/PhoneGap an Topcoat.", 
+    "title": "Functionally Mobile (Automation)", 
     "room": "E147/148"
   }, 
   {
@@ -2732,11 +2732,11 @@
   {
     "start": "2014-07-23 10:40:00-07:00", 
     "end": "2014-07-23 11:20:00-07:00", 
-    "description": "Operating a massive-scale system, such as the Netflix API, is no trivial task. It supports over 44M members in 40+ countries and sees billions of requests a day. Along the way, there have been many mistakes, yet it is still at the center of the Netflix streaming ecosystem. In this session, I will go into detail on the top ten lessons learned in operating this complex and critical system.", 
-    "author": "Daniel Jacobson (Netflix)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34451", 
-    "raw_description": "Presented by Daniel Jacobson (Netflix). Operating a massive-scale system, such as the Netflix API, is no trivial task. It supports over 44M members in 40+ countries and sees billions of requests a day. Along the way, there have been many mistakes, yet it is still at the center of the Netflix streaming ecosystem. In this session, I will go into detail on the top ten lessons learned in operating this complex and critical system.", 
-    "title": "Netflix API : Top 10 Lessons Learned", 
+    "description": "Until iOS and Android came along, the opportunities for open source to flourish in the mobile space were limited, because platforms were totally proprietary. Now you can find countless FL/OSS projects that help mobile developers get their job done. So what's on the horizon, and what are the best open source tools today to deliver the next great app?", 
+    "author": "James Turner (O'Reilly Media), Alasdair Allan (The Thing System, Inc.), Joe Bowser (Adobe Systems), Mike Wolfson (Epocrates)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/33463", 
+    "raw_description": "Presented by James Turner (O'Reilly Media), Alasdair Allan (The Thing System, Inc.), Joe Bowser (Adobe Systems), Mike Wolfson (Epocrates). Until iOS and Android came along, the opportunities for open source to flourish in the mobile space were limited, because platforms were totally proprietary. Now you can find countless FL/OSS projects that help mobile developers get their job done. So what's on the horizon, and what are the best open source tools today to deliver the next great app?", 
+    "title": "Open Source and Mobile Development: Where Does it go From Here?", 
     "room": "F150"
   }, 
   {
@@ -2802,11 +2802,11 @@
   {
     "start": "2014-07-22 10:40:00-07:00", 
     "end": "2014-07-22 11:20:00-07:00", 
-    "description": "This talk will introduce a new open source platform for citizen science data. It allows anyone anywhere to create online data sets by uploading data from their own environmental sensors, mobile devices, do-it-yourself science equipment, and other measurement tools. The talk will describe the design and use of the platform, covering multiple applications and alternatives.", 
-    "author": "Peter Sand (Modular Science)", 
-    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34855", 
-    "raw_description": "Presented by Peter Sand (Modular Science). This talk will introduce a new open source platform for citizen science data. It allows anyone anywhere to create online data sets by uploading data from their own environmental sensors, mobile devices, do-it-yourself science equipment, and other measurement tools. The talk will describe the design and use of the platform, covering multiple applications and alternatives.", 
-    "title": "A Platform for Open Science", 
+    "description": "Have you ever written or used an API wrapper for a webservice? REST is a client-server architecture model and building the server is only half of the challenge. This talk will walk through some of the challenges of building a REST client, describe some best practices and some patterns to avoid, and discuss how we can all work to build better APIs for an open web.", 
+    "author": "Mark Lavin (Caktus Consulting Group)", 
+    "url": "http://www.oscon.com/oscon2014/public/schedule/detail/34156", 
+    "raw_description": "Presented by Mark Lavin (Caktus Consulting Group). Have you ever written or used an API wrapper for a webservice? REST is a client-server architecture model and building the server is only half of the challenge. This talk will walk through some of the challenges of building a REST client, describe some best practices and some patterns to avoid, and discuss how we can all work to build better APIs for an open web.", 
+    "title": "REST: It's not just for servers", 
     "room": "F151"
   }, 
   {

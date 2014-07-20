@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140719T172437
+DTSTAMP:20140719T180314
 LOCATION:Portland 251
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34095
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--34095
@@ -288,72 +288,74 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140530T200329
+DTSTAMP:20140719T213926
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34156
-UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34156
-SUMMARY:REST: It's not just for servers
-DESCRIPTION:Presented by Mark Lavin (Caktus Consulting Group). Have you 
- ever written or used an API wrapper for a webservice? REST is a client-s
- erver architecture model and building the server is only half of the cha
- llenge. This talk will walk through some of the challenges of building a
-  REST client, describe some best practices and some patterns to avoid, a
- nd discuss how we can all work to build better APIs for an open web.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34635
+UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34635
+SUMMARY:Move Fast and Ship Things
+DESCRIPTION:Presented by Andrei Alexandrescu (Facebook). This talk will 
+ explore the “move fast” side of Facebook’s software engineering culture:
+  development process, organizational structure, and the vast amounts of 
+ tooling we create and use to make sure we don’t screw up. We’ll also dig
+  into how we “ship things”: release process, A/B testing, gate keepers, 
+ test infrastructure, and more.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140401T231548
+DTSTAMP:20140719T210423
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34941
-UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34941
-SUMMARY:LoopBack: Open Source mBaaS
-DESCRIPTION:Presented by Ritchie Martori (StrongLoop). Parse is a popula
- r mobile Backend-as-a-Service allowing mobile developers to use backend 
- APIs in conjunction with mobile apps. LoopBack is an open source mBaaS i
- mplementation that offers all the same functionality, is written in Node
- .js, and can be extended with Node.js' community of over 50,000 modules.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34081
+UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34081
+SUMMARY:Debugging HTTP
+DESCRIPTION:Presented by Lorna Jane Mitchell (LornaJane). Show how tools
+  including cURL, Wireshark and Charles can be used to inspect and change
+  HTTP traffic when debugging applications which consume APIs and other r
+ emote sources.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
 DTSTART;TZID=US/Pacific:20140722T143000
-DTSTAMP:20140409T215544
+DTSTAMP:20140719T210606
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34797
-UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--34797
-SUMMARY:Open Mobile Accessibility with GitHub and Cordova
-DESCRIPTION:Presented by Matt May (Adobe Systems). The story of an open-
- source project that brings mobile accessibility APIs together with nativ
- e webviews to make mobile app development more responsive to users with 
- disabilities.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34944
+UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--34944
+SUMMARY:Open Source Tools for the Polyglot Developer
+DESCRIPTION:Presented by Langdon White (Red Hat). Developers, increasing
+ ly, need to work in several different development languages. It is hard 
+ enough to remember all the bits and pieces of the languages themselves, 
+ do you really need to know all the unique toolchains to make them work?
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
 DTSTART;TZID=US/Pacific:20140722T134000
-DTSTAMP:20140417T191609
+DTSTAMP:20140719T211527
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34718
-UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34718
-SUMMARY:Android Developer Tools Essentials
-DESCRIPTION:Presented by Mike Wolfson (Epocrates). This session is an ov
- erview of the Android Developer Tools (ADT and Android Studio), includin
- g many useful techniques, tips and tricks for getting the most out of th
- em.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34136
+UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34136
+SUMMARY:Shipping Applications to Production in Containers with Docker
+DESCRIPTION:Presented by Jerome Petazzoni (Docker Inc.). Since its first
+  release in early 2013, Docker has been deployed successfully to impleme
+ nt continuous integration and testing environments, where the very fast 
+ lifecycle of containers gives them an edge over virtual machines. We wil
+ l see how to extend the workflow from development to testing and all the
+  way to production. We'll also address challenges like reliability and s
+ caling with Docker.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T174000
 DTSTART;TZID=US/Pacific:20140722T170000
-DTSTAMP:20140401T231832
+DTSTAMP:20140719T221111
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34588
-UID:http://www.oscon.com/oscon2014--s2014-07-22-17:00--34588
-SUMMARY:Getting Started Contributing to Firefox OS
-DESCRIPTION:Presented by Benjamin Kerensa (Mozilla), Alex Lakatos (Mozil
- la). Firefox OS is a new mobile operating system, developed by Mozilla, 
- which lets users install and run open web applications created using HTM
- L, CSS, and JavaScript. The session will introduce people to Firefox OS,
-  the overview, branding and distribution and will explain the governance
-  behind it.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34587
+UID:http://www.oscon.com/oscon2014--s2014-07-22-17:00--34587
+SUMMARY:Monitoring Distributed Systems in Real-time with Riemann and Cas
+ sandra
+DESCRIPTION:Presented by Patricia Gorla (The Last Pickle). Computing is 
+ spreading outwards: clusters of 1000s of nodes serve a single database, 
+ and hundreds of machines analyze the same KPIs. How do we monitor a clus
+ ter with many nodes? This talk presents how to effectively monitor a mul
+ ti-node Cassandra cluster using Riemann and other graphing solutions.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T165000
@@ -421,46 +423,47 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
 DTSTART;TZID=US/Pacific:20140723T104000
-DTSTAMP:20140521T200118
+DTSTAMP:20140719T221436
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/33463
-UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--33463
-SUMMARY:Open Source and Mobile Development: Where Does it go From Here?
-DESCRIPTION:Presented by James Turner (O'Reilly Media), Alasdair Allan (
- The Thing System, Inc.), Joe Bowser (Adobe Systems), Mike Wolfson (Epocr
- ates). Until iOS and Android came along, the opportunities for open sour
- ce to flourish in the mobile space were limited, because platforms were 
- totally proprietary. Now you can find countless FL/OSS projects that hel
- p mobile developers get their job done. So what's on the horizon, and wh
- at are the best open source tools today to deliver the next great app?
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34451
+UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--34451
+SUMMARY:Netflix API : Top 10 Lessons Learned
+DESCRIPTION:Presented by Daniel Jacobson (Netflix). Operating a massive-
+ scale system, such as the Netflix API, is no trivial task. It supports o
+ ver 44M members in 40+ countries and sees billions of requests a day. Al
+ ong the way, there have been many mistakes, yet it is still at the cente
+ r of the Netflix streaming ecosystem. In this session, I will go into de
+ tail on the top ten lessons learned in operating this complex and critic
+ al system.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T151000
 DTSTART;TZID=US/Pacific:20140723T143000
-DTSTAMP:20140416T200440
+DTSTAMP:20140719T222452
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34522
-UID:http://www.oscon.com/oscon2014--s2014-07-23-14:30--34522
-SUMMARY:Internet ALL the Things - a walking tour of MQTT
-DESCRIPTION:Presented by Andy Piper (Twitter). As the internet grows, th
- ere are more and more interesting devices to connect to it - some of whi
- ch are mobile, sensor platforms, or healthcare devices. This is all part
-  of the "Internet of Things" that has been an emerging area of excitemen
- t for the last few years. MQTT is a lightweight, messaging system for co
- nnected devices, the Industrial Internet, mobile, and the IoT.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/33950
+UID:http://www.oscon.com/oscon2014--s2014-07-23-14:30--33950
+SUMMARY:There *Will* Be Bugs
+DESCRIPTION:Presented by Anna Martelli Ravenscroft (Self), Alex Martelli
+  (Google). If you're pushing the envelope of programming (or of your own
+  skills)... and even when you’re not... there *will* be bugs in your cod
+ e.  Don't panic!  We cover the attitudes and skills (not taught in most 
+ schools) to minimize your bugs, track them, find them, fix them, ensure 
+ they never recur, and deploy fixes to your users.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T121000
 DTSTART;TZID=US/Pacific:20140723T113000
-DTSTAMP:20140618T183704
+DTSTAMP:20140719T221655
 LOCATION:Portland 251
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34713
-UID:http://www.oscon.com/oscon2014--s2014-07-23-11:30--34713
-SUMMARY:Functionally Mobile (Automation)
-DESCRIPTION:Presented by Sebastian Tiedtke (Sauce Labs Inc). Mobile's he
- re to stay! This talk will showcase how Open Source tools can power your
-  test automation for mobile apps. It entirely relies on Open Source comp
- onents such as Appium, Cordova/PhoneGap an Topcoat.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/33457
+UID:http://www.oscon.com/oscon2014--s2014-07-23-11:30--33457
+SUMMARY:Refactoring 101
+DESCRIPTION:Presented by Adam Culp (Zend Technologies). Refactoring code
+  (altering code to make it cleaner, simpler, and often faster, while not
+  sacrificing functionality) We hate to do it, so learn how to do it bett
+ er. Covers: When to refactor. How to refactor. Why refactor. How refacto
+ r can help us write better code. Common methodology for refactoring.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T114000
@@ -857,24 +860,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140415T233703
+DTSTAMP:20140719T210127
 LOCATION:Portland 255
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/35493
-UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--35493
-SUMMARY:Coder Decoder: Functional Programmer Lingo Explained, with Pictu
- res
-DESCRIPTION:Presented by Katie Miller (Red Hat). For the uninitiated, a 
- conversation with functional programmers can feel like ground zero of a 
- jargon explosion. In this talk Lambda Ladies Co-Founder Katie Miller wil
- l help you to defend against the blah-blah blast by demystifying several
-  terms commonly used by FP fans with bite-sized Haskell examples and fri
- endly pictures. Expect appearances by Curry, Lens, and the infamous M-wo
- rd, among others.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34117
+UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34117
+SUMMARY:Git for Grown-ups
+DESCRIPTION:Presented by Emma Jane Westby (Freelance). You are a clever 
+ and talented person. You have architected a system that even my cat coul
+ d use; your spreadsheet-fu is legendary. Your peers adore you. Your clie
+ nts love you. But, until now, you haven’t *&^#^! been able to make Git w
+ ork. It makes you angry inside that you have to ask for help, again, to 
+ figure out that *&^#^! command to upload your work. It's not you. It's G
+ it. Promise.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140408T154351
+DTSTAMP:20140719T215017
 LOCATION:Portland 255
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34192
 UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34192
@@ -1159,18 +1161,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140528T153521
+DTSTAMP:20140719T214651
 LOCATION:Portland 256
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34243
-UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34243
-SUMMARY:Monitoring Your Drone Project with Elasticsearch
-DESCRIPTION:Presented by Kevin Kluge (Elasticsearch), Steve Mayzak (Elas
- ticsearch). Elasticsearch is an open-source document store known for ena
- bling search and real-time analytics on large data sets. In this present
- ation we will walk through the development of an application that monito
- rs the Parrot AR.Drone.  This application will collect metrics from the 
- drone and then transform them to JSON for storage and real-time analysis
-  in Elasticsearch.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34137
+UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34137
+SUMMARY:Is it Safe to Run Applications in Linux Containers?
+DESCRIPTION:Presented by Jerome Petazzoni (Docker Inc.). Linux Container
+ s (or LXC) is now a popular choice for development and testing environme
+ nts. As more and more people use them in production deployments, they fa
+ ce a common question: are Linux Containers secure enough? It is often cl
+ aimed that containers have weaker isolation than virtual machines. We wi
+ ll explore whether this is true, if it matters, and what can be done abo
+ ut it.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
@@ -1268,17 +1270,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T142000
 DTSTART;TZID=US/Pacific:20140723T134000
-DTSTAMP:20140702T185113
+DTSTAMP:20140719T221823
 LOCATION:Portland 256
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34109
-UID:http://www.oscon.com/oscon2014--s2014-07-23-13:40--34109
-SUMMARY:Data.gov: Open Government as Open Source
-DESCRIPTION:Presented by Jeanne Holm (Jet Propulsion Laboratory, NASA). 
- The underpinnings of open government are transparency and citizen partic
- ipation.  In re-imagining a new Data.gov (the open data, open government
-  initiative for the White House), this was taken to heart. This system w
- as created using open source and with comments, issues, and commits work
- ed with the public all along the way.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34954
+UID:http://www.oscon.com/oscon2014--s2014-07-23-13:40--34954
+SUMMARY:Introduction to Advanced Bash Usage
+DESCRIPTION:Presented by James Pannacciulli (Media Temple). Broad introd
+ uction to Bash features for users who want to go beyond simple command e
+ xecution.  Covered topics include builtins, keywords, functions, paramet
+ ers (arguments, variables, arrays, special parameters), parameter expans
+ ion and manipulation, compound commands (loops, groups, conditionals), a
+ nd brace expansion.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
@@ -1375,44 +1377,46 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140401T230256
+DTSTAMP:20140719T210127
 LOCATION:D135
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34117
-UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34117
-SUMMARY:Git for Grown-ups
-DESCRIPTION:Presented by Emma Jane Westby (Freelance). You are a clever 
- and talented person. You have architected a system that even my cat coul
- d use; your spreadsheet-fu is legendary. Your peers adore you. Your clie
- nts love you. But, until now, you haven’t *&^#^! been able to make Git w
- ork. It makes you angry inside that you have to ask for help, again, to 
- figure out that *&^#^! command to upload your work. It's not you. It's G
- it. Promise.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/35493
+UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--35493
+SUMMARY:Coder Decoder: Functional Programmer Lingo Explained, with Pictu
+ res
+DESCRIPTION:Presented by Katie Miller (Red Hat). For the uninitiated, a 
+ conversation with functional programmers can feel like ground zero of a 
+ jargon explosion. In this talk Lambda Ladies Co-Founder Katie Miller wil
+ l help you to defend against the blah-blah blast by demystifying several
+  terms commonly used by FP fans with bite-sized Haskell examples and fri
+ endly pictures. Expect appearances by Curry, Lens, and the infamous M-wo
+ rd, among others.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140404T084644
+DTSTAMP:20140719T210423
 LOCATION:D135
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34081
-UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34081
-SUMMARY:Debugging HTTP
-DESCRIPTION:Presented by Lorna Jane Mitchell (LornaJane). Show how tools
-  including cURL, Wireshark and Charles can be used to inspect and change
-  HTTP traffic when debugging applications which consume APIs and other r
- emote sources.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34941
+UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34941
+SUMMARY:LoopBack: Open Source mBaaS
+DESCRIPTION:Presented by Ritchie Martori (StrongLoop). Parse is a popula
+ r mobile Backend-as-a-Service allowing mobile developers to use backend 
+ APIs in conjunction with mobile apps. LoopBack is an open source mBaaS i
+ mplementation that offers all the same functionality, is written in Node
+ .js, and can be extended with Node.js' community of over 50,000 modules.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
 DTSTART;TZID=US/Pacific:20140722T143000
-DTSTAMP:20140406T124929
+DTSTAMP:20140719T210606
 LOCATION:D135
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34944
-UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--34944
-SUMMARY:Open Source Tools for the Polyglot Developer
-DESCRIPTION:Presented by Langdon White (Red Hat). Developers, increasing
- ly, need to work in several different development languages. It is hard 
- enough to remember all the bits and pieces of the languages themselves, 
- do you really need to know all the unique toolchains to make them work?
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34797
+UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--34797
+SUMMARY:Open Mobile Accessibility with GitHub and Cordova
+DESCRIPTION:Presented by Matt May (Adobe Systems). The story of an open-
+ source project that brings mobile accessibility APIs together with nativ
+ e webviews to make mobile app development more responsive to users with 
+ disabilities.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
@@ -1490,17 +1494,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T142000
 DTSTART;TZID=US/Pacific:20140723T134000
-DTSTAMP:20140402T205621
+DTSTAMP:20140719T221823
 LOCATION:D135
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34954
-UID:http://www.oscon.com/oscon2014--s2014-07-23-13:40--34954
-SUMMARY:Introduction to Advanced Bash Usage
-DESCRIPTION:Presented by James Pannacciulli (Media Temple). Broad introd
- uction to Bash features for users who want to go beyond simple command e
- xecution.  Covered topics include builtins, keywords, functions, paramet
- ers (arguments, variables, arrays, special parameters), parameter expans
- ion and manipulation, compound commands (loops, groups, conditionals), a
- nd brace expansion.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34109
+UID:http://www.oscon.com/oscon2014--s2014-07-23-13:40--34109
+SUMMARY:Data.gov: Open Government as Open Source
+DESCRIPTION:Presented by Jeanne Holm (Jet Propulsion Laboratory, NASA). 
+ The underpinnings of open government are transparency and citizen partic
+ ipation.  In re-imagining a new Data.gov (the open data, open government
+  initiative for the White House), this was taken to heart. This system w
+ as created using open source and with comments, issues, and commits work
+ ed with the public all along the way.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
@@ -1781,14 +1785,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T165000
 DTSTART;TZID=US/Pacific:20140722T161000
-DTSTAMP:20140402T041116
+DTSTAMP:20140719T220357
 LOCATION:D136
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34176
-UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--34176
-SUMMARY:Functional Vaadin
-DESCRIPTION:Presented by Henri Muurimaa (Vaadin Ltd). Exploring how the 
- functional language features of Java 8 and Scala combine with Vaadin to 
- allow you to write clearer UI code.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/33943
+UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--33943
+SUMMARY:You Don't Know How Your Computer Works
+DESCRIPTION:Presented by Matthew Garrett (Nebula). Software development 
+ is easy. You tell a computer to do something. It does it. Someone sends 
+ you a packet. The OS receives it. Things don't happen unless you ask the
+ m to. Simple. But what if that wasn't true? What if your computer is ful
+ l of hidden magic? What if your hardware makes assumptions about your so
+ ftware? Vendors wouldn't do that, would they? (Spoiler: Yes, they would)
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T165000
@@ -1878,19 +1885,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T114000
 DTSTART;TZID=US/Pacific:20140724T110000
-DTSTAMP:20140514T200700
+DTSTAMP:20140719T222855
 LOCATION:D136
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34610
-UID:http://www.oscon.com/oscon2014--s2014-07-24-11:00--34610
-SUMMARY:DNSSEC Via a New Stub Resolver
-DESCRIPTION:Presented by Allison Mankin (Verisign, Inc.), Willem Toorop 
- (NLNet Labs), Neel Goyal (Verisign, Inc.), Glen Wiley (Verisign, Inc.). 
- The need for secure DNS is more pressing than ever but the current stand
- ard API for using the DNS can't take advantage of modern DNS features.  
- We will give an application developers view of DNSSEC and describe the i
- ndependently written getDNS API specification. We will showcase the open
-  source implementation of the specification built by our team of develop
- ers from NLNet Labs and Verisign.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/35367
+UID:http://www.oscon.com/oscon2014--s2014-07-24-11:00--35367
+SUMMARY:Apache HTTP Server; SSL from End-to-End
+DESCRIPTION:Presented by William A Rowe Jr (Pivotal). This presentation 
+ covers all aspects of configuring Apache HTTP Server for https/TLS, incl
+ uding ECC, RSA and DH keys and key strength, cipher suites, SSL session 
+ caches vs. session tickets, OCSP stapling and TLS virtual hostnames.  Th
+ ese elements are integrated to provide perfect forward secrecy and meet 
+ modern best practices for both client and proxied connections.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T123000
@@ -2097,7 +2102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T174000
 DTSTART;TZID=US/Pacific:20140722T170000
-DTSTAMP:20140402T030524
+DTSTAMP:20140719T221034
 LOCATION:D137/138
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34875
 UID:http://www.oscon.com/oscon2014--s2014-07-22-17:00--34875
@@ -2304,7 +2309,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140719T173934
+DTSTAMP:20140719T231427
 LOCATION:D139/140
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34773
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34773
@@ -2535,16 +2540,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T121000
 DTSTART;TZID=US/Pacific:20140723T113000
-DTSTAMP:20140414T213303
+DTSTAMP:20140719T222049
 LOCATION:D139/140
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/33457
-UID:http://www.oscon.com/oscon2014--s2014-07-23-11:30--33457
-SUMMARY:Refactoring 101
-DESCRIPTION:Presented by Adam Culp (Zend Technologies). Refactoring code
-  (altering code to make it cleaner, simpler, and often faster, while not
-  sacrificing functionality) We hate to do it, so learn how to do it bett
- er. Covers: When to refactor. How to refactor. Why refactor. How refacto
- r can help us write better code. Common methodology for refactoring.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34535
+UID:http://www.oscon.com/oscon2014--s2014-07-23-11:30--34535
+SUMMARY:Cheap Data Dashboards with Node, Amino and the Raspberry PI
+DESCRIPTION:Presented by Joshua Marinacci (Nokia). Cheap LCD TV + Raspbe
+ rry Pi = instant data dashboard. Learn how to use NodeJS and Amino for f
+ ull screen GPU accelerated graphics (no X) to quickly build data dashboa
+ rds. Show feeds, chart tweets, or visualize your build server with a par
+ ticle fountain. Unleash gratuitous graphics for all to see.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T114000
@@ -2990,16 +2995,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140401T233206
+DTSTAMP:20140719T215027
 LOCATION:E145
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34442
-UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34442
-SUMMARY:Perl 5.20: Perl 5 at 20
-DESCRIPTION:Presented by Ricardo Signes (Pobox.com). This year brings th
- e release of Perl 5.20.0, and the 20th anniversary of the Perl 5 program
- ming language.  In this session, Ricardo Signes, the Perl 5 project mana
- ger,  covers the latest developments in the language, the development pr
- ocess, and changes we're hoping for in the near future.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34148
+UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34148
+SUMMARY:Protocols for the Internet of Things
+DESCRIPTION:Presented by Vidhya Gholkar (Freelance). A large part of the
+  internet of things will be made up of small constrained devices. The IE
+ TF is standardising protocols which are memory, energy and network effic
+ ient. Come and get an overview of these and of some Open Source implemen
+ tations. See devices including Arduinos and Raspberry Pis with several s
+ ensors talking with one another and be inspired to build/connect your ow
+ n devices.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
@@ -3020,18 +3027,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
 DTSTART;TZID=US/Pacific:20140722T134000
-DTSTAMP:20140529T014155
+DTSTAMP:20140719T215215
 LOCATION:E145
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/33727
-UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--33727
-SUMMARY:Open Sourcing Mental Illness
-DESCRIPTION:Presented by Edward Finkler (FictiveKin). I was diagnosed wi
- th depression and anxiety when I was thirteen, and I've been struggling 
- with it my whole life. In this talk, I'll discuss how it has impacted my
-  work as a developer, husband, and father. By speaking openly about my e
- xperiences, I hope those struggling with mental illness will know the ar
- e not alone, and others can better understand how to be helpful and supp
- ortive.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34018
+UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34018
+SUMMARY:Raspberry Pi Hacks
+DESCRIPTION:Presented by Ruth Suehle (Red Hat). Ruth Suehle, one of the 
+ authors of Raspberry Pi Hacks (O’Reilly, December 2013) will offer techn
+ ical tips for hardware and software hackers who want to build around the
+  Raspberry Pi computer. She’ll start with some tips like how to add a po
+ wer switch and go on to share fun projects, from costume builds to radio
+ s and light displays.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T174000
@@ -3048,15 +3054,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T165000
 DTSTART;TZID=US/Pacific:20140722T161000
-DTSTAMP:20140630T171522
+DTSTAMP:20140719T220510
 LOCATION:E145
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/35406
-UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--35406
-SUMMARY:Pinto: Hassle-Free Dependency Management for Perl
-DESCRIPTION:Presented by Jeffrey Thalhammer (Stratopan). Managing CPAN d
- ependencies can be a major frustration for Perl developers.  In this ses
- sion, you'll discover how to easily manage those dependencies by creatin
- g a private CPAN repository with Pinto.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34921
+UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--34921
+SUMMARY:Hacking Radio for Under $10
+DESCRIPTION:Presented by Bryan  Smith (Fossetcon). We'll explore how to 
+ use an $8 dollar DVB-T TV dongle to monitor and capture various radio fr
+ equencies. The RTL-SDR library turns a cheap Realtek DVB-T into a very p
+ owerful Software Defined Radio receiver which can be used to inspect and
+  hack various wireless protocols. All of the code is Free and Open Sourc
+ e so it runs on all platforms.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T165000
@@ -3125,17 +3133,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T151000
 DTSTART;TZID=US/Pacific:20140723T143000
-DTSTAMP:20140416T173200
+DTSTAMP:20140719T222452
 LOCATION:E145
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/33950
-UID:http://www.oscon.com/oscon2014--s2014-07-23-14:30--33950
-SUMMARY:There *Will* Be Bugs
-DESCRIPTION:Presented by Anna Martelli Ravenscroft (Self), Alex Martelli
-  (Google). If you're pushing the envelope of programming (or of your own
-  skills)... and even when you’re not... there *will* be bugs in your cod
- e.  Don't panic!  We cover the attitudes and skills (not taught in most 
- schools) to minimize your bugs, track them, find them, fix them, ensure 
- they never recur, and deploy fixes to your users.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34522
+UID:http://www.oscon.com/oscon2014--s2014-07-23-14:30--34522
+SUMMARY:Internet ALL the Things - a walking tour of MQTT
+DESCRIPTION:Presented by Andy Piper (Twitter). As the internet grows, th
+ ere are more and more interesting devices to connect to it - some of whi
+ ch are mobile, sensor platforms, or healthcare devices. This is all part
+  of the "Internet of Things" that has been an emerging area of excitemen
+ t for the last few years. MQTT is a lightweight, messaging system for co
+ nnected devices, the Industrial Internet, mobile, and the IoT.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T121000
@@ -3303,33 +3311,33 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140402T174851
+DTSTAMP:20140719T211940
 LOCATION:E146
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34635
-UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34635
-SUMMARY:Move Fast and Ship Things
-DESCRIPTION:Presented by Andrei Alexandrescu (Facebook). This talk will 
- explore the “move fast” side of Facebook’s software engineering culture:
-  development process, organizational structure, and the vast amounts of 
- tooling we create and use to make sure we don’t screw up. We’ll also dig
-  into how we “ship things”: release process, A/B testing, gate keepers, 
- test infrastructure, and more.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34855
+UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34855
+SUMMARY:A Platform for Open Science
+DESCRIPTION:Presented by Peter Sand (Modular Science). This talk will in
+ troduce a new open source platform for citizen science data. It allows a
+ nyone anywhere to create online data sets by uploading data from their o
+ wn environmental sensors, mobile devices, do-it-yourself science equipme
+ nt, and other measurement tools. The talk will describe the design and u
+ se of the platform, covering multiple applications and alternatives.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140416T231705
+DTSTAMP:20140719T214651
 LOCATION:E146
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34137
-UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34137
-SUMMARY:Is it Safe to Run Applications in Linux Containers?
-DESCRIPTION:Presented by Jerome Petazzoni (Docker Inc.). Linux Container
- s (or LXC) is now a popular choice for development and testing environme
- nts. As more and more people use them in production deployments, they fa
- ce a common question: are Linux Containers secure enough? It is often cl
- aimed that containers have weaker isolation than virtual machines. We wi
- ll explore whether this is true, if it matters, and what can be done abo
- ut it.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34243
+UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34243
+SUMMARY:Monitoring Your Drone Project with Elasticsearch
+DESCRIPTION:Presented by Kevin Kluge (Elasticsearch), Steve Mayzak (Elas
+ ticsearch). Elasticsearch is an open-source document store known for ena
+ bling search and real-time analytics on large data sets. In this present
+ ation we will walk through the development of an application that monito
+ rs the Parrot AR.Drone.  This application will collect metrics from the 
+ drone and then transform them to JSON for storage and real-time analysis
+  in Elasticsearch.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
@@ -3350,48 +3358,42 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
 DTSTART;TZID=US/Pacific:20140722T134000
-DTSTAMP:20140416T231833
+DTSTAMP:20140719T215335
 LOCATION:E146
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34136
-UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34136
-SUMMARY:Shipping Applications to Production in Containers with Docker
-DESCRIPTION:Presented by Jerome Petazzoni (Docker Inc.). Since its first
-  release in early 2013, Docker has been deployed successfully to impleme
- nt continuous integration and testing environments, where the very fast 
- lifecycle of containers gives them an edge over virtual machines. We wil
- l see how to extend the workflow from development to testing and all the
-  way to production. We'll also address challenges like reliability and s
- caling with Docker.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34718
+UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34718
+SUMMARY:Android Developer Tools Essentials
+DESCRIPTION:Presented by Mike Wolfson (Epocrates). This session is an ov
+ erview of the Android Developer Tools (ADT and Android Studio), includin
+ g many useful techniques, tips and tricks for getting the most out of th
+ em.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T174000
 DTSTART;TZID=US/Pacific:20140722T170000
-DTSTAMP:20140709T144106
+DTSTAMP:20140719T221125
 LOCATION:E146
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34587
-UID:http://www.oscon.com/oscon2014--s2014-07-22-17:00--34587
-SUMMARY:Monitoring Distributed Systems in Real-time with Riemann and Cas
- sandra
-DESCRIPTION:Presented by Patricia Gorla (The Last Pickle). Computing is 
- spreading outwards: clusters of 1000s of nodes serve a single database, 
- and hundreds of machines analyze the same KPIs. How do we monitor a clus
- ter with many nodes? This talk presents how to effectively monitor a mul
- ti-node Cassandra cluster using Riemann and other graphing solutions.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34588
+UID:http://www.oscon.com/oscon2014--s2014-07-22-17:00--34588
+SUMMARY:Getting Started Contributing to Firefox OS
+DESCRIPTION:Presented by Benjamin Kerensa (Mozilla), Alex Lakatos (Mozil
+ la). Firefox OS is a new mobile operating system, developed by Mozilla, 
+ which lets users install and run open web applications created using HTM
+ L, CSS, and JavaScript. The session will introduce people to Firefox OS,
+  the overview, branding and distribution and will explain the governance
+  behind it.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T165000
 DTSTART;TZID=US/Pacific:20140722T161000
-DTSTAMP:20140402T210644
+DTSTAMP:20140719T220358
 LOCATION:E146
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/33943
-UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--33943
-SUMMARY:You Don't Know How Your Computer Works
-DESCRIPTION:Presented by Matthew Garrett (Nebula). Software development 
- is easy. You tell a computer to do something. It does it. Someone sends 
- you a packet. The OS receives it. Things don't happen unless you ask the
- m to. Simple. But what if that wasn't true? What if your computer is ful
- l of hidden magic? What if your hardware makes assumptions about your so
- ftware? Vendors wouldn't do that, would they? (Spoiler: Yes, they would)
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34176
+UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--34176
+SUMMARY:Functional Vaadin
+DESCRIPTION:Presented by Henri Muurimaa (Vaadin Ltd). Exploring how the 
+ functional language features of Java 8 and Scala combine with Vaadin to 
+ allow you to write clearer UI code.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T165000
@@ -3483,17 +3485,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T114000
 DTSTART;TZID=US/Pacific:20140724T110000
-DTSTAMP:20140402T202521
+DTSTAMP:20140719T222855
 LOCATION:E146
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/35367
-UID:http://www.oscon.com/oscon2014--s2014-07-24-11:00--35367
-SUMMARY:Apache HTTP Server; SSL from End-to-End
-DESCRIPTION:Presented by William A Rowe Jr (Pivotal). This presentation 
- covers all aspects of configuring Apache HTTP Server for https/TLS, incl
- uding ECC, RSA and DH keys and key strength, cipher suites, SSL session 
- caches vs. session tickets, OCSP stapling and TLS virtual hostnames.  Th
- ese elements are integrated to provide perfect forward secrecy and meet 
- modern best practices for both client and proxied connections.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34610
+UID:http://www.oscon.com/oscon2014--s2014-07-24-11:00--34610
+SUMMARY:DNSSEC Via a New Stub Resolver
+DESCRIPTION:Presented by Allison Mankin (Verisign, Inc.), Willem Toorop 
+ (NLNet Labs), Neel Goyal (Verisign, Inc.), Glen Wiley (Verisign, Inc.). 
+ The need for secure DNS is more pressing than ever but the current stand
+ ard API for using the DNS can't take advantage of modern DNS features.  
+ We will give an application developers view of DNSSEC and describe the i
+ ndependently written getDNS API specification. We will showcase the open
+  source implementation of the specification built by our team of develop
+ ers from NLNet Labs and Verisign.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T123000
@@ -3631,18 +3635,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
 DTSTART;TZID=US/Pacific:20140722T113000
-DTSTAMP:20140402T071104
+DTSTAMP:20140719T215027
 LOCATION:E147/148
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34148
-UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34148
-SUMMARY:Protocols for the Internet of Things
-DESCRIPTION:Presented by Vidhya Gholkar (Freelance). A large part of the
-  internet of things will be made up of small constrained devices. The IE
- TF is standardising protocols which are memory, energy and network effic
- ient. Come and get an overview of these and of some Open Source implemen
- tations. See devices including Arduinos and Raspberry Pis with several s
- ensors talking with one another and be inspired to build/connect your ow
- n devices.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34442
+UID:http://www.oscon.com/oscon2014--s2014-07-22-11:30--34442
+SUMMARY:Perl 5.20: Perl 5 at 20
+DESCRIPTION:Presented by Ricardo Signes (Pobox.com). This year brings th
+ e release of Perl 5.20.0, and the 20th anniversary of the Perl 5 program
+ ming language.  In this session, Ricardo Signes, the Perl 5 project mana
+ ger,  covers the latest developments in the language, the development pr
+ ocess, and changes we're hoping for in the near future.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
@@ -3660,17 +3662,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
 DTSTART;TZID=US/Pacific:20140722T134000
-DTSTAMP:20140402T161044
+DTSTAMP:20140719T215215
 LOCATION:E147/148
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34018
-UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34018
-SUMMARY:Raspberry Pi Hacks
-DESCRIPTION:Presented by Ruth Suehle (Red Hat). Ruth Suehle, one of the 
- authors of Raspberry Pi Hacks (O’Reilly, December 2013) will offer techn
- ical tips for hardware and software hackers who want to build around the
-  Raspberry Pi computer. She’ll start with some tips like how to add a po
- wer switch and go on to share fun projects, from costume builds to radio
- s and light displays.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/33727
+UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--33727
+SUMMARY:Open Sourcing Mental Illness
+DESCRIPTION:Presented by Edward Finkler (FictiveKin). I was diagnosed wi
+ th depression and anxiety when I was thirteen, and I've been struggling 
+ with it my whole life. In this talk, I'll discuss how it has impacted my
+  work as a developer, husband, and father. By speaking openly about my e
+ xperiences, I hope those struggling with mental illness will know the ar
+ e not alone, and others can better understand how to be helpful and supp
+ ortive.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T174000
@@ -3689,17 +3692,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T165000
 DTSTART;TZID=US/Pacific:20140722T161000
-DTSTAMP:20140409T215035
+DTSTAMP:20140719T220510
 LOCATION:E147/148
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34921
-UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--34921
-SUMMARY:Hacking Radio for Under $10
-DESCRIPTION:Presented by Bryan  Smith (Fossetcon). We'll explore how to 
- use an $8 dollar DVB-T TV dongle to monitor and capture various radio fr
- equencies. The RTL-SDR library turns a cheap Realtek DVB-T into a very p
- owerful Software Defined Radio receiver which can be used to inspect and
-  hack various wireless protocols. All of the code is Free and Open Sourc
- e so it runs on all platforms.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/35406
+UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--35406
+SUMMARY:Pinto: Hassle-Free Dependency Management for Perl
+DESCRIPTION:Presented by Jeffrey Thalhammer (Stratopan). Managing CPAN d
+ ependencies can be a major frustration for Perl developers.  In this ses
+ sion, you'll discover how to easily manage those dependencies by creatin
+ g a private CPAN repository with Pinto.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T165000
@@ -3780,16 +3781,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T121000
 DTSTART;TZID=US/Pacific:20140723T113000
-DTSTAMP:20140402T044510
+DTSTAMP:20140719T222049
 LOCATION:E147/148
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34535
-UID:http://www.oscon.com/oscon2014--s2014-07-23-11:30--34535
-SUMMARY:Cheap Data Dashboards with Node, Amino and the Raspberry PI
-DESCRIPTION:Presented by Joshua Marinacci (Nokia). Cheap LCD TV + Raspbe
- rry Pi = instant data dashboard. Learn how to use NodeJS and Amino for f
- ull screen GPU accelerated graphics (no X) to quickly build data dashboa
- rds. Show feeds, chart tweets, or visualize your build server with a par
- ticle fountain. Unleash gratuitous graphics for all to see.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34713
+UID:http://www.oscon.com/oscon2014--s2014-07-23-11:30--34713
+SUMMARY:Functionally Mobile (Automation)
+DESCRIPTION:Presented by Sebastian Tiedtke (Sauce Labs Inc). Mobile's he
+ re to stay! This talk will showcase how Open Source tools can power your
+  test automation for mobile apps. It entirely relies on Open Source comp
+ onents such as Appium, Cordova/PhoneGap an Topcoat.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T114000
@@ -4033,18 +4033,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
 DTSTART;TZID=US/Pacific:20140723T104000
-DTSTAMP:20140401T230848
+DTSTAMP:20140719T221453
 LOCATION:F150
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34451
-UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--34451
-SUMMARY:Netflix API : Top 10 Lessons Learned
-DESCRIPTION:Presented by Daniel Jacobson (Netflix). Operating a massive-
- scale system, such as the Netflix API, is no trivial task. It supports o
- ver 44M members in 40+ countries and sees billions of requests a day. Al
- ong the way, there have been many mistakes, yet it is still at the cente
- r of the Netflix streaming ecosystem. In this session, I will go into de
- tail on the top ten lessons learned in operating this complex and critic
- al system.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/33463
+UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--33463
+SUMMARY:Open Source and Mobile Development: Where Does it go From Here?
+DESCRIPTION:Presented by James Turner (O'Reilly Media), Alasdair Allan (
+ The Thing System, Inc.), Joe Bowser (Adobe Systems), Mike Wolfson (Epocr
+ ates). Until iOS and Android came along, the opportunities for open sour
+ ce to flourish in the mobile space were limited, because platforms were 
+ totally proprietary. Now you can find countless FL/OSS projects that hel
+ p mobile developers get their job done. So what's on the horizon, and wh
+ at are the best open source tools today to deliver the next great app?
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T151000
@@ -4141,17 +4141,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140402T064731
+DTSTAMP:20140719T214212
 LOCATION:F151
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/34855
-UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34855
-SUMMARY:A Platform for Open Science
-DESCRIPTION:Presented by Peter Sand (Modular Science). This talk will in
- troduce a new open source platform for citizen science data. It allows a
- nyone anywhere to create online data sets by uploading data from their o
- wn environmental sensors, mobile devices, do-it-yourself science equipme
- nt, and other measurement tools. The talk will describe the design and u
- se of the platform, covering multiple applications and alternatives.
+URL:http://www.oscon.com/oscon2014/public/schedule/detail/34156
+UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34156
+SUMMARY:REST: It's not just for servers
+DESCRIPTION:Presented by Mark Lavin (Caktus Consulting Group). Have you 
+ ever written or used an API wrapper for a webservice? REST is a client-s
+ erver architecture model and building the server is only half of the cha
+ llenge. This talk will walk through some of the challenges of building a
+  REST client, describe some best practices and some patterns to avoid, a
+ nd discuss how we can all work to build better APIs for an open web.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T121000
@@ -4869,7 +4869,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T190000
 DTSTART;TZID=US/Pacific:20140720T173000
-DTSTAMP:20140624T224402
+DTSTAMP:20140719T214024
 LOCATION:Portland  Ballroom
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/35848
 UID:http://www.oscon.com/oscon2014--s2014-07-20-17:30--35848
@@ -5274,7 +5274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T220000
 DTSTART;TZID=US/Pacific:20140720T203000
-DTSTAMP:20140719T174635
+DTSTAMP:20140719T235820
 LOCATION:123 NE Davis St.
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/35853
 UID:http://www.oscon.com/oscon2014--s2014-07-20-20:30--35853
@@ -5321,7 +5321,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T081500
 DTSTART;TZID=US/Pacific:20140722T073000
-DTSTAMP:20140710T215627
+DTSTAMP:20140719T221447
 LOCATION:Bottom of the stairs by the E Rooms
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/37085
 UID:http://www.oscon.com/oscon2014--s2014-07-22-07:30--37085
