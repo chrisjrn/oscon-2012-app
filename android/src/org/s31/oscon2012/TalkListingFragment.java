@@ -109,7 +109,7 @@ public class TalkListingFragment extends Fragment {
 		Intent i = new Intent(Intent.ACTION_SEND);
 		i.setType("text/*");
 		i.putExtra(Intent.EXTRA_TITLE, mTitle);
-		i.putExtra(Intent.EXTRA_TEXT, String.format("%s - %s #androidfu #oscon", mTitle, mUrl));
+		i.putExtra(Intent.EXTRA_TEXT, String.format("%s - %s #lessbad #oscon", mTitle, mUrl));
 		if (mShareActionProvider != null) {
 			mShareActionProvider.setShareIntent(i);
 		}
