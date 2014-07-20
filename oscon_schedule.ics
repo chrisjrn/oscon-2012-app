@@ -94,13 +94,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
 DTSTART;TZID=US/Pacific:20140723T104000
-DTSTAMP:20140409T215413
+DTSTAMP:20140720T160206
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34853
 UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--34853
 SUMMARY:Build Your Own Exobrain
 DESCRIPTION:Presented by Paul Fenwick (Perl Training Australia). Online 
- services like "If This Then That" (IFTTT) are great for automating your 
+ services like 'If This Then That' (IFTTT) are great for automating your 
  life. However they provide limited ways for the end-user to add their ow
  n services, and often require credentials that one may normally wish to 
  keep secret. The 'exobrain' project allows for service integration and e
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T165000
 DTSTART;TZID=US/Pacific:20140723T161000
-DTSTAMP:20140402T211257
+DTSTAMP:20140720T155830
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34690
 UID:http://www.oscon.com/oscon2014--s2014-07-23-16:10--34690
@@ -159,8 +159,8 @@ SUMMARY:Contributing to Contributors: Breaking Down the Barriers to Firs
  t-commit
 DESCRIPTION:Presented by Steve Heffernan (Brightcove, Video.js). Every o
  pen source project is a unique snowflake of technology choices, coding s
- tyle, and communication channels. Learning not only how, but the "correc
- t" way to contribute to each new project can be a blocker for would-be c
+ tyle, and communication channels. Learning not only how, but the 'correc
+ t' way to contribute to each new project can be a blocker for would-be c
  ontributors. This talk will give practical examples of how you can reduc
  e the learning curve for new contributors and improve the quality of fir
  st-commits.
@@ -229,20 +229,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140402T171154
+DTSTAMP:20140720T221717
 LOCATION:Portland 251
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34447
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34447
 SUMMARY:HTML Canvas Deep Dive
-DESCRIPTION:Presented by Joshua Marinacci (Nokia). In the fourth edition
-  of this popular tutorial, we will focus on data visualization. Finding,
-  parsing, drawing, and animating interesting data sets to promote unders
- tanding.
+DESCRIPTION:Presented by Joshua Marinacci (Nokia), Walter Lapchynski (Bi
+ ke Friday). In the fourth edition of this popular tutorial, we will focu
+ s on data visualization. Finding, parsing, drawing, and animating intere
+ sting data sets to promote understanding.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140719T180314
+DTSTAMP:20140720T224603
 LOCATION:Portland 251
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34095
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--34095
@@ -288,16 +288,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140719T213926
+DTSTAMP:20140720T163940
 LOCATION:Portland 251
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34635
 UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34635
 SUMMARY:Move Fast and Ship Things
 DESCRIPTION:Presented by Andrei Alexandrescu (Facebook). This talk will 
- explore the “move fast” side of Facebook’s software engineering culture:
+ explore the 'move fast' side of Facebook’s software engineering culture:
   development process, organizational structure, and the vast amounts of 
  tooling we create and use to make sure we don’t screw up. We’ll also dig
-  into how we “ship things”: release process, A/B testing, gate keepers, 
+  into how we 'ship things': release process, A/B testing, gate keepers, 
  test infrastructure, and more.
 END:VEVENT
 BEGIN:VEVENT
@@ -512,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140709T213625
+DTSTAMP:20140720T223935
 LOCATION:Portland 252
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/35027
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--35027
@@ -640,13 +640,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T165000
 DTSTART;TZID=US/Pacific:20140722T161000
-DTSTAMP:20140413T222602
+DTSTAMP:20140720T154336
 LOCATION:Portland 252
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34198
 UID:http://www.oscon.com/oscon2014--s2014-07-22-16:10--34198
 SUMMARY:Syncing Async
-DESCRIPTION:Presented by Kyle Simpson (Getify Solutions). "Callback hell
- " has very little to do with callbacks. Are promises delivering on the p
+DESCRIPTION:Presented by Kyle Simpson (Getify Solutions). 'Callback hell
+ ' has very little to do with callbacks. Are promises delivering on the p
  romise of better async flow control, or muddying the waters? Generating 
  general generators, WAT? Let's wade through the world of async in JS to 
  find order in the chaos.
@@ -799,7 +799,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140626T193008
+DTSTAMP:20140720T225021
 LOCATION:Portland 255
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34677
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34677
@@ -815,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140714T193552
+DTSTAMP:20140720T220822
 LOCATION:Portland 255
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34232
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--34232
@@ -984,11 +984,11 @@ UID:http://www.oscon.com/oscon2014--s2014-07-23-13:40--33709
 SUMMARY:Introduction to Parallel Iterative Deep Learning on Hadoop’s Nex
  t​-Generation YARN Framework
 DESCRIPTION:Presented by Josh Patterson (Patterson Consulting), Adam Gib
- son (Blix.io). In this session, we will take a look at how we paralleliz
- e Deep Belief Networks in Deep Learning on the next​-generation YARN fra
- mework Iterative Reduce and the parallel machine learning library Metron
- ome. We’ll also take a look at some real world applications of Deep Lear
- ning on Hadoop such as image classification and NLP.
+ son (Skymind.io). In this session, we will take a look at how we paralle
+ lize Deep Belief Networks in Deep Learning on the next​-generation YARN 
+ framework Iterative Reduce and the parallel machine learning library Met
+ ronome. We’ll also take a look at some real world applications of Deep L
+ earning on Hadoop such as image classification and NLP.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
@@ -1091,7 +1091,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140718T224931
+DTSTAMP:20140720T225118
 LOCATION:Portland 256
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34824
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34824
@@ -1105,7 +1105,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140710T182010
+DTSTAMP:20140720T221800
 LOCATION:Portland 256
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/33834
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--33834
@@ -1132,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140721T123000
 DTSTART;TZID=US/Pacific:20140721T090000
-DTSTAMP:20140610T204425
+DTSTAMP:20140720T082348
 LOCATION:Portland 256
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34395
 UID:http://www.oscon.com/oscon2014--s2014-07-21-09:00--34395
@@ -1193,21 +1193,21 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
 DTSTART;TZID=US/Pacific:20140722T134000
-DTSTAMP:20140409T221023
+DTSTAMP:20140720T154531
 LOCATION:Portland 256
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34299
 UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34299
 SUMMARY:Painless Data Storage with MongoDB and Go
 DESCRIPTION:Presented by Steve Francia (MongoDB). Find out why some peop
- le claim Go and MongoDB are a "pair made in heaven" and "the best databa
- se driver they've ever used" in this talk by Gustavo Niemeyer, the autho
+ le claim Go and MongoDB are a 'pair made in heaven' and 'the best databa
+ se driver they've ever used' in this talk by Gustavo Niemeyer, the autho
  r of the mgo driver, and Steve Francia, the drivers team lead at MongoDB
   Inc.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T174000
 DTSTART;TZID=US/Pacific:20140722T170000
-DTSTAMP:20140402T214700
+DTSTAMP:20140720T153458
 LOCATION:Portland 256
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/33557
 UID:http://www.oscon.com/oscon2014--s2014-07-22-17:00--33557
@@ -1215,8 +1215,8 @@ SUMMARY:How to Fake a Database Design
 DESCRIPTION:Presented by Curtis Poe (All Around The World). Many expert 
  programmers who write complex SQL without a second thought still struggl
  e with database design. Unfortunately, many introductory topics cause ey
- es to glaze over when we read "transitive dependencies" and "Boyce-Codd 
- normal form". When you're done with this talk, you'll understand the bas
+ es to glaze over when we read 'transitive dependencies' and 'Boyce-Codd 
+ normal form'. When you're done with this talk, you'll understand the bas
  ics of creating a database that won't make a DBA yell at you. We won't e
  ven use (many) big words.
 END:VEVENT
@@ -1572,13 +1572,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140724T123000
 DTSTART;TZID=US/Pacific:20140724T115000
-DTSTAMP:20140401T230852
+DTSTAMP:20140720T155522
 LOCATION:D135
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34551
 UID:http://www.oscon.com/oscon2014--s2014-07-24-11:50--34551
 SUMMARY:Marketing Your Tech Talent
 DESCRIPTION:Presented by Deirdré Straughan (Ericsson). Today's tech job 
- descriptions want "superstars", but most companies – and employees! – st
+ descriptions want 'superstars', but most companies – and employees! – st
  ill treat employee talent as a replaceable commodity. How can you market
   yourself and your talents, to benefit your own career as well as the co
  mpany or project you work for? This talk will provide practical ideas an
@@ -1647,7 +1647,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140708T164245
+DTSTAMP:20140720T202232
 LOCATION:D136
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/33947
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--33947
@@ -1980,7 +1980,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140708T164245
+DTSTAMP:20140720T163541
 LOCATION:D137/138
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34589
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34589
@@ -2309,7 +2309,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140719T231427
+DTSTAMP:20140720T202128
 LOCATION:D139/140
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34773
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34773
@@ -2354,7 +2354,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140721T123000
 DTSTART;TZID=US/Pacific:20140721T090000
-DTSTAMP:20140710T181946
+DTSTAMP:20140720T155656
 LOCATION:D139/140
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34642
 UID:http://www.oscon.com/oscon2014--s2014-07-21-09:00--34642
@@ -2362,7 +2362,7 @@ SUMMARY:Playing Chess with Companies
 DESCRIPTION:Presented by Simon Wardley (Leading Edge Forum (CSC)). Most 
  organisations have strategy documents full of implementation, purchasing
  , tactical and operational choices. Remove this and you're often left wi
- th a vague "why" which normally boils down to copying everyone else. In 
+ th a vague 'why' which normally boils down to copying everyone else. In 
  this tutorial I'll demonstrate how a large number of companies are playi
  ng a game of chess in which they can't see the board and how you can exp
  loit this.
@@ -2479,7 +2479,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T174000
 DTSTART;TZID=US/Pacific:20140723T170000
-DTSTAMP:20140409T222054
+DTSTAMP:20140720T145222
 LOCATION:D139/140
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/33451
 UID:http://www.oscon.com/oscon2014--s2014-07-23-17:00--33451
@@ -2487,7 +2487,7 @@ SUMMARY:Migrating to the Web Using Dart and Polymer - A Guide for Legacy
   OOP Developers
 DESCRIPTION:Presented by Faisal Abid (Dynamatik, Inc.). The web developm
  ent platform is massive. With tons of libraries, frameworks and concepts
-  out there, it might be daunting for the "legacy" developer to jump into
+  out there, it might be daunting for the 'legacy' developer to jump into
   it. In this presentation we will introduce Google Dart & Polymer. Two h
  ot technologies that work in harmony to create powerful web applications
   using concepts familiar to OOP developers.
@@ -2648,7 +2648,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140624T024237
+DTSTAMP:20140720T221820
 LOCATION:E143/144
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34473
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34473
@@ -3133,7 +3133,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T151000
 DTSTART;TZID=US/Pacific:20140723T143000
-DTSTAMP:20140719T222452
+DTSTAMP:20140720T155323
 LOCATION:E145
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34522
 UID:http://www.oscon.com/oscon2014--s2014-07-23-14:30--34522
@@ -3141,7 +3141,7 @@ SUMMARY:Internet ALL the Things - a walking tour of MQTT
 DESCRIPTION:Presented by Andy Piper (Twitter). As the internet grows, th
  ere are more and more interesting devices to connect to it - some of whi
  ch are mobile, sensor platforms, or healthcare devices. This is all part
-  of the "Internet of Things" that has been an emerging area of excitemen
+  of the 'Internet of Things' that has been an emerging area of excitemen
  t for the last few years. MQTT is a lightweight, messaging system for co
  nnected devices, the Industrial Internet, mobile, and the IoT.
 END:VEVENT
@@ -3235,7 +3235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140626T193008
+DTSTAMP:20140720T205145
 LOCATION:E145/146
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34873
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--34873
@@ -3251,7 +3251,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T170000
 DTSTART;TZID=US/Pacific:20140720T133000
-DTSTAMP:20140717T214054
+DTSTAMP:20140720T224050
 LOCATION:E145/146
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34555
 UID:http://www.oscon.com/oscon2014--s2014-07-20-13:30--34555
@@ -3439,14 +3439,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
 DTSTART;TZID=US/Pacific:20140723T104000
-DTSTAMP:20140403T205707
+DTSTAMP:20140720T160010
 LOCATION:E146
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34840
 UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--34840
 SUMMARY:Open Community Infrastructure How-to
 DESCRIPTION:Presented by Karsten Wade (Red Hat/Fedora Project). Does eve
  ry open source project need an open infrastructure? Should root be poten
- tially available to any community member? If you think, "Maybe, yes," co
+ tially available to any community member? If you think, 'Maybe, yes,' co
  me learn how-to and why-to with lessons-learned from Fedora, oVirt, Cent
  OS Project, and other projects.
 END:VEVENT
@@ -3530,13 +3530,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T200000
 DTSTART;TZID=US/Pacific:20140722T190000
-DTSTAMP:20140710T234959
+DTSTAMP:20140720T161416
 LOCATION:E146
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/37715
 UID:http://www.oscon.com/oscon2014--s2014-07-22-19:00--37715
 SUMMARY:TA3M
-DESCRIPTION:Leaders in technology convene to discuss the "state of the m
- ovement" for issues around privacy, censorship, and surveillance. What a
+DESCRIPTION:Leaders in technology convene to discuss the 'state of the m
+ ovement' for issues around privacy, censorship, and surveillance. What a
  re our successes and failures? What are the current threats and opportun
  ities to affect meaningful change?
 END:VEVENT
@@ -3556,7 +3556,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T123000
 DTSTART;TZID=US/Pacific:20140720T090000
-DTSTAMP:20140409T211736
+DTSTAMP:20140720T192556
 LOCATION:E147/148
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/33687
 UID:http://www.oscon.com/oscon2014--s2014-07-20-09:00--33687
@@ -3898,13 +3898,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T112000
 DTSTART;TZID=US/Pacific:20140722T104000
-DTSTAMP:20140402T211546
+DTSTAMP:20140720T154926
 LOCATION:F150
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34332
 UID:http://www.oscon.com/oscon2014--s2014-07-22-10:40--34332
 SUMMARY:Global Scaling at the New York Times using RabbitMQ
 DESCRIPTION:Presented by Alvaro Videla (RabbitMQ), Michael Laing (New Yo
- rk Times). Learn about the "nyt⨍aбrik" platform which sits behind The Ne
+ rk Times). Learn about the 'nyt⨍aбrik' platform which sits behind The Ne
  w York Times website. Learn how it scales across many continents and AWS
   availability zones using RabbitMQ as the backbone of communication for 
  exchanging messages in near real-time. nyt⨍aбrik is built on open-source
@@ -3927,14 +3927,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
 DTSTART;TZID=US/Pacific:20140722T143000
-DTSTAMP:20140414T224417
+DTSTAMP:20140720T160659
 LOCATION:F150
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34888
 UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--34888
 SUMMARY:Cathedrals in the Cloud: Musings on APIs for the Web
 DESCRIPTION:Presented by Mike Amundsen (Layer 7 Technologies). With the 
  rise of cloud-based services and Web APIs, it may be time to re-visit Ra
- ymond's 19 "lessons" from his book "The Cathedral and the Bazaar" to see
+ ymond's 19 'lessons' from his book 'The Cathedral and the Bazaar' to see
   how they can be applied (and/or modified) to fit a world where much of 
  the software we use is no longer installed locally and is often kept out
   of reach from most developers and users.
@@ -4173,7 +4173,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
 DTSTART;TZID=US/Pacific:20140722T143000
-DTSTAMP:20140401T232859
+DTSTAMP:20140720T155220
 LOCATION:F151
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34458
 UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--34458
@@ -4183,7 +4183,7 @@ DESCRIPTION:Presented by Greg Bulmash (Microsoft.com). Most Saturday mor
  nts and volunteers, and they teach the kids to code at a free club calle
  d CoderDojo. Come learn how to start a CoderDojo in your city and join t
  he hundreds of cities around the world where kids are learning everythin
- g from "hello world" to NodeCopters to building apps.
+ g from 'hello world' to NodeCopters to building apps.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
@@ -4686,7 +4686,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
 DTSTART;TZID=US/Pacific:20140722T134000
-DTSTAMP:20140708T184512
+DTSTAMP:20140720T155021
 LOCATION:E142
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/34371
 UID:http://www.oscon.com/oscon2014--s2014-07-22-13:40--34371
@@ -4694,8 +4694,8 @@ SUMMARY:A Recovering Java Developer Learns to Go
 DESCRIPTION:Presented by Matt Stine (Pivotal). The Go programming langua
  ge has emerged as a favorite tool of DevOps and cloud practitioners alik
  e. In many ways, Go is more famous for what it doesn't include than what
-  it does, and co-author Rob Pike has said that Go represents a "less is 
- more" approach to language design. This talk will introduce Go and its d
+  it does, and co-author Rob Pike has said that Go represents a 'less is 
+ more' approach to language design. This talk will introduce Go and its d
  istinctives to Java developers looking to add Go to their toolkits.
 END:VEVENT
 BEGIN:VEVENT
@@ -4760,11 +4760,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T112000
 DTSTART;TZID=US/Pacific:20140723T104000
-DTSTAMP:20140701T212027
+DTSTAMP:20140720T161229
 LOCATION:E143
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/37678
 UID:http://www.oscon.com/oscon2014--s2014-07-23-10:40--37678
-SUMMARY:What's a "DPDK", and Where Can I Get One?
+SUMMARY:What's a 'DPDK', and Where Can I Get One?
 DESCRIPTION:Presented by Bruce Richardson (Intel Corporation). Legend te
  lls of a legendary piece of software whose packet processing speed is th
  e stuff of legend. Find out all about this software, how it's made, wher
@@ -4817,7 +4817,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T151000
 DTSTART;TZID=US/Pacific:20140722T143000
-DTSTAMP:20140711T221942
+DTSTAMP:20140720T161529
 LOCATION:E143
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/37755
 UID:http://www.oscon.com/oscon2014--s2014-07-22-14:30--37755
@@ -4825,7 +4825,7 @@ SUMMARY:Cassandra 2.X: Transactions, NoSQL, and Performance
 DESCRIPTION:Presented by Jonathan Ellis (DataStax, Inc). Cassandra 2.0 i
  ntroduced lightweight transactions (LWT), making it the first database t
  o allow mixing linearizable transactions into a fully distributed, highl
- y availability system ("AP" in CAP terminology).
+ y availability system ('AP' in CAP terminology).
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T142000
@@ -4869,7 +4869,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T190000
 DTSTART;TZID=US/Pacific:20140720T173000
-DTSTAMP:20140719T214024
+DTSTAMP:20140720T004238
 LOCATION:Portland  Ballroom
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/35848
 UID:http://www.oscon.com/oscon2014--s2014-07-20-17:30--35848
@@ -5031,13 +5031,13 @@ URL:http://www.oscon.com/oscon2014/public/schedule/detail/37801
 UID:http://www.oscon.com/oscon2014--s2014-07-23-09:20--37801
 SUMMARY:Racing Change: Accelerating Innovation Through Radical Transpare
  ncy
-DESCRIPTION:Presented by Sarah Novotny (NGINX), Edwin  Aoki (AOL), Danes
- e Cooper (PayPal), Josh Bleecher Snyder (PayPal). In February of this ye
- ar, PayPal announced it had hired Danese Cooper as their first Head of O
- pen Source.  PayPal?  And Open Source? In fact, Open Source is playing a
-  key role in reinventing PayPal engineering as a place where innovation 
- at scale is easy and fun - especially if you like to work in Open Source
- .
+DESCRIPTION:Presented by Sarah Novotny (NGINX), Edwin Aoki (PayPal), Dan
+ ese Cooper (PayPal), Josh Bleecher Snyder (PayPal). In February of this 
+ year, PayPal announced it had hired Danese Cooper as their first Head of
+  Open Source.  PayPal?  And Open Source? In fact, Open Source is playing
+  a key role in reinventing PayPal engineering as a place where innovatio
+ n at scale is easy and fun - especially if you like to work in Open Sour
+ ce.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140723T094500
@@ -5274,8 +5274,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140720T220000
 DTSTART;TZID=US/Pacific:20140720T203000
-DTSTAMP:20140719T235820
-LOCATION:123 NE Davis St.
+DTSTAMP:20140720T225153
+LOCATION:123 NE Third Ave.
 URL:http://www.oscon.com/oscon2014/public/schedule/detail/35853
 UID:http://www.oscon.com/oscon2014--s2014-07-20-20:30--35853
 SUMMARY:OSCON 5K Glow Run and After Party
@@ -5307,16 +5307,6 @@ DESCRIPTION:This year's attendee party focuses on the four classical ele
  ments--fire, earth, air, and water. Wait till you see how each of these 
  essential ideas transforms Hall B into new areas to explore and savor. T
  rust us, this is one party you don't want to miss!
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20140724T141500
-DTSTART;TZID=US/Pacific:20140724T140000
-DTSTAMP:20140716T195628
-LOCATION:Exhibit Hall B
-URL:http://www.oscon.com/oscon2014/public/schedule/detail/37639
-UID:http://www.oscon.com/oscon2014--s2014-07-24-14:00--37639
-SUMMARY:Mobile App Test
-DESCRIPTION:Test session for ratings and feedback from mobile app
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20140722T081500
