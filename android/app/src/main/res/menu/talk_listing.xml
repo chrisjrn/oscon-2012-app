@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/talk_listing_url" android:title="@string/listing_show_web_page"  android:icon="@drawable/ic_web_site" android:showAsAction="always"></item>
+    <item android:id="@+id/talk_listing_add_to_calendar" android:title="@string/listing_add_to_calendar" android:icon="@drawable/ic_new_event" android:showAsAction="always"></item>
+    <item
+        android:id="@+id/menu_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:showAsAction="always"
+        android:title="@string/listing_share"/>
+    
+</menu>

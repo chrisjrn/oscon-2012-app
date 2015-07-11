@@ -1,0 +1,141 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* app/
+* app/build.gradle
+* app/libs/
+* app/libs/android-support-v13.jar
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/assets/
+* app/src/main/assets/oscon_schedule.json
+* app/src/main/java/
+* app/src/main/java/org/
+* app/src/main/java/org/s31/
+* app/src/main/java/org/s31/oscon2012/
+* app/src/main/java/org/s31/oscon2012/Config.java
+* app/src/main/java/org/s31/oscon2012/DayListActivity.java
+* app/src/main/java/org/s31/oscon2012/DayListFragment.java
+* app/src/main/java/org/s31/oscon2012/Event.java
+* app/src/main/java/org/s31/oscon2012/OsconApplication.java
+* app/src/main/java/org/s31/oscon2012/Schedule.java
+* app/src/main/java/org/s31/oscon2012/ScheduleActivity.java
+* app/src/main/java/org/s31/oscon2012/ScheduleAdapter.java
+* app/src/main/java/org/s31/oscon2012/ScheduleFragment.java
+* app/src/main/java/org/s31/oscon2012/TabsAdapter.java
+* app/src/main/java/org/s31/oscon2012/TalkListingActivity.java
+* app/src/main/java/org/s31/oscon2012/TalkListingFragment.java
+* app/src/main/java/org/s31/oscon2012/TimeSlot.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/.DS_Store
+* app/src/main/res/drawable-hdpi/ic_event.png
+* app/src/main/res/drawable-hdpi/ic_go_to_today.png
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-hdpi/ic_new_event.png
+* app/src/main/res/drawable-hdpi/ic_web_site.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/.DS_Store
+* app/src/main/res/drawable-mdpi/ic_event.png
+* app/src/main/res/drawable-mdpi/ic_go_to_today.png
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/ic_new_event.png
+* app/src/main/res/drawable-mdpi/ic_web_site.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/.DS_Store
+* app/src/main/res/drawable-xhdpi/ic_event.png
+* app/src/main/res/drawable-xhdpi/ic_go_to_today.png
+* app/src/main/res/drawable-xhdpi/ic_launcher.png
+* app/src/main/res/drawable-xhdpi/ic_new_event.png
+* app/src/main/res/drawable-xhdpi/ic_web_site.png
+* app/src/main/res/layout/
+* app/src/main/res/layout/day_list_entry.xml
+* app/src/main/res/layout/dummy_layout.xml
+* app/src/main/res/layout/main.xml
+* app/src/main/res/layout/schedule_item.xml
+* app/src/main/res/layout/talk_listing_fragment.xml
+* app/src/main/res/layout/text_only_list_item.xml
+* app/src/main/res/menu/
+* app/src/main/res/menu/schedule.xml
+* app/src/main/res/menu/talk_listing.xml
+* app/src/main/res/values/
+* app/src/main/res/values/strings.xml
+* build.gradle
+* build.xml
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+gson-2.2.1.jar => com.google.code.gson:gson:2.2.1
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.1.jar => version 2.2.1 in com.google.code.gson:gson:2.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/android-support-v13.jar => app/libs/android-support-v13.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
