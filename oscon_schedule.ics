@@ -6,7 +6,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150714T021048
+DTSTAMP:20150721T234340
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41805
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--41805
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150623T145513
+DTSTAMP:20150722T163059
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42506
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42506
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150521T190546
+DTSTAMP:20150722T174411
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41041
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41041
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150507T183754
+DTSTAMP:20150722T201511
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40212
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--40212
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040846
+DTSTAMP:20150722T205432
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42037
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42037
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T040851
+DTSTAMP:20150722T205439
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42001
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42001
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040856
+DTSTAMP:20150716T213805
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40593
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--40593
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040902
+DTSTAMP:20150722T193704
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40462
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--40462
@@ -127,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150506T205802
+DTSTAMP:20150716T213829
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41359
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41359
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150506T000139
+DTSTAMP:20150716T213912
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41816
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41816
@@ -156,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150504T175132
+DTSTAMP:20150716T213942
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42187
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--42187
@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150506T200616
+DTSTAMP:20150716T213917
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41888
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41888
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150501T204838
+DTSTAMP:20150716T213752
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40210
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--40210
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150501T191433
+DTSTAMP:20150716T213756
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40373
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--40373
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050157
+DTSTAMP:20150716T213938
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42161
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--42161
@@ -233,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050237
+DTSTAMP:20150716T213958
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42353
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--42353
@@ -249,22 +249,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150715T052118
+DTSTAMP:20150721T170456
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42341
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--42341
 SUMMARY:Build a botnet?
-DESCRIPTION:Presented by Bryan  Smith (Fossetcon). Botnets can take down
-  virtually any site or service on the internet, including an entire coun
- try's internet backbone. Oftentimes your hear about a botnet's path of d
- estruction, but you never hear about how they work. This talk will intro
- duce you to the concepts behind botnets, and also show a live demonstrat
- ion of a botnet on a sandboxed network.
+DESCRIPTION:Presented by Bryan Smith (Fossetcon). Botnets can take down 
+ virtually any site or service on the internet, including an entire count
+ ry's internet backbone. Oftentimes your hear about a botnet's path of de
+ struction, but you never hear about how they work. This talk will introd
+ uce you to the concepts behind botnets, and also show a live demonstrati
+ on of a botnet on a sandboxed network.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150428T173714
+DTSTAMP:20150716T213949
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42279
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--42279
@@ -279,19 +279,9 @@ DESCRIPTION:Presented by Brian Capouch (Saint Josephs College), Nathan S
  n SPA environment.
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150724T140000
-DTSTART;TZID=US/Pacific:20150724T133000
-DTSTAMP:20150713T225503
-LOCATION:Portland 251
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45402
-UID:http://www.oscon.com/open-source-2015--s2015-07-24-13:30--45402
-SUMMARY:Mobile App Test
-DESCRIPTION:Mobile App Test
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150710T233753
+DTSTAMP:20150721T221952
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42148
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42148
@@ -307,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150623T145513
+DTSTAMP:20150722T004858
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41534
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--41534
@@ -324,21 +314,21 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150713T182337
+DTSTAMP:20150722T203424
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42004
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42004
 SUMMARY:Container orchestration at scale
-DESCRIPTION:Presented by Aaron Huslage (Docker). This is not a typo: we 
- are going to demonstrate and compare different orchestration systems, fo
- r scales both big and small. Within the span of this tutorial, we will b
- uild clusters together using open source software like Swarm, Mesos, and
-  others.
+DESCRIPTION:Presented by Steve Francia (Docker Inc.). This is not a typo
+ : we are going to demonstrate and compare different orchestration system
+ s, for scales both big and small. Within the span of this tutorial, we w
+ ill build clusters together using open source software like Swarm, Mesos
+ , and others.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150521T193040
+DTSTAMP:20150722T175656
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40461
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--40461
@@ -353,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150501T203302
+DTSTAMP:20150722T184855
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41539
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41539
@@ -370,7 +360,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T040928
+DTSTAMP:20150722T202649
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41644
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41644
@@ -385,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040459
+DTSTAMP:20150716T213808
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40721
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--40721
@@ -399,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150428T182048
+DTSTAMP:20150716T213944
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42200
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42200
@@ -414,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150501T222613
+DTSTAMP:20150716T213841
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41489
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41489
@@ -430,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T040949
+DTSTAMP:20150716T213809
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41002
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41002
@@ -445,7 +435,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150715T045918
+DTSTAMP:20150716T213807
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40632
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--40632
@@ -460,7 +450,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150506T215102
+DTSTAMP:20150716T213919
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41967
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41967
@@ -476,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050028
+DTSTAMP:20150716T213813
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41099
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--41099
@@ -492,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150506T002836
+DTSTAMP:20150716T213855
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41616
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--41616
@@ -507,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050201
+DTSTAMP:20150716T213817
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41159
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--41159
@@ -522,23 +512,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150428T221817
+DTSTAMP:20150716T213815
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41146
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--41146
 SUMMARY:Database reliability engineering, modernizing the DBA role
-DESCRIPTION:Presented by Laine Campbell (Pythian), Charity Majors (Parse
- /Facebook). IT is undergoing a revolution, and database administration i
- s no exception. As Ops teams evolve to reliability engineers, developers
-  and traditional systems administrators find themselves diving into the 
- world of the DBA. In this session, we take the model of site reliability
-  engineering and guide you through the components of the craft of DB arc
- hitecture/operations in that context.
+DESCRIPTION:Presented by Charity Majors (Parse/Facebook). IT is undergoi
+ ng a revolution, and database administration is no exception. As Ops tea
+ ms evolve to reliability engineers, developers and traditional systems a
+ dministrators find themselves diving into the world of the DBA. In this 
+ session, we take the model of site reliability engineering and guide you
+  through the components of the craft of DB architecture/operations in th
+ at context.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150506T201351
+DTSTAMP:20150716T214003
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42463
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--42463
@@ -553,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150428T170622
+DTSTAMP:20150716T213859
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41650
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--41650
@@ -568,7 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150521T190218
+DTSTAMP:20150722T203947
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42203
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42203
@@ -584,7 +574,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150508T184332
+DTSTAMP:20150721T184417
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42482
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42482
@@ -598,7 +588,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150629T231658
+DTSTAMP:20150722T203458
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42342
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42342
@@ -614,7 +604,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150702T191513
+DTSTAMP:20150722T203404
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42529
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42529
@@ -630,7 +620,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040403
+DTSTAMP:20150722T203005
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42193
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42193
@@ -646,7 +636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T035738
+DTSTAMP:20150722T202237
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41574
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41574
@@ -661,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040435
+DTSTAMP:20150716T213810
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41029
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41029
@@ -676,7 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040509
+DTSTAMP:20150716T213839
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41475
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41475
@@ -688,11 +678,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T041035
+DTSTAMP:20150717T161650
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42173
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--42173
-SUMMARY:Sass: What it is, how it's used, and why it's so Syntactically A
+SUMMARY:Sass: What it is, how it's used, and why it's so syntactically a
  wesome
 DESCRIPTION:Presented by Lucy Wyman (OSU Open Source Lab). This talk wil
  l start off with the basics of what Syntactically Awesome StyleSheets ar
@@ -704,7 +694,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T035758
+DTSTAMP:20150716T213948
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42272
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42272
@@ -720,7 +710,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150715T045924
+DTSTAMP:20150716T213907
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41783
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41783
@@ -736,22 +726,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150715T050008
+DTSTAMP:20150716T213930
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42067
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--42067
 SUMMARY:Grow an organization by planting volunteers
-DESCRIPTION:Presented by Stormy Peters (Mozilla), Avni Khatri (Kids on C
- omputers). Most nonprofit organizations depend on volunteers. And most v
- olunteer organizations are asked how in the world they recruit and keep 
- volunteers.  While not every organization is the same, there are definit
- ely some best practices that many open source software projects have dis
- covered and evolved.
+DESCRIPTION:Presented by Stormy Peters (Cloud Foundry Foundation), Avni 
+ Khatri (Kids on Computers). Most nonprofit organizations depend on volun
+ teers. And most volunteer organizations are asked how in the world they 
+ recruit and keep volunteers.  While not every organization is the same, 
+ there are definitely some best practices that many open source software 
+ projects have discovered and evolved.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050038
+DTSTAMP:20150716T213800
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40455
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--40455
@@ -767,7 +757,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150715T050110
+DTSTAMP:20150716T213838
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41468
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--41468
@@ -782,7 +772,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050157
+DTSTAMP:20150716T213758
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40413
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--40413
@@ -797,7 +787,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050237
+DTSTAMP:20150716T214025
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43596
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--43596
@@ -812,23 +802,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150714T160005
+DTSTAMP:20150716T213836
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41459
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--41459
 SUMMARY:Speed kills: When faster pages mean less revenue
-DESCRIPTION:Presented by Eddie Canales (Manta Media). Faster pages...pro
- fit! Right? Despite what common sense and every case study might tell yo
- u, we found out that isn't always true. When you get 20 million visitors
-  a month and make a lot of your money from advertising (the enemy of spe
- ed), you have tons of opportunity/obligation to understand which kinds o
- f speed matter. This is a story about hope, disappointment, discovery, a
- nd triumph.
+DESCRIPTION:Presented by Eddie Canales (CrossChx). Faster pages...profit
+ ! Right? Despite what common sense and every case study might tell you, 
+ we found out that isn't always true. When you get 20 million visitors a 
+ month and make a lot of your money from advertising (the enemy of speed)
+ , you have tons of opportunity/obligation to understand which kinds of s
+ peed matter. This is a story about hope, disappointment, discovery, and 
+ triumph.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052201
+DTSTAMP:20150716T213940
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42183
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--42183
@@ -844,7 +834,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040846
+DTSTAMP:20150722T205134
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40470
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--40470
@@ -860,7 +850,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T041020
+DTSTAMP:20150722T194416
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41808
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41808
@@ -876,7 +866,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040856
+DTSTAMP:20150722T204622
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42294
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42294
@@ -892,7 +882,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040902
+DTSTAMP:20150716T213932
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42073
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42073
@@ -908,23 +898,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T040215
+DTSTAMP:20150716T213804
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40555
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--40555
 SUMMARY:I've been hacked, now what?
-DESCRIPTION:Presented by Beth Tucker Long (Code Climate). Investigate a 
- hacked WordPress website, and learn what the hacker has left behind, whi
- ch tools will help find the vulnerability and point of entrance, how to 
- seal up the most common problem areas, and how to set up notifications t
- o help you spot a hack more quickly in the future. Even though we will b
- e going through a WordPress website, most of the tools discussed are app
- licable to any website.
+DESCRIPTION:Presented by Beth Tucker Long (Treeline Design). Investigate
+  a hacked WordPress website, and learn what the hacker has left behind, 
+ which tools will help find the vulnerability and point of entrance, how 
+ to seal up the most common problem areas, and how to set up notification
+ s to help you spot a hack more quickly in the future. Even though we wil
+ l be going through a WordPress website, most of the tools discussed are 
+ applicable to any website.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T034846
+DTSTAMP:20150716T213948
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42228
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42228
@@ -939,7 +929,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150715T045918
+DTSTAMP:20150716T213852
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41579
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41579
@@ -954,7 +944,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150715T045947
+DTSTAMP:20150716T213833
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41417
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41417
@@ -971,7 +961,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050028
+DTSTAMP:20150716T213933
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42111
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--42111
@@ -986,12 +976,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150715T050053
+DTSTAMP:20150717T161252
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41968
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--41968
-SUMMARY:Walmart’s tech transformation: Scaling to serve 245 million cust
- omers
+SUMMARY:Walmart labs: finding our success by transitioning to open sourc
+ e
 DESCRIPTION:Presented by Jeremy King (Walmart Global E-Commerce). In ord
  er to scale its operations to serve more than 245 million customers arou
  nd the world each week, Walmart eCommercecompletely re-engineered its en
@@ -1002,7 +992,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150707T024738
+DTSTAMP:20150716T213959
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42391
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--42391
@@ -1015,7 +1005,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050233
+DTSTAMP:20150716T213842
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41491
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--41491
@@ -1031,7 +1021,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150506T215503
+DTSTAMP:20150716T213954
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42315
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--42315
@@ -1047,7 +1037,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052157
+DTSTAMP:20150716T213849
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41563
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--41563
@@ -1061,7 +1051,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040357
+DTSTAMP:20150722T202520
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41447
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41447
@@ -1075,7 +1065,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T035738
+DTSTAMP:20150722T192546
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41094
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41094
@@ -1090,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040440
+DTSTAMP:20150716T214015
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42625
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42625
@@ -1106,7 +1096,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040513
+DTSTAMP:20150716T213759
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40414
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--40414
@@ -1122,7 +1112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T040228
+DTSTAMP:20150716T213755
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40312
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--40312
@@ -1139,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T035758
+DTSTAMP:20150716T213850
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41568
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41568
@@ -1152,7 +1142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150506T184232
+DTSTAMP:20150716T213905
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41753
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41753
@@ -1168,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150715T045954
+DTSTAMP:20150716T213836
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41448
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41448
@@ -1184,7 +1174,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050035
+DTSTAMP:20150716T213754
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40214
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--40214
@@ -1200,7 +1190,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150715T050106
+DTSTAMP:20150716T213813
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41110
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--41110
@@ -1216,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050206
+DTSTAMP:20150716T213831
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41389
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--41389
@@ -1230,7 +1220,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050230
+DTSTAMP:20150721T164716
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42218
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--42218
@@ -1247,7 +1237,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150715T052137
+DTSTAMP:20150716T213908
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41801
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--41801
@@ -1261,7 +1251,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052151
+DTSTAMP:20150716T213939
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42165
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--42165
@@ -1277,7 +1267,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150629T195043
+DTSTAMP:20150720T231053
 LOCATION:D136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41115
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--41115
@@ -1292,7 +1282,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150629T193951
+DTSTAMP:20150722T175008
 LOCATION:D136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42497
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42497
@@ -1306,7 +1296,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150521T191706
+DTSTAMP:20150722T165126
 LOCATION:D136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41688
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41688
@@ -1322,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150713T182111
+DTSTAMP:20150722T203503
 LOCATION:D136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42458
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42458
@@ -1335,20 +1325,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150712T170601
+DTSTAMP:20150722T194955
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41400
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--41400
 SUMMARY:Building a mobile app with Meteor.js, Cordova, and MongoDB
-DESCRIPTION:Presented by Josh Owens (Web 2.0 Show). Join Meteor expert J
- osh Owens as he walks through live coding a Meteor.js app from scratch a
- nd gets it working with the built-in Cordova support. Learn how easy it 
- is to build a new mobile app with Meteor.js.
+DESCRIPTION:Presented by Josh Owens (Meteor Club). Join Meteor expert Jo
+ sh Owens as he walks through live coding a Meteor.js app from scratch an
+ d gets it working with the built-in Cordova support. Learn how easy it i
+ s to build a new mobile app with Meteor.js.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150629T195414
+DTSTAMP:20150722T162436
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42146
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42146
@@ -1363,7 +1353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150508T152339
+DTSTAMP:20150722T154132
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41995
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41995
@@ -1379,7 +1369,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150623T151050
+DTSTAMP:20150722T001621
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41969
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--41969
@@ -1392,7 +1382,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040544
+DTSTAMP:20150722T183549
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42069
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42069
@@ -1405,22 +1395,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T041020
+DTSTAMP:20150722T192550
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44987
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--44987
 SUMMARY:Building and running an open source programs office: Lessons fro
  m the TODO Group
 DESCRIPTION:Presented by Chris DiBona (Google), Chris Aniszczyk (Twitter
- ), Chris Kelly (GitHub), Will Norris (Google), James Pearce (Facebook), 
- Gianugo Rabellino (Microsoft). Join a discussion with representatives fr
- om well-known tech companies to discuss the challenges of building and r
- unning an open source office at scale.
+ ), Chris Kelly (GitHub), Will Norris (Google), Christine Abernathy (Face
+ book), Gianugo Rabellino (Microsoft). Join a discussion with representat
+ ives from well-known tech companies to discuss the challenges of buildin
+ g and running an open source office at scale.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040759
+DTSTAMP:20150716T213915
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41864
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41864
@@ -1436,7 +1426,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040531
+DTSTAMP:20150716T213842
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41505
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41505
@@ -1449,22 +1439,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T041035
+DTSTAMP:20150721T044248
 LOCATION:D137/138
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41211
-UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41211
-SUMMARY:Plate spinning: Modern concurrency in Python
-DESCRIPTION:Presented by Luciano Ramalho (Python.pro.br). Developments l
- ike the `concurrent.futures` classes, coroutine delegation with `yield f
- rom` and the `asyncio` module together represent a major new chapter in 
- the evolution of Python, and are the best reasons to upgrade to Python 3
- . This talk will show how these tools bring concurrent programming withi
- n reach of even casual programmers, with dramatic boosts in throughput.
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40410
+UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--40410
+SUMMARY:Pingo means "pin, go!": Universal IoT programming in Python
+DESCRIPTION:Presented by Luciano Ramalho (Python.pro.br). Pingo is a uni
+ form Python API for devices that have programmable I/O for physical comp
+ uting: Raspberry Pi, Arduino TRE, Intel Edison, BeagleBone Black etc. Th
+ e design of the Arduino board and IDE made device programming accessible
+ , and the design of the Pingo API aims to do the same with the Internet 
+ of Things, bringing interactive discovery and high-level services to emb
+ edded systems development.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T040949
+DTSTAMP:20150716T213950
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42290
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42290
@@ -1479,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150530T195526
+DTSTAMP:20150716T213914
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41854
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41854
@@ -1495,23 +1486,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150505T232308
+DTSTAMP:20150721T044225
 LOCATION:D137/138
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40410
-UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--40410
-SUMMARY:Pingo means "pin, go!": Universal IoT programming in Python
-DESCRIPTION:Presented by Luciano Ramalho (Python.pro.br). Pingo is a uni
- form Python API for devices that have programmable I/O for physical comp
- uting: Raspberry Pi, Arduino TRE, Intel Edison, BeagleBone Black etc. Th
- e design of the Arduino board and IDE made device programming accessible
- , and the design of the Pingo API aims to do the same with the Internet 
- of Things, bringing interactive discovery and high-level services to emb
- edded systems development.
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41211
+UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41211
+SUMMARY:Plate spinning: Modern concurrency in Python
+DESCRIPTION:Presented by Luciano Ramalho (Python.pro.br). Developments l
+ ike the `concurrent.futures` classes, coroutine delegation with `yield f
+ rom` and the `asyncio` module together represent a major new chapter in 
+ the evolution of Python, and are the best reasons to upgrade to Python 3
+ . This talk will show how these tools bring concurrent programming withi
+ n reach of even casual programmers, with dramatic boosts in throughput.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050038
+DTSTAMP:20150716T213856
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41619
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--41619
@@ -1526,7 +1516,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150715T050137
+DTSTAMP:20150716T213822
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41208
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--41208
@@ -1540,7 +1530,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050211
+DTSTAMP:20150716T213828
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41341
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--41341
@@ -1553,7 +1543,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050246
+DTSTAMP:20150716T213811
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41052
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--41052
@@ -1568,7 +1558,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150715T052242
+DTSTAMP:20150716T213922
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41984
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--41984
@@ -1585,21 +1575,21 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052204
+DTSTAMP:20150716T213935
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42132
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--42132
 SUMMARY:Designing reactive systems with Akka
-DESCRIPTION:Presented by Thomas Lockney (Nike & PNWScala). This session 
- will show attendees how to build reactive services using Akka and Scala.
-  Reactive services are scalable, reliable, and efficient, and we'll demo
- nstrate the basic model, a simple development workflow, and the tools an
- d libraries that make it all work.
+DESCRIPTION:Presented by Thomas Lockney (Nike and PNWScala). This sessio
+ n will show attendees how to build reactive services using Akka and Scal
+ a. Reactive services are scalable, reliable, and efficient, and we'll de
+ monstrate the basic model, a simple development workflow, and the tools 
+ and libraries that make it all work.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150709T202226
+DTSTAMP:20150721T004052
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42512
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42512
@@ -1615,7 +1605,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150709T202229
+DTSTAMP:20150721T124647
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42627
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42627
@@ -1631,7 +1621,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150513T162852
+DTSTAMP:20150721T211415
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42077
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42077
@@ -1646,7 +1636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150623T151055
+DTSTAMP:20150722T084950
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42495
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42495
@@ -1659,7 +1649,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040544
+DTSTAMP:20150722T183604
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42151
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42151
@@ -1673,7 +1663,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150714T161650
+DTSTAMP:20150722T205145
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42014
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42014
@@ -1691,7 +1681,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040803
+DTSTAMP:20150716T213923
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41989
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41989
@@ -1705,7 +1695,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040513
+DTSTAMP:20150716T213921
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41975
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41975
@@ -1718,11 +1708,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T040609
+DTSTAMP:20150721T004303
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45285
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--45285
-SUMMARY:Building the $9 computer, or How I learned to stop worrying and 
+SUMMARY:Building the $9 computer, or how I learned to stop worrying and 
  love embedded Linux
 DESCRIPTION:Presented by Dave Rauchwerk (Next Thing Co). 1GHz ARM Cortex
   A8, 512MB RAM, 4GB NAND Flash, WiFi, Bluetooth - and it's completely op
@@ -1732,7 +1722,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150327T012109
+DTSTAMP:20150716T213926
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42012
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42012
@@ -1748,7 +1738,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150715T050308
+DTSTAMP:20150716T213913
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41847
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41847
@@ -1764,19 +1754,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150707T233538
+DTSTAMP:20150721T052130
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45294
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--45294
 SUMMARY:Introducing an open source answer for modern collaboration
-DESCRIPTION:Presented by Amandine Le Pape (Vector). If you believe in a 
- world where we should have the right to run our own communications and o
- wn our data, then learn how “Vector” fills the void!
+DESCRIPTION:Presented by David  Kelnar (Vector). If you believe in a wor
+ ld where we should have the right to run our own communications and own 
+ our data, then learn how “Vector” fills the void!
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150606T052323
+DTSTAMP:20150716T213918
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41947
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--41947
@@ -1793,7 +1783,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150520T174800
+DTSTAMP:20150716T213950
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42285
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--42285
@@ -1808,7 +1798,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050206
+DTSTAMP:20150716T213916
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41884
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--41884
@@ -1824,7 +1814,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050343
+DTSTAMP:20150716T213823
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41265
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--41265
@@ -1840,7 +1830,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150715T052137
+DTSTAMP:20150716T213900
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41674
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--41674
@@ -1854,7 +1844,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052228
+DTSTAMP:20150716T213847
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41536
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--41536
@@ -1867,7 +1857,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150507T190431
+DTSTAMP:20150722T205345
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42543
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42543
@@ -1882,7 +1872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150623T145527
+DTSTAMP:20150721T001605
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41698
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--41698
@@ -1895,7 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150702T153407
+DTSTAMP:20150722T203403
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40630
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--40630
@@ -1911,7 +1901,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150603T211112
+DTSTAMP:20150722T042218
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42668
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42668
@@ -1924,7 +1914,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040656
+DTSTAMP:20150722T204414
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41464
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41464
@@ -1939,7 +1929,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T040922
+DTSTAMP:20150722T204422
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42428
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42428
@@ -1955,7 +1945,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040803
+DTSTAMP:20150716T213956
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42332
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42332
@@ -1971,23 +1961,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040712
+DTSTAMP:20150716T213906
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41781
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41781
 SUMMARY:Open source licensing on GitHub by the numbers
-DESCRIPTION:Presented by Ben Balter (GitHub, Inc.), Tal Niv (GitHub). Op
- en source isn't open source without a license. GitHub is the de facto hu
- b for creating and sharing open source software, but how much of it is t
- ruly open? How has license usage changed over time? How does licensing e
- ffect contribution, reuse, and project evolution? Join Ben Balter and Ta
- l Niv, two of GitHub's legals for a quantitative analysis of license usa
- ge across all of GitHub's 19M repos.
+DESCRIPTION:Presented by Ben Balter (GitHub, Inc.). Open source isn't op
+ en source without a license. GitHub is the de facto hub for creating and
+  sharing open source software, but how much of it is truly open? How has
+  license usage changed over time? How does licensing effect contribution
+ , reuse, and project evolution? Join Ben Balter and Tal Niv, two of GitH
+ ub's legals for a quantitative analysis of license usage across all of G
+ itHub's 19M repos.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T040634
+DTSTAMP:20150716T213857
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41632
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41632
@@ -2001,7 +1991,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T040639
+DTSTAMP:20150716T213756
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40359
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--40359
@@ -2017,7 +2007,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150715T050308
+DTSTAMP:20150716T213824
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41269
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41269
@@ -2031,7 +2021,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150715T050324
+DTSTAMP:20150716T213826
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41305
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41305
@@ -2047,7 +2037,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050330
+DTSTAMP:20150716T213803
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40511
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--40511
@@ -2063,7 +2053,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150715T050148
+DTSTAMP:20150716T214026
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43709
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--43709
@@ -2079,7 +2069,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050215
+DTSTAMP:20150716T213819
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41188
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--41188
@@ -2091,7 +2081,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050248
+DTSTAMP:20150716T213820
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41197
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--41197
@@ -2106,7 +2096,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150711T190901
+DTSTAMP:20150716T213821
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41206
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--41206
@@ -2122,7 +2112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052209
+DTSTAMP:20150716T213845
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41513
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--41513
@@ -2137,7 +2127,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150521T190218
+DTSTAMP:20150721T222958
 LOCATION:E145/146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40629
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--40629
@@ -2152,7 +2142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150508T183637
+DTSTAMP:20150721T225710
 LOCATION:E145/146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42547
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42547
@@ -2168,7 +2158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150707T180343
+DTSTAMP:20150722T151859
 LOCATION:E145/146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41322
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41322
@@ -2183,7 +2173,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150708T002539
+DTSTAMP:20150722T203441
 LOCATION:E145/146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41150
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--41150
@@ -2196,22 +2186,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150715T040656
+DTSTAMP:20150722T190843
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41708
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41708
 SUMMARY:How my POODLE lost his Xen state by seeing a Ghost, going BERser
  k, and getting ShellShock with a Heartbleed
-DESCRIPTION:Presented by Ryan Ware (Intel Corporation). 2014 was a hard 
- year for open source software when it comes to security vulnerabilities.
-   There were great amounts of attention focused on Heartbleed, ShellShoc
- k, BERserk, etc.  Was that attention well founded?  This presentation in
- tends to find out.
+DESCRIPTION:Presented by Constanza Heath (Intel). 2014 was a hard year f
+ or open source software when it comes to security vulnerabilities.  Ther
+ e were great amounts of attention focused on Heartbleed, ShellShock, BER
+ serk, etc.  Was that attention well founded?  This presentation intends 
+ to find out.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150715T040701
+DTSTAMP:20150722T192547
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41838
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41838
@@ -2227,7 +2217,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040743
+DTSTAMP:20150716T213840
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41487
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41487
@@ -2243,7 +2233,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150501T180037
+DTSTAMP:20150716T213941
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42186
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42186
@@ -2259,7 +2249,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T040228
+DTSTAMP:20150716T213828
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41337
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41337
@@ -2274,7 +2264,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T040639
+DTSTAMP:20150716T213900
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41659
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41659
@@ -2290,7 +2280,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150504T210031
+DTSTAMP:20150716T213834
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41431
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41431
@@ -2305,7 +2295,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150715T050324
+DTSTAMP:20150718T035840
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41777
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41777
@@ -2320,7 +2310,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150715T050330
+DTSTAMP:20150716T213911
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41809
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--41809
@@ -2335,7 +2325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150429T000700
+DTSTAMP:20150716T214002
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42462
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--42462
@@ -2351,7 +2341,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150715T050215
+DTSTAMP:20150716T214101
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44890
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--44890
@@ -2367,7 +2357,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050248
+DTSTAMP:20150716T214004
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42489
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--42489
@@ -2383,7 +2373,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150715T052245
+DTSTAMP:20150716T213918
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41956
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--41956
@@ -2398,7 +2388,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052234
+DTSTAMP:20150716T213847
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41535
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--41535
@@ -2413,38 +2403,9 @@ DESCRIPTION:Presented by Alasdair Allan (Babilim Light Industries), Paul
  o to space, and what you can learn from it! Science will be involved.
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150721T123000
-DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150623T150555
-LOCATION:E147/148
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41752
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41752
-SUMMARY:Painlessly functional and concurrent: An introduction to Elixir
-DESCRIPTION:Presented by Marc Sugiyama (Erlang Solutions, Inc). Elixir i
- s a functional programming language with a familiar syntax.  In this tut
- orial we’ll explore the basics of the language, and why you want to use 
- Elixir to write concurrent, scalable, and robust programs.
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150721T170000
-DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150623T151055
-LOCATION:E147/148
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42542
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42542
-SUMMARY:Erlang: Inspiring software
-DESCRIPTION:Presented by Garrett Smith (CloudBees), Francesco Cesarini (
- Erlang Solutions Ltd). Erlang is a programming language designed for the
-  internet age, although it predates the web. It is a language designed f
- or multi-core computers, although it predates them too. In this tutorial
- , Francesco and Garrett will present the features that make Erlang a tre
- ndsetter and give you a context for using it as strategic tool in your s
- oftware arsenal.
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150520T192313
+DTSTAMP:20150722T192509
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41183
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41183
@@ -2459,7 +2420,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150615T184143
+DTSTAMP:20150722T201452
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42013
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42013
@@ -2472,7 +2433,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150715T040706
+DTSTAMP:20150716T213959
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42389
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42389
@@ -2488,7 +2449,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150715T040712
+DTSTAMP:20150716T214019
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42675
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42675
@@ -2501,7 +2462,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150715T040634
+DTSTAMP:20150716T213955
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42319
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--42319
@@ -2518,7 +2479,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150715T040616
+DTSTAMP:20150716T213833
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41412
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41412
@@ -2533,7 +2494,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150501T180712
+DTSTAMP:20150716T213856
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41617
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--41617
@@ -2549,7 +2510,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150506T200117
+DTSTAMP:20150716T213903
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41724
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41724
@@ -2564,21 +2525,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150520T174555
+DTSTAMP:20150716T213854
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41611
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--41611
 SUMMARY:Data transformation superpowers with digital signal processing
-DESCRIPTION:Presented by Amy Boyle (Washington State University). Learn 
- how digital signal processing can help you look at data, and even the wo
- rld around you, with a new critical eye. Gain an understanding of the me
- thods behind speech recognition, image manipulation, data compression, a
- nd more.
+DESCRIPTION:Presented by Amy Boyle (New Relic). Learn how digital signal
+  processing can help you look at data, and even the world around you, wi
+ th a new critical eye. Gain an understanding of the methods behind speec
+ h recognition, image manipulation, data compression, and more.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150715T050148
+DTSTAMP:20150716T213830
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41388
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--41388
@@ -2595,7 +2555,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T165000
 DTSTART;TZID=US/Pacific:20150723T161000
-DTSTAMP:20150609T174706
+DTSTAMP:20150716T213844
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41508
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--41508
@@ -2611,7 +2571,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150715T050343
+DTSTAMP:20150716T213934
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42112
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--42112
@@ -2624,7 +2584,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
 DTSTART;TZID=US/Pacific:20150724T100000
-DTSTAMP:20150715T052245
+DTSTAMP:20150716T213929
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42015
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-10:00--42015
@@ -2641,7 +2601,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T115000
 DTSTART;TZID=US/Pacific:20150724T111000
-DTSTAMP:20150715T052234
+DTSTAMP:20150716T213818
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41182
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-11:10--41182
@@ -2652,9 +2612,38 @@ DESCRIPTION:Presented by VM Brasseur (@vmbrasseur), Alexis Rossi (Intern
  e metadata for its entire 12+ Petabyte collection.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150721T123000
+DTSTART;TZID=US/Pacific:20150721T090000
+DTSTAMP:20150722T195405
+LOCATION:D133
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41752
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41752
+SUMMARY:Painlessly functional and concurrent: An introduction to Elixir
+DESCRIPTION:Presented by Marc Sugiyama (Erlang Solutions, Inc). Elixir i
+ s a functional programming language with a familiar syntax.  In this tut
+ orial we’ll explore the basics of the language, and why you want to use 
+ Elixir to write concurrent, scalable, and robust programs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150721T170000
+DTSTART;TZID=US/Pacific:20150721T133000
+DTSTAMP:20150722T195321
+LOCATION:D133
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42542
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42542
+SUMMARY:Erlang: Inspiring software
+DESCRIPTION:Presented by Garrett Smith (CloudBees), Francesco Cesarini (
+ Erlang Solutions Ltd). Erlang is a programming language designed for the
+  internet age, although it predates the web. It is a language designed f
+ or multi-core computers, although it predates them too. In this tutorial
+ , Francesco and Garrett will present the features that make Erlang a tre
+ ndsetter and give you a context for using it as strategic tool in your s
+ oftware arsenal.
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150714T222039
+DTSTAMP:20150721T194401
 LOCATION:F150
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42643
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42643
@@ -2670,7 +2659,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150713T174658
+DTSTAMP:20150721T152726
 LOCATION:F150
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42587
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42587
@@ -2686,7 +2675,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150701T161512
+DTSTAMP:20150722T153634
 LOCATION:F150
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43976
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--43976
@@ -2701,23 +2690,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150625T213116
+DTSTAMP:20150722T065332
 LOCATION:F151
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45257
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--45257
 SUMMARY:Open source email reboot! - Open messaging day
-DESCRIPTION:Presented by Pierre Chamberland (Netmail). Learn and contrib
- ute to modernizing open source messaging. Meet technologists from FastMa
- il, Cyrus IMAP, Atmail, MXTools, OpenIO, and Spamhaus, who are re-bootin
- g email with smarter clients, hyper-scale storage grids, secured transpo
- rt, and high performance virtualization. Discover exciting tools that ca
- n be used to develop cool new apps that can interoperate with existing s
- ystems and devices.
+DESCRIPTION:Presented by Pierre Chamberland (Netmail), Laurent Denel (Op
+ enIO), Matt Technical Advisor (Spamhaus). Learn and contribute to modern
+ izing open source messaging. Meet technologists from FastMail, Cyrus IMA
+ P, Atmail, MXTools, OpenIO, and Spamhaus, who are re-booting email with 
+ smarter clients, hyper-scale storage grids, secured transport, and high 
+ performance virtualization. Discover exciting tools that can be used to 
+ develop cool new apps that can interoperate with existing systems and de
+ vices.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150714T225005
+DTSTAMP:20150722T173907
 LOCATION:F151
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41300
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--41300
@@ -2731,7 +2721,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150713T165852
+DTSTAMP:20150722T195101
 LOCATION:F151
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41609
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--41609
@@ -2746,11 +2736,11 @@ DESCRIPTION:Presented by Robert Gallup (XOBXOB). Prototypes allow us to
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
-DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150714T212301
+DTSTART;TZID=US/Pacific:20150721T100000
+DTSTAMP:20150722T001626
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45281
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--45281
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-10:00--45281
 SUMMARY:Google Presents: Kubernetes 1.0 launch
 DESCRIPTION:Experience a first look into the future of container orchest
  ration at the Kubernetes 1.0 Launch. Come and learn about the Kubernetes
@@ -2760,7 +2750,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150610T202121
+DTSTAMP:20150722T183551
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44902
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--44902
@@ -2775,7 +2765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150615T183054
+DTSTAMP:20150716T214113
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44957
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--44957
@@ -2787,7 +2777,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150617T221828
+DTSTAMP:20150722T192549
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44961
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--44961
@@ -2801,7 +2791,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150617T213107
+DTSTAMP:20150716T214112
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44956
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--44956
@@ -2814,7 +2804,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150709T032239
+DTSTAMP:20150716T214117
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44969
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--44969
@@ -2830,7 +2820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150622T192943
+DTSTAMP:20150716T214127
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45053
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--45053
@@ -2846,7 +2836,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150624T211526
+DTSTAMP:20150716T214116
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44966
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--44966
@@ -2861,7 +2851,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150624T203457
+DTSTAMP:20150722T194900
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45263
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--45263
@@ -2875,7 +2865,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150706T231651
+DTSTAMP:20150722T001625
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44990
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--44990
@@ -2892,7 +2882,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150706T233420
+DTSTAMP:20150716T214148
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45327
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--45327
@@ -2908,7 +2898,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150707T215250
+DTSTAMP:20150716T214152
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45355
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--45355
@@ -2921,9 +2911,25 @@ DESCRIPTION:Presented by Bdale Garbee (HP). This session will provide a
  ng open source activities at major corporations.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150723T165000
+DTSTART;TZID=US/Pacific:20150723T161000
+DTSTAMP:20150721T172732
+LOCATION:E141
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45715
+UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--45715
+SUMMARY:Let's talk about browser hardening...
+DESCRIPTION:Presented by Rohit Harchandani (PayPal), Aashish Sheshadri (
+ PayPal). Doug Crockford has long been a leader in the JavaScript world. 
+ His work for the past couple of years at PayPal has yielded a company-wi
+ de shift to Node.js, amongst other changes. Currently his team is workin
+ g on implementing the latest research into hardening browsers. Team memb
+ ers Aashish Sheshadri and Rohit Harchandani will discuss their early imp
+ lementation work on this exciting project.
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150610T202633
+DTSTAMP:20150716T214027
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43710
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--43710
@@ -2937,7 +2943,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150615T211021
+DTSTAMP:20150722T192549
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44965
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--44965
@@ -2953,7 +2959,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150715T173940
+DTSTAMP:20150722T201348
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44875
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--44875
@@ -2968,23 +2974,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150617T214144
+DTSTAMP:20150722T195426
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44991
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--44991
 SUMMARY:Streamlining and automating data ingestion into Hadoop
-DESCRIPTION:Presented by Sastry Malladi (StubHub), Raji Arasu (StubHub).
-  Everyone wants to leverage Hadoop for their data processing needs, whet
- her for real-time processing or batch processing; but there is no single
-  common way to bring data from a variety of data sources and types into 
- Hadoop in an automated fashion. In this talk we cover an approach that w
- e took, and present the generic ingestion framework we developed that le
- verages Flume, Kafka, and others.
+DESCRIPTION:Presented by Sastry Malladi (StubHub). Everyone wants to lev
+ erage Hadoop for their data processing needs, whether for real-time proc
+ essing or batch processing; but there is no single common way to bring d
+ ata from a variety of data sources and types into Hadoop in an automated
+  fashion. In this talk we cover an approach that we took, and present th
+ e generic ingestion framework we developed that leverages Flume, Kafka, 
+ and others.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150617T223953
+DTSTAMP:20150716T214125
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44997
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--44997
@@ -3000,7 +3006,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150617T223037
+DTSTAMP:20150716T214115
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44962
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--44962
@@ -3015,7 +3021,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150713T173529
+DTSTAMP:20150716T214129
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45153
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--45153
@@ -3028,39 +3034,39 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150714T002001
+DTSTAMP:20150722T195355
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45358
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--45358
 SUMMARY:Apache Spark Tutorial, with deep-dives on SparkR and Data Source
  s API, plus Telco applications case studies
 DESCRIPTION:Presented by Paco Nathan (O'Reilly Media), Haichuan Wang (Hu
- awei), Jacky Li (Huawei technology), Vimal Das Kammath (Huawei). Spark R
-  is a lightweight front end to use Apache Spark from R, which enables us
- ers to run R analysis tasks on a cluster with the support of Spark. In t
- his talk, we will present some progress in improving Spark R’s functiona
- lity and performance, and one real-world application of Spark R about mo
- deling datacenters.
+ awei), Jacky Li (Huawei technology), Vimal Das Kammath (Huawei). This tu
+ torial provides a hands-on introduction to Apache Spark, with coding exe
+ rcises for Spark apps showing Python, Scala, R, and SQL. We will review 
+ the Spark core API, how to build a pipeline with SQL + DataFrames, plus 
+ look through the broader Spark ecosystem: Tungsten, Streaming, MLlib, an
+ d GraphX.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150713T173153
+DTSTAMP:20150721T061709
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45357
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--45357
 SUMMARY:The Curate’s Egg of modern architectures (and how DevOps can hel
  p)
-DESCRIPTION:Presented by Stevan Arychuk (New Relic). This presentation w
- ill explore how DevOps principles can be used to mitigate some of the as
- sociated challenges, or make things worse if not done properly. Join us 
- for a deep dive into operational and architectural concerns that appear 
- with modern architecture deployments.
+DESCRIPTION:Presented by Stevan Arychuk (New Relic). Every company is a 
+ software company, but crafting good software is hard. This presentation 
+ will explore approaches needed to craft good software, look at why these
+  modern architectures patterns are an important part of that story, and 
+ how DevOps and monitoring fits into this puzzle.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150713T225537
+DTSTAMP:20150716T214210
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45415
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--45415
@@ -3074,9 +3080,25 @@ DESCRIPTION:Presented by Neil Jenkins (FastMail). Should Email & Calenda
  anage.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150723T142000
+DTSTART;TZID=US/Pacific:20150723T134000
+DTSTAMP:20150717T163957
+LOCATION:E142
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45517
+UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--45517
+SUMMARY:Enabling cloud-native application development with microservices
+DESCRIPTION:Presented by Ben Schumacher (Cisco). As teams transition to 
+ the world of Fast IT, they need their development lifecycles to keep up.
+  Typical tools require teams dedicate resources for SCM and platform ser
+ vices. Is there an easier way to enable teams to build nextgen applicati
+ ons? Enter the world of Hybrid DevOps, and reach the goal of enabling te
+ ams to easily deploy and run their products across hybrid clouds and the
+  Intercloud.
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150615T181357
+DTSTAMP:20150722T183550
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44897
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--44897
@@ -3092,7 +3114,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150615T200537
+DTSTAMP:20150722T192549
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44931
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--44931
@@ -3106,7 +3128,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T112000
 DTSTART;TZID=US/Pacific:20150723T104000
-DTSTAMP:20150617T211900
+DTSTAMP:20150716T214120
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44989
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:40--44989
@@ -3123,7 +3145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
 DTSTART;TZID=US/Pacific:20150723T134000
-DTSTAMP:20150622T185548
+DTSTAMP:20150716T214126
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45028
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-13:40--45028
@@ -3138,7 +3160,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150624T214002
+DTSTAMP:20150716T214127
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45075
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--45075
@@ -3155,7 +3177,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150701T174908
+DTSTAMP:20150716T214134
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45251
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--45251
@@ -3169,7 +3191,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T151000
 DTSTART;TZID=US/Pacific:20150723T143000
-DTSTAMP:20150701T190838
+DTSTAMP:20150716T214147
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45318
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-14:30--45318
@@ -3183,7 +3205,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150714T184506
+DTSTAMP:20150716T214215
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45438
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--45438
@@ -3198,13 +3220,45 @@ DESCRIPTION:Presented by Patrick Reilly (Kismatic, Inc.). Docker runs yo
  rnetes and you're all set.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150722T142000
+DTSTART;TZID=US/Pacific:20150722T134000
+DTSTAMP:20150721T024256
+LOCATION:E 143/144
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45724
+UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--45724
+SUMMARY:Open source at 18 - The challenges of post-adolescence
+DESCRIPTION:Presented by Danese Cooper (PayPal). As Open Source moves ou
+ t of its teen years, more and more practitioners are younger than the mo
+ vement. What should grown-up Open Source be doing around communities, li
+ censing, corporate involvement and more? What's the minimum knowledge of
+  history required to not screw up the future of Open Source?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150723T174000
+DTSTART;TZID=US/Pacific:20150723T161000
+DTSTAMP:20150722T135918
+LOCATION:E 143/144
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45808
+UID:http://www.oscon.com/open-source-2015--s2015-07-23-16:10--45808
+SUMMARY:Intro to Apache Spark, plus Data Sources API integration for HBa
+ se
+DESCRIPTION:Presented by Paco Nathan (O'Reilly Media), Jacky Li (Huawei 
+ technology). This session provides an introduction to Apache Spark, with
+  a brief overview of how/why it evolved, then covering the Spark core AP
+ I, with examples in Python and Scala, how to build a pipeline with SQL +
+  DataFrames, plus look through the broader Spark ecosystem: Tungsten, St
+ reaming, MLlib, GraphX, Packages, etc. Plus many links out case studies 
+ of production use cases at scale for Spark.
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150707T225111
+DTSTAMP:20150721T210851
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45373
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--45373
-SUMMARY:Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes
+SUMMARY:Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes 
+ (SOLD OUT)
 DESCRIPTION:Presented by Michael Hausenblas (Mesosphere), Zed Shaw (Meso
  sphere). This one-day course provides you with an end-to-end understandi
  ng of Linux containers and how to operate and orchestrate them at scale.
@@ -3215,7 +3269,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150612T233810
+DTSTAMP:20150721T180300
 LOCATION:D130
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44066
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--44066
@@ -3230,54 +3284,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150615T204225
+DTSTAMP:20150722T200301
 LOCATION:D130
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42779
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42779
-SUMMARY:Go Bootcamp training (continued)
-DESCRIPTION:Presented by William Kennedy (Ardan Studios). The Go Bootcam
- p is a two-day class that provides a comprehensive and idiomatic view of
-  the Go programming language. The class covers topics ranging from langu
- age syntax, OOP, concurrency, channels, and testing to debugging and mor
- e. The class is great for anyone interested in getting a jumpstart on le
- arning Go, or wanting to understand more about the language and internal
- s.
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44067
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--44067
+SUMMARY:Microservices – Why, what and how to get there (continued)
+DESCRIPTION:Presented by Adrian Cockcroft (Battery Ventures). Adrian wil
+ l run a two day training class at OSCON. The class will go into more dep
+ th on the business need for speed that leads to microservices, and the c
+ haracteristics of existing microservice architectures. In addition there
+  will be a hands-on exercise to model your existing architecture, a futu
+ re state, and the step by step migration to get there.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150615T204140
-LOCATION:D133
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42797
-UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42797
-SUMMARY:Programming with Swift: Solid fundamentals, advanced language fe
- atures, and open source libraries
-DESCRIPTION:Presented by Jonathon Manning (Secret Lab Pty. Ltd.), Tim Nu
- gent (lonely.coffee). If you're involved in writing anything to do with 
- iPhones, iPads, or Macs, you need to get familiar with Swift. This train
- ing will bring you from zero Swift knowledge all the way up to a deep un
- derstanding of the subject.
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150721T170000
-DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150615T204108
-LOCATION:D133
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42798
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42798
-SUMMARY:Programming with Swift: Solid fundamentals, advanced language fe
- atures, and open source libraries (continued)
-DESCRIPTION:Presented by Tim Nugent (lonely.coffee), Jonathon Manning (S
- ecret Lab Pty. Ltd.), Paris Buttfield-Addison (Secret Lab Pty. Ltd.). If
-  you're involved in writing anything to do with iPhones, iPads, or Macs,
-  you need to get familiar with Swift. This training will bring you from 
- zero Swift knowledge all the way up to a deep understanding of the subje
- ct.
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150720T170000
-DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150619T172931
+DTSTAMP:20150721T001608
 LOCATION:D134
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43775
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--43775
@@ -3293,7 +3315,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150619T172911
+DTSTAMP:20150722T001624
 LOCATION:D134
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43777
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--43777
@@ -3309,7 +3331,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150615T204253
+DTSTAMP:20150722T191748
 LOCATION:D135
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42635
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42635
@@ -3325,22 +3347,54 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150612T233725
+DTSTAMP:20150722T205409
 LOCATION:D135
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44067
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--44067
-SUMMARY:Microservices – Why, what and how to get there (continued)
-DESCRIPTION:Presented by Adrian Cockcroft (Battery Ventures). Adrian wil
- l run a two day training class at OSCON. The class will go into more dep
- th on the business need for speed that leads to microservices, and the c
- haracteristics of existing microservice architectures. In addition there
-  will be a hands-on exercise to model your existing architecture, a futu
- re state, and the step by step migration to get there.
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42779
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42779
+SUMMARY:Go Bootcamp training (continued)
+DESCRIPTION:Presented by William Kennedy (Ardan Studios). The Go Bootcam
+ p is a two-day class that provides a comprehensive and idiomatic view of
+  the Go programming language. The class covers topics ranging from langu
+ age syntax, OOP, concurrency, channels, and testing to debugging and mor
+ e. The class is great for anyone interested in getting a jumpstart on le
+ arning Go, or wanting to understand more about the language and internal
+ s.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150721T170000
+DTSTART;TZID=US/Pacific:20150721T090000
+DTSTAMP:20150722T042744
+LOCATION:E147/148
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42798
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42798
+SUMMARY:Programming with Swift: Solid fundamentals, advanced language fe
+ atures, and open source libraries (continued)
+DESCRIPTION:Presented by Tim Nugent (lonely.coffee), Jonathon Manning (S
+ ecret Lab Pty. Ltd.), Paris Buttfield-Addison (Secret Lab Pty. Ltd.). If
+  you're involved in writing anything to do with iPhones, iPads, or Macs,
+  you need to get familiar with Swift. This training will bring you from 
+ zero Swift knowledge all the way up to a deep understanding of the subje
+ ct.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150608T223934
+DTSTAMP:20150722T183313
+LOCATION:E147/148
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42797
+UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42797
+SUMMARY:Programming with Swift: Solid fundamentals, advanced language fe
+ atures, and open source libraries
+DESCRIPTION:Presented by Jonathon Manning (Secret Lab Pty. Ltd.), Tim Nu
+ gent (lonely.coffee). If you're involved in writing anything to do with 
+ iPhones, iPads, or Macs, you need to get familiar with Swift. This train
+ ing will bring you from zero Swift knowledge all the way up to a deep un
+ derstanding of the subject.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150720T170000
+DTSTART;TZID=US/Pacific:20150720T090000
+DTSTAMP:20150721T001607
 LOCATION:Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43152
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--43152
@@ -3355,7 +3409,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150608T224017
+DTSTAMP:20150722T001624
 LOCATION:Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43171
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--43171
@@ -3370,7 +3424,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T190000
 DTSTART;TZID=US/Pacific:20150720T173000
-DTSTAMP:20150708T175817
+DTSTAMP:20150722T050143
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42873
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-17:30--42873
@@ -3383,7 +3437,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T092000
 DTSTART;TZID=US/Pacific:20150723T090500
-DTSTAMP:20150609T193800
+DTSTAMP:20150716T214024
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43535
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-09:05--43535
@@ -3394,7 +3448,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T094500
 DTSTART;TZID=US/Pacific:20150723T093000
-DTSTAMP:20150622T180340
+DTSTAMP:20150716T214057
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44868
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-09:30--44868
@@ -3408,7 +3462,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T100500
 DTSTART;TZID=US/Pacific:20150723T094500
-DTSTAMP:20150707T200352
+DTSTAMP:20150716T214059
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44871
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-09:45--44871
@@ -3424,7 +3478,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T090500
 DTSTART;TZID=US/Pacific:20150723T090000
-DTSTAMP:20150615T201649
+DTSTAMP:20150716T214107
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44925
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-09:00--44925
@@ -3437,7 +3491,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T090500
 DTSTART;TZID=US/Pacific:20150724T090000
-DTSTAMP:20150702T161718
+DTSTAMP:20150716T214109
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44936
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-09:00--44936
@@ -3450,7 +3504,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T092000
 DTSTART;TZID=US/Pacific:20150724T090500
-DTSTAMP:20150617T204453
+DTSTAMP:20150716T214058
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44870
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-09:05--44870
@@ -3465,7 +3519,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T094500
 DTSTART;TZID=US/Pacific:20150724T093000
-DTSTAMP:20150615T180916
+DTSTAMP:20150716T214038
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44534
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-09:30--44534
@@ -3479,7 +3533,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T090500
 DTSTART;TZID=US/Pacific:20150722T090000
-DTSTAMP:20150615T200819
+DTSTAMP:20150722T184553
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44994
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:00--44994
@@ -3492,7 +3546,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T093000
 DTSTART;TZID=US/Pacific:20150722T092000
-DTSTAMP:20150615T185738
+DTSTAMP:20150722T184619
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44737
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:20--44737
@@ -3506,7 +3560,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T094500
 DTSTART;TZID=US/Pacific:20150722T093000
-DTSTAMP:20150615T203019
+DTSTAMP:20150722T205422
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44992
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:30--44992
@@ -3521,7 +3575,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T100000
 DTSTART;TZID=US/Pacific:20150722T095500
-DTSTAMP:20150615T185820
+DTSTAMP:20150722T205039
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44917
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:55--44917
@@ -3537,23 +3591,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T095500
 DTSTART;TZID=US/Pacific:20150722T094500
-DTSTAMP:20150622T190249
+DTSTAMP:20150722T205004
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44895
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:45--44895
 SUMMARY:They're here. Now what?
-DESCRIPTION:Presented by Allison Randal (Hewlett-Packard). The early day
- s of the open source movement were all about creating an approachable on
- -ramp to software freedom. We focused strongly on practical benefits of 
- free software and refined the message, hoping to help the professional s
- oftware sector better understand. We succeeded but success in our first 
- goal doesn't mean we're done, it means we're due to clearly define the n
- ext phase of open source.
+DESCRIPTION:Presented by Allison Randal (Hewlett-Packard and Open Source
+  Initiative). The early days of the open source movement were all about 
+ creating an approachable on-ramp to software freedom. We focused strongl
+ y on practical benefits of free software and refined the message, hoping
+  to help the professional software sector better understand. We succeede
+ d but success in our first goal doesn't mean we're done, it means we're 
+ due to clearly define the next phase of open source.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T092000
 DTSTART;TZID=US/Pacific:20150722T090500
-DTSTAMP:20150706T000125
+DTSTAMP:20150722T184608
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44937
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:05--44937
@@ -3567,7 +3621,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T093000
 DTSTART;TZID=US/Pacific:20150724T092000
-DTSTAMP:20150709T055811
+DTSTAMP:20150716T214150
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45335
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-09:20--45335
@@ -3583,18 +3637,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T093000
 DTSTART;TZID=US/Pacific:20150723T092000
-DTSTAMP:20150710T232658
+DTSTAMP:20150717T165942
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45365
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-09:20--45365
-SUMMARY:Keynote by Danese Cooper and Arnold Goldberg
+SUMMARY:Getting started with InnerSource
 DESCRIPTION:Presented by Danese Cooper (PayPal), Arnold Goldberg (PayPal
- ), Manish Jain (PayPal). Details to come
+ ), Manish Jain (PayPal). InnerSource is what we call using open source t
+ ools and methodologies inside a company to improve engineering practices
+ , and it's gained a foothold at PayPal. We've found it useful for helpin
+ g to break down engineering silos, increasing emphasis on code craftsman
+ ship and, more generally, for increasing employee collaboration and sati
+ sfaction.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T120500
 DTSTART;TZID=US/Pacific:20150724T120000
-DTSTAMP:20150714T161632
+DTSTAMP:20150716T214218
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45452
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-12:00--45452
@@ -3605,7 +3664,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T122500
 DTSTART;TZID=US/Pacific:20150724T120500
-DTSTAMP:20150714T160201
+DTSTAMP:20150716T214217
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45451
 UID:http://www.oscon.com/open-source-2015--s2015-07-24-12:05--45451
@@ -3620,18 +3679,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T100500
 DTSTART;TZID=US/Pacific:20150722T100000
-DTSTAMP:20150715T210037
+DTSTAMP:20150722T205056
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45479
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:00--45479
-SUMMARY:Keynote by Jim Zemlin
-DESCRIPTION:Presented by Jim Zemlin (The Linux Foundation). Details to c
- ome
+SUMMARY:Advancing open containers through Pan-Industry collaboration
+DESCRIPTION:Presented by Jim Zemlin (The Linux Foundation). Jim will pro
+ vide an update on the latest news from the open source community regardi
+ ng containers technologies. The Open Container Initiative, formerly know
+ n as the Open Container Project, was announced just last month and Zemli
+ n will share the latest information on these efforts and what comes next
+ .
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150722T210000
+DTEND;TZID=US/Pacific:20150722T203000
 DTSTART;TZID=US/Pacific:20150722T190000
-DTSTAMP:20150714T155339
+DTSTAMP:20150716T214044
 LOCATION:Leftbank Annex
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44708
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-19:00--44708
@@ -3642,20 +3705,9 @@ DESCRIPTION:It’s time to celebrate! Are you planning to attend OSCON? Th
  t, Portland Oregon 97227, to celebrate five years of OpenStack.
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150721T180000
-DTSTART;TZID=US/Pacific:20150721T170000
-DTSTAMP:20150707T203347
-LOCATION:Expo Hall
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42523
-UID:http://www.oscon.com/open-source-2015--s2015-07-21-17:00--42523
-SUMMARY:Expo Hall Opening Reception (Sponsored by PayPal)
-DESCRIPTION:Grab a drink and kick off OSCON by meeting and mingling with
-  exhibitors and fellow attendees.
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T190000
 DTSTART;TZID=US/Pacific:20150722T174000
-DTSTAMP:20150708T200051
+DTSTAMP:20150716T214008
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42522
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:40--42522
@@ -3666,7 +3718,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T104000
 DTSTART;TZID=US/Pacific:20150722T101000
-DTSTAMP:20150709T210231
+DTSTAMP:20150722T175523
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45364
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:10--45364
@@ -3678,18 +3730,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T134000
 DTSTART;TZID=US/Pacific:20150722T121000
-DTSTAMP:20150708T200248
+DTSTAMP:20150716T214158
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45366
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-12:10--45366
-SUMMARY:Wednesday Lunch / Ask Me Anything About chats
+SUMMARY:Wednesday Lunch (Sponsored by HP) / Ask Me Anything About chats
 DESCRIPTION:Join O'Reilly speakers for informal question and answer sess
  ions.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T161000
 DTSTART;TZID=US/Pacific:20150722T151000
-DTSTAMP:20150708T200235
+DTSTAMP:20150716T214159
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45367
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-15:10--45367
@@ -3701,7 +3753,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T104000
 DTSTART;TZID=US/Pacific:20150723T101000
-DTSTAMP:20150714T180914
+DTSTAMP:20150716T214200
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45369
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-10:10--45369
@@ -3713,7 +3765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T134000
 DTSTART;TZID=US/Pacific:20150723T121000
-DTSTAMP:20150714T180105
+DTSTAMP:20150719T184112
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45370
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-12:10--45370
@@ -3724,7 +3776,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T161000
 DTSTART;TZID=US/Pacific:20150723T151000
-DTSTAMP:20150708T200141
+DTSTAMP:20150719T184103
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45372
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-15:10--45372
@@ -3734,10 +3786,21 @@ DESCRIPTION:Join O’Reilly speakers for informal question and answer sess
  ions.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150721T180000
+DTSTART;TZID=US/Pacific:20150721T170000
+DTSTAMP:20150722T174516
+LOCATION:Expo Hall
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42523
+UID:http://www.oscon.com/open-source-2015--s2015-07-21-17:00--42523
+SUMMARY:Expo Hall Opening Reception (Sponsored by PayPal)
+DESCRIPTION:Grab a drink and kick off OSCON by meeting and mingling with
+  exhibitors and fellow attendees.
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T230000
 DTSTART;TZID=US/Pacific:20150720T203000
-DTSTAMP:20150714T221302
-LOCATION:Ankeny Plaza Pavilion
+DTSTAMP:20150722T045632
+LOCATION:Ankeny Plaza Pavilion (near Skidmore Fountain MAX stop)
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42524
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-20:30--42524
 SUMMARY:OSCON 5K Glow Run and After Party (Sponsored by IBM Cloudant, Mi
@@ -3752,12 +3815,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T200000
 DTSTART;TZID=US/Pacific:20150721T180000
-DTSTAMP:20150630T181624
+DTSTAMP:20150722T174629
 LOCATION:Hall B
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44869
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-18:00--44869
-SUMMARY:OSCON Attendee Party (Co-sponsored by Aerospike, HP Helion and W
- ipro)
+SUMMARY:OSComic Attendee Party (Co-sponsored by Aerospike, HP Helion and
+  Wipro)
 DESCRIPTION:We’ve always suspected our attendees possess super powers an
  d the OSComic attendee party is the perfect place to prove it. You can t
  est your super skills in the Superhero Training Center, then lounge like
@@ -3768,8 +3831,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T220000
 DTSTART;TZID=US/Pacific:20150721T200000
-DTSTAMP:20150623T040142
-LOCATION:Puppet Labs Headquarters
+DTSTAMP:20150722T051516
+LOCATION:Puppet Labs Headquarters (308 SW 2nd Ave., 5th Fl)
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44631
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-20:00--44631
 SUMMARY:Puppet Labs Party
@@ -3777,22 +3840,9 @@ DESCRIPTION:Join Puppet Labs for our OSCON “Open” House Party! We are ex
  cited to open our doors to all our OSCON and Puppet Labs Friends.
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=US/Pacific:20150723T200000
-DTSTART;TZID=US/Pacific:20150723T180000
-DTSTAMP:20150707T211254
-LOCATION:Spirit of 77 Bar and Lounge
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45347
-UID:http://www.oscon.com/open-source-2015--s2015-07-23-18:00--45347
-SUMMARY:@Walmart Labs Tech Mixer
-DESCRIPTION:Come join our Walmart eCommerce CTO and Engineering members 
- for an evening full of free bites + brews, mingling and networking on Th
- ursday, July 23rd, 6pm-8pm at Spirit of 77 Bar (across from the conventi
- on center)
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T203000
 DTSTART;TZID=US/Pacific:20150720T190000
-DTSTAMP:20150713T193532
+DTSTAMP:20150722T021304
 LOCATION:D136, D137/138, D139/140, E145/146, E147/E148, E141, E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44726
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-19:00--44726
@@ -3804,9 +3854,22 @@ DESCRIPTION:Birds of a Feather (BoF) sessions provide face to face expos
  rovide the space and time. You provide the engaging topic.
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20150723T200000
+DTSTART;TZID=US/Pacific:20150723T180000
+DTSTAMP:20150716T214151
+LOCATION:Spirit of 77 Bar and Lounge
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45347
+UID:http://www.oscon.com/open-source-2015--s2015-07-23-18:00--45347
+SUMMARY:@Walmart Labs Tech Mixer
+DESCRIPTION:Come join our Walmart eCommerce CTO and Engineering members 
+ for an evening full of free bites + brews, mingling and networking on Th
+ ursday, July 23rd, 6pm-8pm at Spirit of 77 Bar (across from the conventi
+ on center)
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T220000
 DTSTART;TZID=US/Pacific:20150722T203000
-DTSTAMP:20150713T193604
+DTSTAMP:20150716T214046
 LOCATION:D135/136, D137/138, D139/140, E141, E142, E145, E146, E147/E148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44727
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-20:30--44727
@@ -3820,7 +3883,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T220000
 DTSTART;TZID=US/Pacific:20150723T200000
-DTSTAMP:20150713T193630
+DTSTAMP:20150716T214047
 LOCATION:D135/136, D137/138, D139/140, E145, E146, E147/E148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44728
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-20:00--44728
