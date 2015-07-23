@@ -43,9 +43,9 @@
     "start": "2015-07-22 10:40:00-07:00", 
     "end": "2015-07-22 11:20:00-07:00", 
     "description": "DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform, and has been running Docker in production since about October 2013 (well before it even went 1.0). This talk goes into detail about we use Docker to make development more consistent and deployment more repeatable.", 
-    "author": "Bridget Kromhout (DramaFever)", 
-    "url": "http://www.oscon.com/open-source-2015/public/schedule/detail/42037", 
-    "raw_description": "Presented by Bridget Kromhout (DramaFever). DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform, and has been running Docker in production since about October 2013 (well before it even went 1.0). This talk goes into detail about we use Docker to make development more consistent and deployment more repeatable.", 
+    "author": "", 
+    "url": "http://www.oscon.com/open-source-2015/public/schedule/detail/45822", 
+    "raw_description": "DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform, and has been running Docker in production since about October 2013 (well before it even went 1.0). This talk goes into detail about we use Docker to make development more consistent and deployment more repeatable.", 
     "title": "Docker in production: Reality, not hype", 
     "room": "Portland 251"
   }, 
@@ -292,11 +292,11 @@
   {
     "start": "2015-07-23 11:30:00-07:00", 
     "end": "2015-07-23 12:10:00-07:00", 
-    "description": "Most data scientists will tell you they spend a greater percent of their time munging data than they do building predictive models. In this session, learn how to spend less time writing queries and more time building models, by combining the flexibility of a NoSQL graph database with R\u2014an open source statistical programming language\u2014to analyze Twitter data in a reproducible, low-effort workflow.", 
-    "author": "Nicole White (Neo4j)", 
-    "url": "http://www.oscon.com/open-source-2015/public/schedule/detail/41967", 
-    "raw_description": "Presented by Nicole White (Neo4j). Most data scientists will tell you they spend a greater percent of their time munging data than they do building predictive models. In this session, learn how to spend less time writing queries and more time building models, by combining the flexibility of a NoSQL graph database with R\u2014an open source statistical programming language\u2014to analyze Twitter data in a reproducible, low-effort workflow.", 
-    "title": "Open source data science with NoSQL and R", 
+    "description": "DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform, and has been running Docker in production since about October 2013 (well before it even went 1.0). This talk goes into detail about we use Docker to make development more consistent and deployment more repeatable.", 
+    "author": "Bridget Kromhout (DramaFever)", 
+    "url": "http://www.oscon.com/open-source-2015/public/schedule/detail/42037", 
+    "raw_description": "Presented by Bridget Kromhout (DramaFever). DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform, and has been running Docker in production since about October 2013 (well before it even went 1.0). This talk goes into detail about we use Docker to make development more consistent and deployment more repeatable.", 
+    "title": "Docker in production: Reality, not hype", 
     "room": "Portland 252"
   }, 
   {
@@ -332,11 +332,11 @@
   {
     "start": "2015-07-23 17:00:00-07:00", 
     "end": "2015-07-23 17:40:00-07:00", 
-    "description": "IT is undergoing a revolution, and database administration is no exception. As Ops teams evolve to reliability engineers, developers and traditional systems administrators find themselves diving into the world of the DBA. In this session, we take the model of site reliability engineering and guide you through the components of the craft of DB architecture/operations in that context.", 
+    "description": "_THIS TALK HAS BEEN CANCELED_", 
     "author": "Charity Majors (Parse/Facebook)", 
     "url": "http://www.oscon.com/open-source-2015/public/schedule/detail/41146", 
-    "raw_description": "Presented by Charity Majors (Parse/Facebook). IT is undergoing a revolution, and database administration is no exception. As Ops teams evolve to reliability engineers, developers and traditional systems administrators find themselves diving into the world of the DBA. In this session, we take the model of site reliability engineering and guide you through the components of the craft of DB architecture/operations in that context.", 
-    "title": "Database reliability engineering, modernizing the DBA role", 
+    "raw_description": "Presented by Charity Majors (Parse/Facebook). _THIS TALK HAS BEEN CANCELED_", 
+    "title": "CANCELED: Database reliability engineering, modernizing the DBA role", 
     "room": "Portland 252"
   }, 
   {

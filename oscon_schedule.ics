@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150722T163059
+DTSTAMP:20150722T225729
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42506
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--42506
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T174411
+DTSTAMP:20150723T120237
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41041
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41041
@@ -68,22 +68,21 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T205432
+DTSTAMP:20150723T153847
 LOCATION:Portland 251
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42037
-UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42037
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45822
+UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--45822
 SUMMARY:Docker in production: Reality, not hype
-DESCRIPTION:Presented by Bridget Kromhout (DramaFever). DramaFever, the 
- largest streaming video site for international content, uses AWS to powe
- r its streaming video platform, and has been running Docker in productio
- n since about October 2013 (well before it even went 1.0). This talk goe
- s into detail about we use Docker to make development more consistent an
- d deployment more repeatable.
+DESCRIPTION:DramaFever, the largest streaming video site for internation
+ al content, uses AWS to power its streaming video platform, and has been
+  running Docker in production since about October 2013 (well before it e
+ ven went 1.0). This talk goes into detail about we use Docker to make de
+ velopment more consistent and deployment more repeatable.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T205439
+DTSTAMP:20150723T142736
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42001
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42001
@@ -98,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213805
+DTSTAMP:20150723T003712
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40593
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--40593
@@ -112,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150722T193704
+DTSTAMP:20150723T143249
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40462
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--40462
@@ -127,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213829
+DTSTAMP:20150723T034345
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41359
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41359
@@ -142,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213912
+DTSTAMP:20150723T145729
 LOCATION:Portland 251
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41816
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41816
@@ -297,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150722T004858
+DTSTAMP:20150723T041752
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41534
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--41534
@@ -314,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T203424
+DTSTAMP:20150723T151828
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42004
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42004
@@ -328,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T175656
+DTSTAMP:20150723T120316
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40461
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--40461
@@ -343,7 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T184855
+DTSTAMP:20150723T053934
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41539
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41539
@@ -360,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T202649
+DTSTAMP:20150723T001156
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41644
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41644
@@ -375,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213808
+DTSTAMP:20150723T143212
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40721
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--40721
@@ -389,7 +388,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213944
+DTSTAMP:20150723T032301
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42200
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42200
@@ -404,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213841
+DTSTAMP:20150723T150552
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41489
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41489
@@ -420,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213809
+DTSTAMP:20150723T005551
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41002
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41002
@@ -450,18 +449,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T121000
 DTSTART;TZID=US/Pacific:20150723T113000
-DTSTAMP:20150716T213919
+DTSTAMP:20150723T153037
 LOCATION:Portland 252
-URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41967
-UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--41967
-SUMMARY:Open source data science with NoSQL and R
-DESCRIPTION:Presented by Nicole White (Neo4j). Most data scientists will
-  tell you they spend a greater percent of their time munging data than t
- hey do building predictive models. In this session, learn how to spend l
- ess time writing queries and more time building models, by combining the
-  flexibility of a NoSQL graph database with R—an open source statistical
-  programming language—to analyze Twitter data in a reproducible, low-eff
- ort workflow.
+URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42037
+UID:http://www.oscon.com/open-source-2015--s2015-07-23-11:30--42037
+SUMMARY:Docker in production: Reality, not hype
+DESCRIPTION:Presented by Bridget Kromhout (DramaFever). DramaFever, the 
+ largest streaming video site for international content, uses AWS to powe
+ r its streaming video platform, and has been running Docker in productio
+ n since about October 2013 (well before it even went 1.0). This talk goe
+ s into detail about we use Docker to make development more consistent an
+ d deployment more repeatable.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T142000
@@ -512,18 +510,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T174000
 DTSTART;TZID=US/Pacific:20150723T170000
-DTSTAMP:20150716T213815
+DTSTAMP:20150723T135451
 LOCATION:Portland 252
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41146
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-17:00--41146
-SUMMARY:Database reliability engineering, modernizing the DBA role
-DESCRIPTION:Presented by Charity Majors (Parse/Facebook). IT is undergoi
- ng a revolution, and database administration is no exception. As Ops tea
- ms evolve to reliability engineers, developers and traditional systems a
- dministrators find themselves diving into the world of the DBA. In this 
- session, we take the model of site reliability engineering and guide you
-  through the components of the craft of DB architecture/operations in th
- at context.
+SUMMARY:CANCELED: Database reliability engineering, modernizing the DBA 
+ role
+DESCRIPTION:Presented by Charity Majors (Parse/Facebook). _THIS TALK HAS
+  BEEN CANCELED_
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150724T104000
@@ -558,7 +552,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150722T203947
+DTSTAMP:20150723T151750
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42203
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42203
@@ -588,7 +582,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T203458
+DTSTAMP:20150722T212222
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42342
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42342
@@ -604,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T203404
+DTSTAMP:20150723T011028
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42529
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42529
@@ -620,7 +614,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T203005
+DTSTAMP:20150722T235737
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42193
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42193
@@ -636,7 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T202237
+DTSTAMP:20150722T233419
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41574
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41574
@@ -651,7 +645,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213810
+DTSTAMP:20150723T050231
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41029
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41029
@@ -666,7 +660,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213839
+DTSTAMP:20150723T155601
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41475
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41475
@@ -678,7 +672,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150717T161650
+DTSTAMP:20150723T040156
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42173
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--42173
@@ -694,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213948
+DTSTAMP:20150723T150425
 LOCATION:Portland 255
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42272
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42272
@@ -834,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T205134
+DTSTAMP:20150723T154013
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40470
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--40470
@@ -850,7 +844,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T194416
+DTSTAMP:20150723T033618
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41808
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41808
@@ -866,7 +860,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150722T204622
+DTSTAMP:20150723T154405
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42294
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42294
@@ -882,7 +876,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213932
+DTSTAMP:20150723T034332
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42073
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42073
@@ -898,7 +892,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213804
+DTSTAMP:20150723T145350
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40555
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--40555
@@ -914,7 +908,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213948
+DTSTAMP:20150723T142551
 LOCATION: Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42228
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42228
@@ -1065,7 +1059,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T192546
+DTSTAMP:20150723T033339
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41094
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41094
@@ -1080,7 +1074,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T214015
+DTSTAMP:20150723T013340
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42625
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42625
@@ -1096,7 +1090,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213759
+DTSTAMP:20150722T233341
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40414
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--40414
@@ -1112,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213755
+DTSTAMP:20150723T154520
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40312
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--40312
@@ -1129,7 +1123,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213850
+DTSTAMP:20150723T155626
 LOCATION:D135/136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41568
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41568
@@ -1312,7 +1306,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T203503
+DTSTAMP:20150723T155247
 LOCATION:D136
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42458
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42458
@@ -1369,7 +1363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T001621
+DTSTAMP:20150722T225647
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41969
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--41969
@@ -1382,7 +1376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T183549
+DTSTAMP:20150723T150943
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42069
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42069
@@ -1395,7 +1389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T192550
+DTSTAMP:20150723T155557
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44987
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--44987
@@ -1410,7 +1404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213915
+DTSTAMP:20150722T230513
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41864
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41864
@@ -1426,7 +1420,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213842
+DTSTAMP:20150723T144122
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41505
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41505
@@ -1439,7 +1433,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150721T044248
+DTSTAMP:20150723T000614
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40410
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--40410
@@ -1455,7 +1449,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213950
+DTSTAMP:20150723T010257
 LOCATION:D137/138
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42290
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42290
@@ -1589,7 +1583,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150721T004052
+DTSTAMP:20150723T041707
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42512
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42512
@@ -1621,7 +1615,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150721T211415
+DTSTAMP:20150723T155134
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42077
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--42077
@@ -1636,7 +1630,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T084950
+DTSTAMP:20150723T031357
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42495
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42495
@@ -1649,7 +1643,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T183604
+DTSTAMP:20150723T155643
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42151
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--42151
@@ -1663,7 +1657,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T205145
+DTSTAMP:20150722T212459
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42014
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42014
@@ -1681,7 +1675,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213923
+DTSTAMP:20150723T155728
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41989
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41989
@@ -1695,7 +1689,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213921
+DTSTAMP:20150723T061314
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41975
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41975
@@ -1708,7 +1702,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150721T004303
+DTSTAMP:20150723T155618
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45285
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--45285
@@ -1722,7 +1716,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213926
+DTSTAMP:20150723T154552
 LOCATION:D139/140
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42012
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--42012
@@ -1872,7 +1866,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T133000
-DTSTAMP:20150721T001605
+DTSTAMP:20150723T062109
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41698
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-13:30--41698
@@ -1885,7 +1879,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T203403
+DTSTAMP:20150723T031059
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40630
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--40630
@@ -1901,7 +1895,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T042218
+DTSTAMP:20150722T212231
 LOCATION:E143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42668
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--42668
@@ -1914,7 +1908,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T204414
+DTSTAMP:20150723T001146
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41464
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41464
@@ -1929,7 +1923,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T204422
+DTSTAMP:20150723T054731
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42428
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42428
@@ -1945,7 +1939,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213956
+DTSTAMP:20150723T145015
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42332
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42332
@@ -1961,7 +1955,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213906
+DTSTAMP:20150723T155544
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41781
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--41781
@@ -1977,7 +1971,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213857
+DTSTAMP:20150723T155600
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41632
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41632
@@ -1991,7 +1985,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213756
+DTSTAMP:20150723T155605
 LOCATION:E145
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/40359
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--40359
@@ -2158,7 +2152,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T151859
+DTSTAMP:20150723T111039
 LOCATION:E145/146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41322
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41322
@@ -2173,7 +2167,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T133000
-DTSTAMP:20150722T203441
+DTSTAMP:20150723T011007
 LOCATION:E145/146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41150
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-13:30--41150
@@ -2201,7 +2195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T192547
+DTSTAMP:20150723T144811
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41838
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--41838
@@ -2217,7 +2211,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213840
+DTSTAMP:20150723T150318
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41487
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--41487
@@ -2233,7 +2227,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T213941
+DTSTAMP:20150723T053632
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42186
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42186
@@ -2249,7 +2243,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213828
+DTSTAMP:20150723T151521
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41337
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--41337
@@ -2264,7 +2258,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213900
+DTSTAMP:20150723T005552
 LOCATION:E146
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41659
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41659
@@ -2405,7 +2399,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T192509
+DTSTAMP:20150723T041859
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41183
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--41183
@@ -2420,7 +2414,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T201452
+DTSTAMP:20150722T212723
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42013
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--42013
@@ -2433,7 +2427,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T213959
+DTSTAMP:20150722T213546
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42389
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--42389
@@ -2449,7 +2443,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T214019
+DTSTAMP:20150723T154419
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42675
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--42675
@@ -2462,7 +2456,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150716T213955
+DTSTAMP:20150723T000617
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42319
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--42319
@@ -2479,7 +2473,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T213833
+DTSTAMP:20150723T005552
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41412
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--41412
@@ -2614,7 +2608,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T195405
+DTSTAMP:20150723T054018
 LOCATION:D133
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41752
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--41752
@@ -2675,7 +2669,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T153634
+DTSTAMP:20150723T011116
 LOCATION:F150
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43976
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--43976
@@ -2690,7 +2684,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T065332
+DTSTAMP:20150723T064026
 LOCATION:F151
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45257
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--45257
@@ -2707,7 +2701,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T123000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150722T173907
+DTSTAMP:20150723T154908
 LOCATION:F151
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/41300
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--41300
@@ -2737,7 +2731,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T100000
-DTSTAMP:20150722T001626
+DTSTAMP:20150722T210909
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45281
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-10:00--45281
@@ -2750,7 +2744,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T112000
 DTSTART;TZID=US/Pacific:20150722T104000
-DTSTAMP:20150722T183551
+DTSTAMP:20150723T004705
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44902
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:40--44902
@@ -2804,7 +2798,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T214117
+DTSTAMP:20150723T005554
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44969
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--44969
@@ -2820,7 +2814,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T214127
+DTSTAMP:20150722T230901
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45053
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--45053
@@ -2851,7 +2845,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T123000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T194900
+DTSTAMP:20150722T223709
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45263
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--45263
@@ -2882,7 +2876,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T214148
+DTSTAMP:20150723T033814
 LOCATION:E141
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45327
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--45327
@@ -2990,7 +2984,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150716T214125
+DTSTAMP:20150722T213546
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44997
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--44997
@@ -3006,7 +3000,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T214115
+DTSTAMP:20150723T000336
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44962
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--44962
@@ -3051,7 +3045,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T165000
 DTSTART;TZID=US/Pacific:20150722T161000
-DTSTAMP:20150721T061709
+DTSTAMP:20150723T033809
 LOCATION:E142
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45357
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-16:10--45357
@@ -3114,7 +3108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T121000
 DTSTART;TZID=US/Pacific:20150722T113000
-DTSTAMP:20150722T192549
+DTSTAMP:20150723T151317
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44931
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-11:30--44931
@@ -3177,7 +3171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T151000
 DTSTART;TZID=US/Pacific:20150722T143000
-DTSTAMP:20150716T214134
+DTSTAMP:20150723T155554
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45251
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-14:30--45251
@@ -3205,7 +3199,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T174000
 DTSTART;TZID=US/Pacific:20150722T170000
-DTSTAMP:20150716T214215
+DTSTAMP:20150723T005554
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45438
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:00--45438
@@ -3222,7 +3216,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T142000
 DTSTART;TZID=US/Pacific:20150722T134000
-DTSTAMP:20150721T024256
+DTSTAMP:20150723T155535
 LOCATION:E 143/144
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45724
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-13:40--45724
@@ -3379,7 +3373,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150722T183313
+DTSTAMP:20150723T010535
 LOCATION:E147/148
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42797
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--42797
@@ -3394,7 +3388,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T170000
 DTSTART;TZID=US/Pacific:20150720T090000
-DTSTAMP:20150721T001607
+DTSTAMP:20150722T230533
 LOCATION:Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43152
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-09:00--43152
@@ -3409,7 +3403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T170000
 DTSTART;TZID=US/Pacific:20150721T090000
-DTSTAMP:20150722T001624
+DTSTAMP:20150722T230723
 LOCATION:Portland 256
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/43171
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-09:00--43171
@@ -3478,7 +3472,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150723T090500
 DTSTART;TZID=US/Pacific:20150723T090000
-DTSTAMP:20150716T214107
+DTSTAMP:20150723T150901
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44925
 UID:http://www.oscon.com/open-source-2015--s2015-07-23-09:00--44925
@@ -3533,7 +3527,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T090500
 DTSTART;TZID=US/Pacific:20150722T090000
-DTSTAMP:20150722T184553
+DTSTAMP:20150723T155357
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44994
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:00--44994
@@ -3546,7 +3540,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T093000
 DTSTART;TZID=US/Pacific:20150722T092000
-DTSTAMP:20150722T184619
+DTSTAMP:20150723T154400
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44737
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:20--44737
@@ -3560,7 +3554,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T094500
 DTSTART;TZID=US/Pacific:20150722T093000
-DTSTAMP:20150722T205422
+DTSTAMP:20150723T143528
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44992
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:30--44992
@@ -3575,7 +3569,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T100000
 DTSTART;TZID=US/Pacific:20150722T095500
-DTSTAMP:20150722T205039
+DTSTAMP:20150723T143622
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44917
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:55--44917
@@ -3591,7 +3585,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T095500
 DTSTART;TZID=US/Pacific:20150722T094500
-DTSTAMP:20150722T205004
+DTSTAMP:20150723T150428
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44895
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:45--44895
@@ -3607,7 +3601,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T092000
 DTSTART;TZID=US/Pacific:20150722T090500
-DTSTAMP:20150722T184608
+DTSTAMP:20150723T154351
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44937
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-09:05--44937
@@ -3679,7 +3673,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T100500
 DTSTART;TZID=US/Pacific:20150722T100000
-DTSTAMP:20150722T205056
+DTSTAMP:20150723T150455
 LOCATION:Portland Ballroom
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45479
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-10:00--45479
@@ -3707,7 +3701,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T190000
 DTSTART;TZID=US/Pacific:20150722T174000
-DTSTAMP:20150716T214008
+DTSTAMP:20150723T155640
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42522
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-17:40--42522
@@ -3730,7 +3724,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T134000
 DTSTART;TZID=US/Pacific:20150722T121000
-DTSTAMP:20150716T214158
+DTSTAMP:20150722T230554
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45366
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-12:10--45366
@@ -3741,7 +3735,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150722T161000
 DTSTART;TZID=US/Pacific:20150722T151000
-DTSTAMP:20150716T214159
+DTSTAMP:20150723T154428
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/45367
 UID:http://www.oscon.com/open-source-2015--s2015-07-22-15:10--45367
@@ -3788,7 +3782,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T180000
 DTSTART;TZID=US/Pacific:20150721T170000
-DTSTAMP:20150722T174516
+DTSTAMP:20150722T220056
 LOCATION:Expo Hall
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42523
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-17:00--42523
@@ -3799,7 +3793,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150720T230000
 DTSTART;TZID=US/Pacific:20150720T203000
-DTSTAMP:20150722T045632
+DTSTAMP:20150722T230713
 LOCATION:Ankeny Plaza Pavilion (near Skidmore Fountain MAX stop)
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/42524
 UID:http://www.oscon.com/open-source-2015--s2015-07-20-20:30--42524
@@ -3815,7 +3809,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=US/Pacific:20150721T200000
 DTSTART;TZID=US/Pacific:20150721T180000
-DTSTAMP:20150722T174629
+DTSTAMP:20150722T220146
 LOCATION:Hall B
 URL:http://www.oscon.com/open-source-2015/public/schedule/detail/44869
 UID:http://www.oscon.com/open-source-2015--s2015-07-21-18:00--44869
