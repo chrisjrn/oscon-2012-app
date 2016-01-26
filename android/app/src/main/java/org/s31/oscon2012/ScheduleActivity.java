@@ -69,9 +69,9 @@ public class ScheduleActivity extends Activity {
 		mShowCurrentSessionMode = false;
 
 		Calendar startOfConference = Calendar.getInstance(Config.confTimeZone);
-		startOfConference.set(Schedule.YEAR, Schedule.MONTH + 1, Schedule.FIRST_DAY, 0, 0);
+		startOfConference.set(Schedule.YEAR, Schedule.MONTH , Schedule.FIRST_DAY, 0, 0);
 		Calendar endOfConference = Calendar.getInstance(Config.confTimeZone);
-		endOfConference.set(Schedule.YEAR, Schedule.MONTH + 1, Schedule.FIRST_DAY + 4, 23, 55);
+		endOfConference.set(Schedule.YEAR, Schedule.MONTH, Schedule.FIRST_DAY + 4, 23, 55);
 		Calendar c = Calendar.getInstance(Config.confTimeZone);
 		c.setTimeInMillis(System.currentTimeMillis());
 		// c.set(2012, Calendar.JULY, 18, 11, 11); // FORCE TIME TO BE 11AM
@@ -84,12 +84,12 @@ public class ScheduleActivity extends Activity {
 			mShowCurrentSessionMode = true;
 			if (c.before(startOfConference) || c.after(endOfConference)) {
 				day = 0;
-				c.set(Schedule.YEAR, Schedule.MONTH + 1, day + Schedule.FIRST_DAY, 0, 0);
+				c.set(Schedule.YEAR, Schedule.MONTH, day + Schedule.FIRST_DAY, 0, 0);
 			}
 		}
 
 		if (!mShowCurrentSessionMode) {
-			c.set(Schedule.YEAR, Schedule.MONTH + 1, day + Schedule.FIRST_DAY, 0, 0);
+			c.set(Schedule.YEAR, Schedule.MONTH, day + Schedule.FIRST_DAY, 0, 0);
 		}
 
 		// If we're in current sessions mode, then we don't want a home button!

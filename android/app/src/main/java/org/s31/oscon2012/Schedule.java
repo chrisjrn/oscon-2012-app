@@ -18,7 +18,7 @@ import com.google.gson.reflect.TypeToken;
 public class Schedule {
 
 	public static final int YEAR = 2016;
-	public static final int MONTH = 2;
+	public static final int MONTH = Calendar.FEBRUARY;
 	public static final int FIRST_DAY = 1;
 
 	public static List<TimeSlot> mTimeSlots;
@@ -86,9 +86,9 @@ public class Schedule {
 
 	public static List<TimeSlot> timeSlotsForDay(int year, int month, int day) {
 		Calendar c = newCalendar();
-		c.set(year, month - 1, day, 0, 0, 0);
+		c.set(year, month, day, 0, 0, 0);
 		Calendar d = newCalendar();
-		d.set(year, month - 1, day, 23, 59, 59);
+		d.set(year, month, day, 23, 59, 59);
 
 		ArrayList<TimeSlot> slots = new ArrayList<TimeSlot>();
 		for (TimeSlot t : mTimeSlots) {
@@ -113,19 +113,17 @@ public class Schedule {
 
 		Calendar c, d; // = Calendar.getInstance(Config.confTimeZone);
 		int[][] boundaries = new int[][] {
-				new int[] { 9, 0, 12, 30, 13, 30, 17, 00, 17, 30, 22, 00 },
-				new int[] { 9, 0, 12, 30, 13, 30, 17, 00, 17, 00, 22, 00 },
-				new int[] { 8, 45, 10, 10, 10, 40, 11, 20, 11, 30, 12, 10, 13,
-						40, 14, 20, 14, 30, 15, 10, 16, 10, 16, 50, 17, 00, 17,
-						40, 17, 40, 22, 00 },
-				new int[] { 9, 0, 10, 10, 10, 40, 11, 20, 11, 30, 12, 10, 13,
-						40, 14, 20, 14, 30, 15, 10, 16, 10, 16, 50, 17, 00, 17,
-						40, 17, 40, 22, 00 },
-				new int[] { 9, 0, 9, 50, 10, 00, 10, 40, 11, 10, 11, 50, 12,
-						00, 12, 30, 12, 30, 13, 30 } };
+				new int[] { 9, 00, 10, 00, 10, 40, 12, 20, 13, 20, 15, 00, 15, 40, 17, 20, 17, 20, 23, 59},
+				new int[] { 9, 00, 10, 00, 10, 40, 12, 20, 13, 20, 15, 00, 15, 40, 17, 20, 17, 20, 23, 59},
+				new int[] { 9, 00, 10, 00, 10, 40, 11, 25, 11, 35, 12, 20, 13, 20, 14, 05, 14, 15, 15, 00,
+						15, 40, 16, 25, 16, 35, 17, 20, 17, 20, 23, 59},
+				new int[] { 9, 00, 10, 00, 10, 40, 11, 25, 11, 35, 12, 20, 13, 20, 14, 05, 14, 15, 15, 00,
+						15, 40, 16, 25, 16, 35, 17, 20, 17, 20, 23, 59},
+				new int[] { 9, 00, 10, 00, 10, 40, 11, 25, 11, 35, 12, 20, 13, 20, 14, 05, 14, 15, 15, 00,
+						15, 40, 17, 30, 17, 30, 23, 59}};
 		int tsid = 0;
 		int year = YEAR;
-		int month = 7 - 1; // I HATE JAVA
+		int month = MONTH; // I HATE JAVA
 		int day = FIRST_DAY;
 		for (int i = 0; i < boundaries.length; i++) {
 			for (int j = 0; j < boundaries[i].length; j += 4) {
