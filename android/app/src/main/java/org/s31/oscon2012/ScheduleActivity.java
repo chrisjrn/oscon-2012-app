@@ -99,7 +99,7 @@ public class ScheduleActivity extends Activity {
 				Locale.US));
 
 		Log.v("ScheduleActivity", "Loading day: " + day + " // " + (day + 16));
-		List<TimeSlot> t = Schedule.timeSlotsForDay(Schedule.YEAR, 7, Schedule.FIRST_DAY + day);
+		List<TimeSlot> t = Schedule.timeSlotsForDay(Schedule.YEAR, Schedule.MONTH, Schedule.FIRST_DAY + day);
 
 		TimeSlot pts = new TimeSlot(9999, t.get(0).start, t.get(0).start);
 

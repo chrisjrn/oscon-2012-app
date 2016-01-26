@@ -17,8 +17,9 @@ import com.google.gson.reflect.TypeToken;
 
 public class Schedule {
 
-	public static final int YEAR = 2015;
-	public static final int FIRST_DAY = 20;
+	public static final int YEAR = 2016;
+	public static final int MONTH = 2;
+	public static final int FIRST_DAY = 1;
 
 	public static List<TimeSlot> mTimeSlots;
 	public static List<Event> mSchedule;
