@@ -11,6 +11,8 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 
+import com.chrisjrn.lca2016.R;
+
 public class DayListFragment extends ListFragment {
 
 	@Override

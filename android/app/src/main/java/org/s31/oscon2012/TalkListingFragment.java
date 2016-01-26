@@ -19,6 +19,8 @@ import android.view.ViewGroup;
 import android.widget.ShareActionProvider;
 import android.widget.TextView;
 
+import com.chrisjrn.lca2016.R;
+
 public class TalkListingFragment extends Fragment {
 
 	public String mTitle;

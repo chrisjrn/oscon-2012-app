@@ -11,6 +11,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+import com.chrisjrn.lca2016.R;
+
 public class TalkListingActivity extends Activity {
 
 	@Override

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.1"
 
     defaultConfig {
-        applicationId "org.s31.oscon2012"
+        applicationId "com.chrisjrn.lca2016"
         minSdkVersion 15
         targetSdkVersion 15
     }

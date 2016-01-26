@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import com.chrisjrn.lca2016.R;
+
 
 public class ScheduleAdapter extends ArrayAdapter<Event> {
 

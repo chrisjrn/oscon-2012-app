@@ -16,6 +16,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+import com.chrisjrn.lca2016.R;
+
 public class ScheduleActivity extends Activity {
 
 	public static SimpleDateFormat timeOnly;
@@ -67,9 +69,9 @@ public class ScheduleActivity extends Activity {
 		mShowCurrentSessionMode = false;
 
 		Calendar startOfConference = Calendar.getInstance(Config.confTimeZone);
-		startOfConference.set(Schedule.YEAR, Calendar.JULY, Schedule.FIRST_DAY, 0, 0);
+		startOfConference.set(Schedule.YEAR, Schedule.MONTH + 1, Schedule.FIRST_DAY, 0, 0);
 		Calendar endOfConference = Calendar.getInstance(Config.confTimeZone);
-		endOfConference.set(Schedule.YEAR, Calendar.JULY, Schedule.FIRST_DAY + 4, 23, 55);
+		endOfConference.set(Schedule.YEAR, Schedule.MONTH + 1, Schedule.FIRST_DAY + 4, 23, 55);
 		Calendar c = Calendar.getInstance(Config.confTimeZone);
 		c.setTimeInMillis(System.currentTimeMillis());
 		// c.set(2012, Calendar.JULY, 18, 11, 11); // FORCE TIME TO BE 11AM
@@ -82,12 +84,12 @@ public class ScheduleActivity extends Activity {
 			mShowCurrentSessionMode = true;
 			if (c.before(startOfConference) || c.after(endOfConference)) {
 				day = 0;
-				c.set(Schedule.YEAR, Calendar.JULY, day + Schedule.FIRST_DAY, 0, 0);
+				c.set(Schedule.YEAR, Schedule.MONTH + 1, day + Schedule.FIRST_DAY, 0, 0);
 			}
 		}
 
 		if (!mShowCurrentSessionMode) {
-			c.set(Schedule.YEAR, Calendar.JULY, day + Schedule.FIRST_DAY, 0, 0);
+			c.set(Schedule.YEAR, Schedule.MONTH + 1, day + Schedule.FIRST_DAY, 0, 0);
 		}
 
 		// If we're in current sessions mode, then we don't want a home button!
@@ -98,7 +100,7 @@ public class ScheduleActivity extends Activity {
 		setTitle(c.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG,
 				Locale.US));
 
-		Log.v("ScheduleActivity", "Loading day: " + day + " // " + (day + 16));
+		Log.v("ScheduleActivity", "Loading day: " + day + " // " + (day + 1));
 		List<TimeSlot> t = Schedule.timeSlotsForDay(Schedule.YEAR, Schedule.MONTH, Schedule.FIRST_DAY + day);
 
 		TimeSlot pts = new TimeSlot(9999, t.get(0).start, t.get(0).start);

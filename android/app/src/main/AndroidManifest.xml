@@ -7,15 +7,15 @@
     <uses-sdk android:minSdkVersion="15" />
 
     <application
-        android:name=".OsconApplication"
+        android:name="org.s31.oscon2012.OsconApplication"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name=".DayListActivity"
+            android:name="org.s31.oscon2012.DayListActivity"
             android:label="@string/day_list_title" >
         </activity>
         <activity
-            android:name=".ScheduleActivity"
+            android:name="org.s31.oscon2012.ScheduleActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TalkListingActivity"
+            android:name="org.s31.oscon2012.TalkListingActivity"
             android:label="@string/listing_title" >
         </activity>
     </application>
