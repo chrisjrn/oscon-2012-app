@@ -35,7 +35,7 @@ public class Schedule {
 		AssetManager a = c.getAssets();
 		InputStream jsonStream = null;
 		try {
-			jsonStream = a.open("oscon_schedule.json");
+			jsonStream = a.open("schedule.json");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			Log.wtf("Schedule", e.getStackTrace().toString());
