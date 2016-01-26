@@ -1,0 +1,18 @@
+
+import datetime
+
+def ours(d):
+    dt = datetime.datetime.strptime(d["Start"], "%Y-%m-%d %H:%M:%S")
+    j = [int(i) for i in d["Duration"].split(":")]
+    delta = datetime.timedelta(hours=j[0], minutes=j[1], seconds=j[2])
+    #
+    return {
+ "author" : d["Presenters"] if "Presenters" in d else "--",
+ "title" : d["Title"],
+ "description" : d["Description"],
+ "room" : d["Room Name"],
+ "raw_description" : d["Description"],
+ "url" : d["URL"] if "URL" in d else "--",
+"start" : str(dt) + "+11:00",
+"end" : str(dt + delta) + "+11:00"
+}
