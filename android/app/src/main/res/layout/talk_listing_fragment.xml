@@ -16,7 +16,7 @@
             android:id="@+id/talk_listing_header_section"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#770000"
+            android:background="#333377"
             android:padding="10dp"
             android:layout_marginBottom="10dp"
             >
