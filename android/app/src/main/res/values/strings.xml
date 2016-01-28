@@ -2,7 +2,7 @@
 <resources>
 
     <string name="hello">Hello World, TalkListingActivity!</string>
-    <string name="app_name">lca2016 Less Badly</string>
+    <string name="app_name">not lca2016</string>
     <string name="schedule_all_days">All Days</string>
     <string name="schedule_go_to_today">What\'s on now</string>
     <string name="listing_title">Session</string>
