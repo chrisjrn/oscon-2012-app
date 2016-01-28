@@ -7,6 +7,6 @@ import java.util.TimeZone;
 
 public class Config {
 	
-	public static TimeZone confTimeZone = TimeZone.getTimeZone("America/Los_Angeles"); // The timezone for the conference
+	public static TimeZone confTimeZone = TimeZone.getTimeZone("Australia/Melbourne"); // The timezone for the conference
 	
 }
