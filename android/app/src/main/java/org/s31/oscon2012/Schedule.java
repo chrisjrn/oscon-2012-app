@@ -69,10 +69,18 @@ public class Schedule {
 						"" + start + "\n" + end + "\n" + "\n" + e.startDate()
 								+ "\n" + e.endDate());
 			}
+
+			// If the talk starts in this timeslot, add it
 			if (start.compareTo(e.startDate()) <= 0
 					&& end.compareTo(e.endDate()) >= 0) {
+				// This talk fits within this timeslot
+				ev.add(e);
+			} else if (e.startDate().compareTo(start) <= 0 &&
+					e.endDate().compareTo(end) >= 0) {
+				// This timeslot fits within this talk
 				ev.add(e);
 			}
+
 		}
 
 		return ev;
