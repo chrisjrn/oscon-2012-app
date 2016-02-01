@@ -1,5 +1,6 @@
 import datetime
 import json
+import pprint
 import sys
 
 def ours(d):
@@ -19,7 +20,7 @@ def ours(d):
 }
 
 def main():
-    print json.dumps([ours(e) for e in json.load(sys.stdin)])
+    print json.dumps([ours(e) for e in json.load(sys.stdin)], indent=2)
 
 if __name__ == "__main__":
     main()
