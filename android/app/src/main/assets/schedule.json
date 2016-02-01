@@ -772,10 +772,10 @@
   {
     "start": "2016-02-03 13:20:00+11:00", 
     "end": "2016-02-03 15:00:00+11:00", 
-    "description": "FreeIPA is an integrated identity management solution providing\r\ncentralised user, host and service management, authentication and \r\nauthorisation in Linux/UNIX networked environments, with a focus on\r\nease of deployment and management.  It is built on top of well-known\r\nOpen Source technologies and standards including 389 Directory\r\nServer, MIT Kerberos and Dogtag Certificate System.\r\n\r\nThis hand-on workshop will provide participants with a comprehensive\r\nintroduction to FreeIPA including server deployment and\r\nadministration, client machine enrolment, and configuring server\r\nsoftware to use FreeIPA's centralised identity and policy store.\r\n\r\nParticipants will:\r\n\r\n- Install a FreeIPA server and replica\r\n- Enrol client machines in the domain\r\n- Create and administer users\r\n- Manage host-based access control (HBAC) policies\r\n- Issue X.509 certificates for network services\r\n- Configure a web server to use FreeIPA for user authentication and\r\n  access control\r\n\r\nThere will be a number of elective units which participants can\r\nchoose, based on their progress and particular use cases:\r\n\r\n- OTP two-factor authentication\r\n- Advanced certificate management: profiles, sub-CAs and user\r\n  certificates\r\n- OpenSSH key management\r\n- Federated identity with Ipsilon\r\n- User self-service secret management\r\n- ...and more!", 
+    "description": "FreeIPA is an integrated identity management solution providing\r\ncentralised user, host and service management, authentication and \r\nauthorisation in Linux/UNIX networked environments, with a focus on\r\nease of deployment and management.  It is built on top of well-known\r\nOpen Source technologies and standards including 389 Directory\r\nServer, MIT Kerberos and Dogtag Certificate System.\r\n\r\nThis hand-on workshop will provide participants with a comprehensive\r\nintroduction to FreeIPA including server deployment and\r\nadministration, client machine enrolment, and configuring server\r\nsoftware to use FreeIPA's centralised identity and policy store.\r\n\r\nParticipants will:\r\n\r\n- Install a FreeIPA server and replica\r\n- Enrol client machines in the domain\r\n- Create and administer users\r\n- Manage host-based access control (HBAC) policies\r\n- Issue X.509 certificates for network services\r\n- Configure a web server to use FreeIPA for user authentication and\r\n  access control\r\n\r\nThere will be a number of elective units which participants can\r\nchoose, based on their progress and particular use cases:\r\n\r\n- OTP two-factor authentication\r\n- Advanced certificate management: profiles, sub-CAs and user\r\n  certificates\r\n- OpenSSH key management\r\n- Federated identity with Ipsilon\r\n- User self-service secret management\r\n- ...and more!\r\n\r\nIf you are planning to attend the workshop please note that *some preparation is strongly advised*.\r\n\r\nPreparation steps are outlined at\r\nhttps://github.com/freeipa/freeipa-workshop#preparation.\r\n\r\nIn brief, it amounts to \"install Vagrant and VirtualBox, and download the VM image\" so that you are ready to ``vagrant up`` at the start of the workshop.  The `libvirt' provider is also supported.", 
     "author": "Fraser Tweedale", 
     "url": "http://linux.conf.au/schedule/30130/view_talk", 
-    "raw_description": "FreeIPA is an integrated identity management solution providing\r\ncentralised user, host and service management, authentication and \r\nauthorisation in Linux/UNIX networked environments, with a focus on\r\nease of deployment and management.  It is built on top of well-known\r\nOpen Source technologies and standards including 389 Directory\r\nServer, MIT Kerberos and Dogtag Certificate System.\r\n\r\nThis hand-on workshop will provide participants with a comprehensive\r\nintroduction to FreeIPA including server deployment and\r\nadministration, client machine enrolment, and configuring server\r\nsoftware to use FreeIPA's centralised identity and policy store.\r\n\r\nParticipants will:\r\n\r\n- Install a FreeIPA server and replica\r\n- Enrol client machines in the domain\r\n- Create and administer users\r\n- Manage host-based access control (HBAC) policies\r\n- Issue X.509 certificates for network services\r\n- Configure a web server to use FreeIPA for user authentication and\r\n  access control\r\n\r\nThere will be a number of elective units which participants can\r\nchoose, based on their progress and particular use cases:\r\n\r\n- OTP two-factor authentication\r\n- Advanced certificate management: profiles, sub-CAs and user\r\n  certificates\r\n- OpenSSH key management\r\n- Federated identity with Ipsilon\r\n- User self-service secret management\r\n- ...and more!", 
+    "raw_description": "FreeIPA is an integrated identity management solution providing\r\ncentralised user, host and service management, authentication and \r\nauthorisation in Linux/UNIX networked environments, with a focus on\r\nease of deployment and management.  It is built on top of well-known\r\nOpen Source technologies and standards including 389 Directory\r\nServer, MIT Kerberos and Dogtag Certificate System.\r\n\r\nThis hand-on workshop will provide participants with a comprehensive\r\nintroduction to FreeIPA including server deployment and\r\nadministration, client machine enrolment, and configuring server\r\nsoftware to use FreeIPA's centralised identity and policy store.\r\n\r\nParticipants will:\r\n\r\n- Install a FreeIPA server and replica\r\n- Enrol client machines in the domain\r\n- Create and administer users\r\n- Manage host-based access control (HBAC) policies\r\n- Issue X.509 certificates for network services\r\n- Configure a web server to use FreeIPA for user authentication and\r\n  access control\r\n\r\nThere will be a number of elective units which participants can\r\nchoose, based on their progress and particular use cases:\r\n\r\n- OTP two-factor authentication\r\n- Advanced certificate management: profiles, sub-CAs and user\r\n  certificates\r\n- OpenSSH key management\r\n- Federated identity with Ipsilon\r\n- User self-service secret management\r\n- ...and more!\r\n\r\nIf you are planning to attend the workshop please note that *some preparation is strongly advised*.\r\n\r\nPreparation steps are outlined at\r\nhttps://github.com/freeipa/freeipa-workshop#preparation.\r\n\r\nIn brief, it amounts to \"install Vagrant and VirtualBox, and download the VM image\" so that you are ready to ``vagrant up`` at the start of the workshop.  The `libvirt' provider is also supported.", 
     "title": "Tutorial: Identity Management with FreeIPA", 
     "room": "D2.211"
   }, 
@@ -1342,11 +1342,11 @@
   {
     "start": "2016-02-02 11:15:00+11:00", 
     "end": "2016-02-02 11:30:00+11:00", 
-    "description": "Andrew Bartlett will present his semi-regular feature on Samba, giving an update on the status of the File, Print and Active Directory server.\r\nWith Samba 4.3 released and Samba 4.4 well in progress by the time linux.conf.au comes around, the pace of Samba releases is accellerating. Gone are the 15 month release cycles, but so gone is the 30-40 month support cycles that went with those.\r\nAndrew will encourage system administrators to keep with the current code, and provide some background on the challenges that has meant for package maintainers.\r\nOn the feature side, SMB3 and inter-forest trusts are the big talking points of recent Samba releases, and Andrew will go over the areas to watch out on.\r\nFinally, Andrew will give tales of Samba AD DC deployments: Samba4 really is gaining traction in real-world deployments!", 
-    "author": "Andrew Bartlett", 
-    "url": "http://linux.conf.au/schedule/30327/view_talk", 
-    "raw_description": "Andrew Bartlett will present his semi-regular feature on Samba, giving an update on the status of the File, Print and Active Directory server.\r\nWith Samba 4.3 released and Samba 4.4 well in progress by the time linux.conf.au comes around, the pace of Samba releases is accellerating. Gone are the 15 month release cycles, but so gone is the 30-40 month support cycles that went with those.\r\nAndrew will encourage system administrators to keep with the current code, and provide some background on the challenges that has meant for package maintainers.\r\nOn the feature side, SMB3 and inter-forest trusts are the big talking points of recent Samba releases, and Andrew will go over the areas to watch out on.\r\nFinally, Andrew will give tales of Samba AD DC deployments: Samba4 really is gaining traction in real-world deployments!", 
-    "title": "Samba Status update", 
+    "description": "Revisiting Unix principles for modern system automation by Martin Krafft", 
+    "author": "Martin Krafft", 
+    "url": "http://linux.conf.au/schedule/30392/view_talk", 
+    "raw_description": "Revisiting Unix principles for modern system automation by Martin Krafft", 
+    "title": "Revisiting Unix principles for modern systems automation", 
     "room": "Costa Hall"
   }, 
   {
@@ -1477,7 +1477,7 @@
     "url": "http://linux.conf.au/schedule/30340/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "Miniconf Open", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 10:50:00+11:00", 
@@ -1487,7 +1487,7 @@
     "url": "http://linux.conf.au/schedule/30341/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "A live demo of the CubicSDR open source SDR software", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 11:15:00+11:00", 
@@ -1497,7 +1497,7 @@
     "url": "http://linux.conf.au/schedule/30343/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "Cutdown!: HAB Telemetry System", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 11:40:00+11:00", 
@@ -1507,7 +1507,7 @@
     "url": "http://linux.conf.au/schedule/30342/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "All Your Modem are Belong To Us", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 12:00:00+11:00", 
@@ -1527,7 +1527,7 @@
     "url": "http://linux.conf.au/schedule/30345/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "Tutorial - Embedded sensor data with Lora radio modules", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 14:10:00+11:00", 
@@ -1537,7 +1537,7 @@
     "url": "http://linux.conf.au/schedule/30346/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "Using the OpenRadio as RF test equipment", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 14:40:00+11:00", 
@@ -1547,7 +1547,7 @@
     "url": "http://linux.conf.au/schedule/30347/view_talk", 
     "raw_description": "http://openradio.net.au/index.php/Main_Page#LCA_2016_Geelong", 
     "title": "Open Radio Miniconf Panel Discussion", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 15:40:00+11:00", 
@@ -1557,7 +1557,7 @@
     "url": "http://linux.conf.au/schedule/30348/view_talk", 
     "raw_description": "hands on demo, radio orienteering and more", 
     "title": "Open Radio Miniconf Field Day", 
-    "room": "D4.303 Costa Theatre"
+    "room": "D2.211"
   }, 
   {
     "start": "2016-02-02 10:40:00+11:00", 
@@ -1567,7 +1567,7 @@
     "url": "http://linux.conf.au/schedule/30349/view_talk", 
     "raw_description": "Open Knowledge Miniconf Opening", 
     "title": "Open Knowledge Miniconf Opening", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 11:05:00+11:00", 
@@ -1577,7 +1577,7 @@
     "url": "http://linux.conf.au/schedule/30350/view_talk", 
     "raw_description": "There's a lot to love about open knowledge and open technology, and the OpenTechSchool aims to exist at the nexus of these. We provide entry-level tech workshops that are free and open in every way we can imagine, down to the typeface in our logo. In this talk I'll give you a rundown of the way we work, what we've achieved globally over the last four years, and where we want to go with this in the future.\r\n\r\nFinally, I will provide a template for you to open your own chapter in your city, and add to our repository of open workshops with your own ideas. ", 
     "title": "Open Tech School - Open learning in practice", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 11:30:00+11:00", 
@@ -1587,7 +1587,7 @@
     "url": "http://linux.conf.au/schedule/30351/view_talk", 
     "raw_description": "Open data is cool, especially when it comes from government. What\u2019s even cooler than open data? Games. Games are cool. So why not combine them? This talk explores the potential for spreading the word about open data, as well as providing for deeper engagement with data, through game development. \r\n\r\nOpen data, such as that provided by many governments around the world[1] is cool. It\u2019s fantastic to see countries around the world opening as much as they can, allowing citizens and interested parties to build upon and enhance the myriad of interesting information collected by countries. There\u2019s a lot of people doing great work with this sort of data, but have to be pretty passionate, engaged, and motivated in order to get involved.\r\n\r\nWe found another way. For the last three years we\u2019ve been participating in hackathons and jams, and taking open (government) data and turning it into games.\r\n\r\nThis session explores why this is a good idea, and how you might want to do it to. We cover:\r\n\r\n    conceiving of game ideas based on \u2013 otherwise dry \u2013 open data sets (we once made a Pokemon-style battle game based on the energy efficiency data provided by the government energy regulator, it helped you figure out if your fridge was efficient by letting you battle it against other people\u2019s fridges);\r\n    preserving the spirit and meaning of the data in games you make with it;\r\n    tools for parsing and interpreting the data, and making it usable for your games (we\u2019re very good at Perl, Awk, Sed, and R now);\r\n    getting out and engaging people with your data-based games, and making sure people don\u2019t draw the wrong conclusions from what your game shows them (while still having fun \u2013 it is a game after all!)\r\n\r\nWe\u2019ve built games \u2013\u2013 often at GovHack[2] in Australia that do everything from turn your local politician\u2019s parliamentary voting history into a party game, to parsing and interpreting a giant database incorporating all the functional roles in a government, and turning it into a SpaceTeam style party game. We\u2019ll tell you how you can do the same thing in your community, how to make it engaging and meaningful, why you might want to do this, and how to get started.\r\n\r\n[1] e.g. data.gov, data.gov.au, data.gov.uk, and so many more!\r\n\r\n[2] http://www.govhack.org ", 
     "title": "Open Data + Video Games = Win", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 11:30:00+11:00", 
@@ -1600,16 +1600,6 @@
     "room": "Costa Hall"
   }, 
   {
-    "start": "2016-02-02 13:20:00+11:00", 
-    "end": "2016-02-02 13:45:00+11:00", 
-    "description": "Open data is great, Open data is amazing, but unless your users understand your data they can't use it.\r\n\r\nDo you share or would like to share open data? Is your data adjusted in anyway? Have you cleaned it or removed outliers? Have you added a random spatial offset to anonymise it? Have you used age adjustment, or seasonal adjustment to reveal underlying patterns? Do your users know that you have done this? Do your users need an advanced degree to understand your documentation? Would a journalist picking up you data be reasonably expected to understand what it is telling them without talking to you?\r\n\r\nAre there biases in your data? Are you catching every case or do you think that they are some cases that are not captured? Do your users understand how those missing cases and biases effect their use of your data?\r\n\r\nBased on my work in medical statistics, I will talk about how to share data with methods and documentation to make data relevant and results reproducible and accessible. In open source we know a lot about documentation, UX design, technical debt and onboarding time. I want to ask how we can apply these ideas to developing open data ", 
-    "author": "Rhydwyn Mcguire", 
-    "url": "http://linux.conf.au/schedule/30352/view_talk", 
-    "raw_description": "Open data is great, Open data is amazing, but unless your users understand your data they can't use it.\r\n\r\nDo you share or would like to share open data? Is your data adjusted in anyway? Have you cleaned it or removed outliers? Have you added a random spatial offset to anonymise it? Have you used age adjustment, or seasonal adjustment to reveal underlying patterns? Do your users know that you have done this? Do your users need an advanced degree to understand your documentation? Would a journalist picking up you data be reasonably expected to understand what it is telling them without talking to you?\r\n\r\nAre there biases in your data? Are you catching every case or do you think that they are some cases that are not captured? Do your users understand how those missing cases and biases effect their use of your data?\r\n\r\nBased on my work in medical statistics, I will talk about how to share data with methods and documentation to make data relevant and results reproducible and accessible. In open source we know a lot about documentation, UX design, technical debt and onboarding time. I want to ask how we can apply these ideas to developing open data ", 
-    "title": "Open information: Documenting data and methods ", 
-    "room": "D2.193 Percy Baxter"
-  }, 
-  {
     "start": "2016-02-02 13:45:00+11:00", 
     "end": "2016-02-02 14:10:00+11:00", 
     "description": "The Freedom of Information Act (Australia) and Official Information Act (New Zealand) are tools that allow members of the public and organisations extract documents and information - unless there is a good reason for it to stay secret. You'll learn what sorts of information you can and cannot request, how to do this, and the process requests go through. I'll also cover Alaveteli, an open-source software for making and managing FOI requests, and public implementations available in Australia and New Zealand. ", 
@@ -1617,7 +1607,7 @@
     "url": "http://linux.conf.au/schedule/30353/view_talk", 
     "raw_description": "The Freedom of Information Act (Australia) and Official Information Act (New Zealand) are tools that allow members of the public and organisations extract documents and information - unless there is a good reason for it to stay secret. You'll learn what sorts of information you can and cannot request, how to do this, and the process requests go through. I'll also cover Alaveteli, an open-source software for making and managing FOI requests, and public implementations available in Australia and New Zealand. ", 
     "title": "Prying Open Government - An Introduction to Freedom of Information", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 14:05:00+11:00", 
@@ -1637,7 +1627,7 @@
     "url": "http://linux.conf.au/schedule/30354/view_talk", 
     "raw_description": "With tens of millions of items in its collections, Internet Archive is one of the largest libraries in the world. It provides free and open access to all of its materials to anyone with an internet connection, making it a treasure trove for researchers, historians, and curious individuals.\r\n\r\nOf course, having a collection that large doesn\u2019t help anyone if it\u2019s difficult to access. To help with this, Internet Archive has released a number of open APIs and tools to allow people to upload and download items, as well as data mine the metadata for the entire collection.\r\n\r\nIn this session we will:\r\n\r\n    Give you a tour of Internet Archive and its collections\r\n    Introduce you to the APIs and tools you can use to access and contribute to the Archive\r\n    Show examples of how other people and institutions are using the Archive", 
     "title": " Internet Archive: Universal Access. Open APIs", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 15:40:00+11:00", 
@@ -1647,7 +1637,7 @@
     "url": "http://linux.conf.au/schedule/30355/view_talk", 
     "raw_description": "Demography is used by democratic governments to exercise control. Whatever results the administration and courts deem necessary to release to the public may be handy for civil society analysts and activists. However critical thinkers may disagree with many ways that governments classify and colonise the human experience. I will talk about the connection between open demography and governance. I will discuss the source of demographic methodologies. I will consider the prospects and pitfalls of open demography. ", 
     "title": "Prospects and pitfalls in open demography", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 16:30:00+11:00", 
@@ -1657,7 +1647,7 @@
     "url": "--", 
     "raw_description": "", 
     "title": "to be advised", 
-    "room": "D2.193 Percy Baxter"
+    "room": "D4.303 Costa Theatre"
   }, 
   {
     "start": "2016-02-02 16:30:00+11:00", 
@@ -1797,7 +1787,7 @@
     "url": "http://linux.conf.au/schedule/30366/view_talk", 
     "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Introductions", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-02 11:00:00+11:00", 
@@ -1807,7 +1797,7 @@
     "url": "http://linux.conf.au/schedule/30367/view_talk", 
     "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Set the Agenda", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-02 11:30:00+11:00", 
@@ -1827,7 +1817,7 @@
     "url": "http://linux.conf.au/schedule/30369/view_talk", 
     "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Group Discussions 1", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-02 14:15:00+11:00", 
@@ -1837,7 +1827,7 @@
     "url": "http://linux.conf.au/schedule/30370/view_talk", 
     "raw_description": "(This may merge into clsXlca Group Discussions 1 if consensus calls fo a longer discussion)\r\nhttps://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Group Discussions 2", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-02 15:40:00+11:00", 
@@ -1847,7 +1837,7 @@
     "url": "http://linux.conf.au/schedule/30371/view_talk", 
     "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Group Discussions 3", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-02 16:40:00+11:00", 
@@ -1857,7 +1847,7 @@
     "url": "http://linux.conf.au/schedule/30372/view_talk", 
     "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Groups report back", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-02 17:10:00+11:00", 
@@ -1867,7 +1857,7 @@
     "url": "http://linux.conf.au/schedule/30373/view_talk", 
     "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
     "title": "clsXlca Take-aways and close", 
-    "room": "D2.211"
+    "room": "D2.193 Percy Baxter"
   }, 
   {
     "start": "2016-02-01 10:40:00+11:00", 
@@ -2088,5 +2078,25 @@
     "raw_description": "", 
     "title": "Beginner's Session", 
     "room": "D2.194 Next to Percy Baxter"
+  }, 
+  {
+    "start": "2016-02-02 10:40:00+11:00", 
+    "end": "2016-02-02 10:45:00+11:00", 
+    "description": "https://linux.conf.au/wiki/CLSXLCA", 
+    "author": "Donna Benjamin", 
+    "url": "http://linux.conf.au/schedule/30365/view_talk", 
+    "raw_description": "https://linux.conf.au/wiki/CLSXLCA", 
+    "title": "clsXlca Opening", 
+    "room": "D2.193 Percy Baxter"
+  }, 
+  {
+    "start": "2016-02-02 13:20:00+11:00", 
+    "end": "2016-02-02 13:45:00+11:00", 
+    "description": "Open data is great, Open data is amazing, but unless your users understand your data they can't use it.\r\n\r\nDo you share or would like to share open data? Is your data adjusted in anyway? Have you cleaned it or removed outliers? Have you added a random spatial offset to anonymise it? Have you used age adjustment, or seasonal adjustment to reveal underlying patterns? Do your users know that you have done this? Do your users need an advanced degree to understand your documentation? Would a journalist picking up you data be reasonably expected to understand what it is telling them without talking to you?\r\n\r\nAre there biases in your data? Are you catching every case or do you think that they are some cases that are not captured? Do your users understand how those missing cases and biases effect their use of your data?\r\n\r\nBased on my work in medical statistics, I will talk about how to share data with methods and documentation to make data relevant and results reproducible and accessible. In open source we know a lot about documentation, UX design, technical debt and onboarding time. I want to ask how we can apply these ideas to developing open data ", 
+    "author": "Rhydwyn Mcguire", 
+    "url": "http://linux.conf.au/schedule/30352/view_talk", 
+    "raw_description": "Open data is great, Open data is amazing, but unless your users understand your data they can't use it.\r\n\r\nDo you share or would like to share open data? Is your data adjusted in anyway? Have you cleaned it or removed outliers? Have you added a random spatial offset to anonymise it? Have you used age adjustment, or seasonal adjustment to reveal underlying patterns? Do your users know that you have done this? Do your users need an advanced degree to understand your documentation? Would a journalist picking up you data be reasonably expected to understand what it is telling them without talking to you?\r\n\r\nAre there biases in your data? Are you catching every case or do you think that they are some cases that are not captured? Do your users understand how those missing cases and biases effect their use of your data?\r\n\r\nBased on my work in medical statistics, I will talk about how to share data with methods and documentation to make data relevant and results reproducible and accessible. In open source we know a lot about documentation, UX design, technical debt and onboarding time. I want to ask how we can apply these ideas to developing open data ", 
+    "title": "Open information: Documenting data and methods ", 
+    "room": "D4.303 Costa Theatre"
   }
 ]
