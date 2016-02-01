@@ -36,3 +36,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+
+Updating
+================
+```bash
+wget -o lca2016_raw.json https://linux.conf.au/programme/schedule/json 
+python lcaschedule_mangle < lca2016_raw.json > android/app/src/main/assets/schedule.json
+```
