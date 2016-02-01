@@ -1,5 +1,6 @@
-
 import datetime
+import json
+import sys
 
 def ours(d):
     dt = datetime.datetime.strptime(d["Start"], "%Y-%m-%d %H:%M:%S")
@@ -16,3 +17,9 @@ def ours(d):
 "start" : str(dt) + "+11:00",
 "end" : str(dt + delta) + "+11:00"
 }
+
+def main():
+    print json.dumps([ours(e) for e in json.load(sys.stdin)])
+
+if __name__ == "__main__":
+    main()
